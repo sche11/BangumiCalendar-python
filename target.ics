@@ -920,11 +920,11 @@ DTSTART;VALUE=DATE:20230410
 DTSTAMP;VALUE=DATE:20230410
 UID:365437-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n“只要有小曲在，就对上学抱有期待
- ，这是怎样的关系呢？”\n因失眠症而烦恼的高中生——
- 中见丸太，在准备文化祭时偷摸跑到作为储物间的天文
- 台，遇到了同样患有失眠症的曲伊咲。两人共享了这个
- 秘密场所……？
+DESCRIPTION:「能登星」\n\n\n“只要有小曲在，就对上学抱
+ 有期待，这是怎样的关系呢？”\n因失眠症而烦恼的高中
+ 生——中见丸太，在准备文化祭时偷摸跑到作为储物间
+ 的天文台，遇到了同样患有失眠症的曲伊咲。两人共享
+ 了这个秘密场所……？
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1073,6 +1073,20 @@ SUMMARY:放学后失眠的你 12
 DTSTART;VALUE=DATE:20230626
 DTSTAMP;VALUE=DATE:20230410
 UID:365437-12-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n“只要有小曲在，就对上学抱有期待
+ ，这是怎样的关系呢？”\n因失眠症而烦恼的高中生——
+ 中见丸太，在准备文化祭时偷摸跑到作为储物间的天文
+ 台，遇到了同样患有失眠症的曲伊咲。两人共享了这个
+ 秘密场所……？
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:放学后失眠的你 13
+DTSTART;VALUE=DATE:20230703
+DTSTAMP;VALUE=DATE:20230410
+UID:365437-13-522825
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n“只要有小曲在，就对上学抱有期待
  ，这是怎样的关系呢？”\n因失眠症而烦恼的高中生——
@@ -3101,11 +3115,11 @@ DTSTART;VALUE=DATE:20230410
 DTSTAMP;VALUE=DATE:20230410
 UID:408013-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n此処とは違う異世界――。\n歴戦の兵
- 士・『災厄潰し』と希代の死霊使い・『屍神殿』の、\n
- 世界と自身の生死を賭けた勝負が決した。\n――そして
- 、舞台は新宿へ。\n\n衝撃の異世界転生ノワールファン
- タジー、開幕!!
+DESCRIPTION:「The Reincarnation－转生－」\n\n\n此処とは違う異
+ 世界――。\n歴戦の兵士・『災厄潰し』と希代の死霊使
+ い・『屍神殿』の、\n世界と自身の生死を賭けた勝負が
+ 決した。\n――そして、舞台は新宿へ。\n\n衝撃の異世
+ 界転生ノワールファンタジー、開幕!!
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3115,11 +3129,11 @@ DTSTART;VALUE=DATE:20230417
 DTSTAMP;VALUE=DATE:20230410
 UID:408013-2-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n此処とは違う異世界――。\n歴戦の兵
- 士・『災厄潰し』と希代の死霊使い・『屍神殿』の、\n
- 世界と自身の生死を賭けた勝負が決した。\n――そして
- 、舞台は新宿へ。\n\n衝撃の異世界転生ノワールファン
- タジー、開幕!!
+DESCRIPTION:「The New World－异世界－」\n\n\n此処とは違う異
+ 世界――。\n歴戦の兵士・『災厄潰し』と希代の死霊使
+ い・『屍神殿』の、\n世界と自身の生死を賭けた勝負が
+ 決した。\n――そして、舞台は新宿へ。\n\n衝撃の異世
+ 界転生ノワールファンタジー、開幕!!
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -4028,12 +4042,12 @@ DTSTART;VALUE=DATE:20230415
 DTSTAMP;VALUE=DATE:20230410
 UID:368289-3-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nドラッケンが率いる火・風・水・土
- を操る4人の特殊部隊「エレメント４」がシキたちの前
- に立ちはだかり、ワイズやホムラが苦戦している様子
- が見て取れる。加えて、強者のオーラが溢れ出るドラ
- ッケンの「お前の冒険はここまでだ」のセリフの後に
- 、力尽きたよう
+DESCRIPTION:「吹拂樱宇宙的风」\n\n\nドラッケンが率いる
+ 火・風・水・土を操る4人の特殊部隊「エレメント４」
+ がシキたちの前に立ちはだかり、ワイズやホムラが苦
+ 戦している様子が見て取れる。加えて、強者のオーラ
+ が溢れ出るドラッケンの「お前の冒険はここまでだ」
+ のセリフの後に、力尽きたよう
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
