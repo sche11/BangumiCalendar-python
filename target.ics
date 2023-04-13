@@ -40,11 +40,12 @@ DTSTART;VALUE=DATE:20230420
 DTSTAMP;VALUE=DATE:20230413
 UID:381666-3-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n“欢迎光临，这里是咖啡店——莉贝
- 女子学院！”\n这里是虚构的大小姐学校，店员们演成清
- 爽美丽的姐妹（Schwestern），来接待客人们的沙龙。白木
- 阳芽平时运用演技，装出让人喜爱的样子，但她因故扮
- 演成莉贝女子学院的学生，在里面做服务员。在那里
+DESCRIPTION:「该相信什么才对呢？」\n\n\n“欢迎光临，这
+ 里是咖啡店——莉贝女子学院！”\n这里是虚构的大小姐
+ 学校，店员们演成清爽美丽的姐妹（Schwestern），来接待
+ 客人们的沙龙。白木阳芽平时运用演技，装出让人喜爱
+ 的样子，但她因故扮演成莉贝女子学院的学生，在里面
+ 做服务员。在那里
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2872,20 +2873,6 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【我推的孩子】 12
-DTSTART;VALUE=DATE:20230628
-DTSTAMP;VALUE=DATE:20230413
-UID:386809-12-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n“在演艺圈里，谎言就是武器。 ”\n
- 在小城市工作的妇产科医生・五郎，有一天他所推的偶
- 像“B小町”出现在了他的面前。“B小町”有着一个禁忌
- 的秘密。\n如此这般的两人实现了最糟糕的相遇，从此命
- 运的齿轮开始转动——
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:【我推的孩子】 0
 DTSTART;VALUE=DATE:20230219
 DTSTAMP;VALUE=DATE:20230413
@@ -3483,12 +3470,12 @@ DTSTART;VALUE=DATE:20230412
 DTSTAMP;VALUE=DATE:20230413
 UID:376703-2-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某一个午后。迎来暑假的橘爱丽丝，
- 进入了某个事务所的房间。在那里，她见到了年级和性
- 格都大相径庭的8位少女们。房间的名字是“第3艺能课”
- 。杂乱狭小的房间里，小小（149cm以下）的女孩子们怀揣
- 着梦想。我们作为偶像的故事，也从此开始了呢。接下
- 来登
+DESCRIPTION:「出门却要说我回来了的，是什么？」\n\n\n某
+ 一个午后。迎来暑假的橘爱丽丝，进入了某个事务所的
+ 房间。在那里，她见到了年级和性格都大相径庭的8位少
+ 女们。房间的名字是“第3艺能课”。杂乱狭小的房间里
+ ，小小（149cm以下）的女孩子们怀揣着梦想。我们作为偶
+ 像的故事，也从此开始了呢。接下来登
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3678,12 +3665,12 @@ DTSTART;VALUE=DATE:20230413
 DTSTAMP;VALUE=DATE:20230413
 UID:399820-2-522825
 CLASS:PUBLIC
-DESCRIPTION:「物以类聚1」\n\n\n不是全部。\n但是，智世接
- 受了艾利亚斯和她自己。\n在卡达飞尔斯睡着后恢复了日
- 常生活的她，收到了魔术师互助组织“学院”的邀请函
- ……\n大英图书馆的地下室……一个与以往不同的魔术师
- 们的世界。\n与“人”的相遇与交往，缓缓打开了新的门
- 扉。\n这
+DESCRIPTION:「物以类聚人以群分 1」\n\n\n不是全部。\n但是
+ ，智世接受了艾利亚斯和她自己。\n在卡达飞尔斯睡着后
+ 恢复了日常生活的她，收到了魔术师互助组织“学院”
+ 的邀请函……\n大英图书馆的地下室……一个与以往不同
+ 的魔术师们的世界。\n与“人”的相遇与交往，缓缓打开
+ 了新的门扉。\n这
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3693,11 +3680,12 @@ DTSTART;VALUE=DATE:20230420
 DTSTAMP;VALUE=DATE:20230413
 UID:399820-3-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n不是全部。\n但是，智世接受了艾利亚
- 斯和她自己。\n在卡达飞尔斯睡着后恢复了日常生活的她
- ，收到了魔术师互助组织“学院”的邀请函……\n大英图
- 书馆的地下室……一个与以往不同的魔术师们的世界。\n
- 与“人”的相遇与交往，缓缓打开了新的门扉。\n这
+DESCRIPTION:「物以类聚人以群分 2」\n\n\n不是全部。\n但是
+ ，智世接受了艾利亚斯和她自己。\n在卡达飞尔斯睡着后
+ 恢复了日常生活的她，收到了魔术师互助组织“学院”
+ 的邀请函……\n大英图书馆的地下室……一个与以往不同
+ 的魔术师们的世界。\n与“人”的相遇与交往，缓缓打开
+ 了新的门扉。\n这
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
