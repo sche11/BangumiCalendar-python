@@ -3415,12 +3415,12 @@ DTSTART;VALUE=DATE:20230423
 DTSTAMP;VALUE=DATE:20230419
 UID:380448-2-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nクラシック三冠レース『皐月賞』『
- 日本ダービー』『菊花賞』\n一生に一度だけ挑戦できる
- そのレースで勝つことは、\nすべてのウマ娘、すべての
- トレーナーにとっての夢である。\n\n『ナリタトップロ
- ード』『アドマイヤベガ』『テイエムオペラオー』三
- 強
+DESCRIPTION:「荣光的舞台」\n\n\nクラシック三冠レース『
+ 皐月賞』『日本ダービー』『菊花賞』\n一生に一度だけ
+ 挑戦できるそのレースで勝つことは、\nすべてのウマ娘
+ 、すべてのトレーナーにとっての夢である。\n\n『ナリ
+ タトップロード』『アドマイヤベガ』『テイエムオペ
+ ラオー』三強
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3640,11 +3640,333 @@ DTSTART;VALUE=DATE:20230419
 DTSTAMP;VALUE=DATE:20230419
 UID:325673-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「祭品与供奉之夜」\n\n\n作为异形眷属之王的
- 第99个祭品而被献上的少女——莎莉菲。\n她接受了自己
- 的命运，走向了活祭仪式。\n然而在那里，她却发现了谁
- 也不敢接近，被万众恐惧的国王“莱昂哈特”的真实一
- 面，并且被迎娶为妃子。
+DESCRIPTION:「活祭品与献祭之夜」\n\n\n作为异形眷属之王
+ 的第99个祭品而被献上的少女——莎莉菲。\n她接受了自
+ 己的命运，走向了活祭仪式。\n然而在那里，她却发现了
+ 谁也不敢接近，被万众恐惧的国王“莱昂哈特”的真实
+ 一面，并且被迎娶为妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 2
+DTSTART;VALUE=DATE:20230426
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-2-522825
+CLASS:PUBLIC
+DESCRIPTION:「熊蜂与贵族的宴会」\n\n\n作为异形眷属之王
+ 的第99个祭品而被献上的少女——莎莉菲。\n她接受了自
+ 己的命运，走向了活祭仪式。\n然而在那里，她却发现了
+ 谁也不敢接近，被万众恐惧的国王“莱昂哈特”的真实
+ 一面，并且被迎娶为妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 3
+DTSTART;VALUE=DATE:20230503
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-3-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 4
+DTSTART;VALUE=DATE:20230510
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-4-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 5
+DTSTART;VALUE=DATE:20230517
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-5-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 6
+DTSTART;VALUE=DATE:20230524
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-6-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 7
+DTSTART;VALUE=DATE:20230531
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-7-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 8
+DTSTART;VALUE=DATE:20230607
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-8-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 9
+DTSTART;VALUE=DATE:20230614
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-9-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 10
+DTSTART;VALUE=DATE:20230621
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-10-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 11
+DTSTART;VALUE=DATE:20230628
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-11-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 12
+DTSTART;VALUE=DATE:20230705
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-12-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 13
+DTSTART;VALUE=DATE:20230712
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-13-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 14
+DTSTART;VALUE=DATE:20230719
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-14-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 15
+DTSTART;VALUE=DATE:20230726
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-15-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 16
+DTSTART;VALUE=DATE:20230802
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-16-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 17
+DTSTART;VALUE=DATE:20230809
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-17-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 18
+DTSTART;VALUE=DATE:20230816
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-18-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 19
+DTSTART;VALUE=DATE:20230823
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-19-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 20
+DTSTART;VALUE=DATE:20230830
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-20-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 21
+DTSTART;VALUE=DATE:20230906
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-21-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 22
+DTSTART;VALUE=DATE:20230913
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-22-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 23
+DTSTART;VALUE=DATE:20230920
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-23-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:祭品公主与兽之王 24
+DTSTART;VALUE=DATE:20230927
+DTSTAMP;VALUE=DATE:20230419
+UID:325673-24-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为异形眷属之王的第99个祭品而被献
+ 上的少女——莎莉菲。\n她接受了自己的命运，走向了活
+ 祭仪式。\n然而在那里，她却发现了谁也不敢接近，被万
+ 众恐惧的国王“莱昂哈特”的真实一面，并且被迎娶为
+ 妃子。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3668,11 +3990,11 @@ DTSTART;VALUE=DATE:20230419
 DTSTAMP;VALUE=DATE:20230419
 UID:386809-2-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n“在演艺圈里，谎言就是武器。 ”\n
- 在小城市工作的妇产科医生・五郎，有一天他所推的偶
- 像“B小町”出现在了他的面前。“B小町”有着一个禁忌
- 的秘密。\n如此这般的两人实现了最糟糕的相遇，从此命
- 运的齿轮开始转动——
+DESCRIPTION:「第三个选择」\n\n\n“在演艺圈里，谎言就是
+ 武器。 ”\n在小城市工作的妇产科医生・五郎，有一天
+ 他所推的偶像“B小町”出现在了他的面前。“B小町”有
+ 着一个禁忌的秘密。\n如此这般的两人实现了最糟糕的相
+ 遇，从此命运的齿轮开始转动——
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -4206,12 +4528,12 @@ DTSTART;VALUE=DATE:20230422
 DTSTAMP;VALUE=DATE:20230419
 UID:368289-4-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nドラッケンが率いる火・風・水・土
- を操る4人の特殊部隊「エレメント４」がシキたちの前
- に立ちはだかり、ワイズやホムラが苦戦している様子
- が見て取れる。加えて、強者のオーラが溢れ出るドラ
- ッケンの「お前の冒険はここまでだ」のセリフの後に
- 、力尽きたよう
+DESCRIPTION:「29号」\n\n\nドラッケンが率いる火・風・水・
+ 土を操る4人の特殊部隊「エレメント４」がシキたちの
+ 前に立ちはだかり、ワイズやホムラが苦戦している様
+ 子が見て取れる。加えて、強者のオーラが溢れ出るド
+ ラッケンの「お前の冒険はここまでだ」のセリフの後
+ に、力尽きたよう
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
