@@ -997,83 +997,8 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:偶像大师 灰姑娘女孩 U149 8
-DTSTART;VALUE=DATE:20230524
-DTSTAMP;VALUE=DATE:20230510
-UID:376703-8-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某一个午后。迎来暑假的橘爱丽丝，
- 进入了某个事务所的房间。在那里，她见到了年级和性
- 格都大相径庭的8位少女们。房间的名字是“第3艺能课”
- 。杂乱狭小的房间里，小小（149cm以下）的女孩子们怀揣
- 着梦想。我们作为偶像的故事，也从此开始了呢。接下
- 来登
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:偶像大师 灰姑娘女孩 U149 9
-DTSTART;VALUE=DATE:20230531
-DTSTAMP;VALUE=DATE:20230510
-UID:376703-9-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某一个午后。迎来暑假的橘爱丽丝，
- 进入了某个事务所的房间。在那里，她见到了年级和性
- 格都大相径庭的8位少女们。房间的名字是“第3艺能课”
- 。杂乱狭小的房间里，小小（149cm以下）的女孩子们怀揣
- 着梦想。我们作为偶像的故事，也从此开始了呢。接下
- 来登
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:偶像大师 灰姑娘女孩 U149 10
-DTSTART;VALUE=DATE:20230607
-DTSTAMP;VALUE=DATE:20230510
-UID:376703-10-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某一个午后。迎来暑假的橘爱丽丝，
- 进入了某个事务所的房间。在那里，她见到了年级和性
- 格都大相径庭的8位少女们。房间的名字是“第3艺能课”
- 。杂乱狭小的房间里，小小（149cm以下）的女孩子们怀揣
- 着梦想。我们作为偶像的故事，也从此开始了呢。接下
- 来登
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:偶像大师 灰姑娘女孩 U149 11
-DTSTART;VALUE=DATE:20230614
-DTSTAMP;VALUE=DATE:20230510
-UID:376703-11-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某一个午后。迎来暑假的橘爱丽丝，
- 进入了某个事务所的房间。在那里，她见到了年级和性
- 格都大相径庭的8位少女们。房间的名字是“第3艺能课”
- 。杂乱狭小的房间里，小小（149cm以下）的女孩子们怀揣
- 着梦想。我们作为偶像的故事，也从此开始了呢。接下
- 来登
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:偶像大师 灰姑娘女孩 U149 12
-DTSTART;VALUE=DATE:20230621
-DTSTAMP;VALUE=DATE:20230510
-UID:376703-12-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某一个午后。迎来暑假的橘爱丽丝，
- 进入了某个事务所的房间。在那里，她见到了年级和性
- 格都大相径庭的8位少女们。房间的名字是“第3艺能课”
- 。杂乱狭小的房间里，小小（149cm以下）的女孩子们怀揣
- 着梦想。我们作为偶像的故事，也从此开始了呢。接下
- 来登
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:偶像大师 灰姑娘女孩 U149 0
-DTSTART;VALUE=DATE:20231025
+DTSTART;VALUE=DATE:20230524
 DTSTAMP;VALUE=DATE:20230510
 UID:376703-0-522825
 CLASS:PUBLIC
@@ -1714,11 +1639,11 @@ DTSTART;VALUE=DATE:20230510
 DTSTAMP;VALUE=DATE:20230510
 UID:386809-5-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n“在演艺圈里，谎言就是武器。 ”\n
- 在小城市工作的妇产科医生・五郎，有一天他所推的偶
- 像“B小町”出现在了他的面前。“B小町”有着一个禁忌
- 的秘密。\n如此这般的两人实现了最糟糕的相遇，从此命
- 运的齿轮开始转动——
+DESCRIPTION:「恋爱实境秀」\n\n\n“在演艺圈里，谎言就是
+ 武器。 ”\n在小城市工作的妇产科医生・五郎，有一天
+ 他所推的偶像“B小町”出现在了他的面前。“B小町”有
+ 着一个禁忌的秘密。\n如此这般的两人实现了最糟糕的相
+ 遇，从此命运的齿轮开始转动——
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
