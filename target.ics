@@ -343,11 +343,12 @@ DTSTART;VALUE=DATE:20230603
 DTSTAMP;VALUE=DATE:20230531
 UID:404804-10-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n2024年，世界发生了史无前例的灾难，
- 然后15年过去了。\n成为废墟的日本栖息着一种食人的怪
- 物（蛭子），人们艰难地生存着。\n在东京·中野经营万
- 事屋的的斩子接受了一个神秘女人的委托，“带这个孩
- 子去天国”。\n这个被留下的名叫真流的孩子说“天
+DESCRIPTION:「墙中镇」\n\n\n2024年，世界发生了史无前例的
+ 灾难，然后15年过去了。\n成为废墟的日本栖息着一种食
+ 人的怪物（蛭子），人们艰难地生存着。\n在东京·中野
+ 经营万事屋的的斩子接受了一个神秘女人的委托，“带
+ 这个孩子去天国”。\n这个被留下的名叫真流的孩子说“
+ 天
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1836,6 +1837,21 @@ SUMMARY:偶像大师 灰姑娘女孩 U149 8
 DTSTART;VALUE=DATE:20230531
 DTSTAMP;VALUE=DATE:20230531
 UID:376703-8-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n某一个午后。迎来暑假的橘爱丽丝，
+ 进入了某个事务所的房间。在那里，她见到了年级和性
+ 格都大相径庭的8位少女们。房间的名字是“第3艺能课”
+ 。杂乱狭小的房间里，小小（149cm以下）的女孩子们怀揣
+ 着梦想。我们作为偶像的故事，也从此开始了呢。接下
+ 来登
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:偶像大师 灰姑娘女孩 U149 9
+DTSTART;VALUE=DATE:20230607
+DTSTAMP;VALUE=DATE:20230531
+UID:376703-9-522825
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n某一个午后。迎来暑假的橘爱丽丝，
  进入了某个事务所的房间。在那里，她见到了年级和性
