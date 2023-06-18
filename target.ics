@@ -5,6 +5,51 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
+SUMMARY:皇家国教骑士团 OVA 5
+DTSTART;VALUE=DATE:20081121
+DTSTAMP;VALUE=DATE:20230618
+UID:493-5-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n在一次对治某村庄食尸鬼的超自然事
+ 件时，平凡女警女警西洛斯·维多利亚遭到袭击，奄奄一
+ 息，关键时刻吸血鬼杀手阿尔卡特出现，铲除食尸鬼，
+ 并将西洛斯变成了吸血鬼的一员，她顺理成章也接触到
+ 了阿尔卡特背后的神秘组织，即为维护英国基督新教、
+ 与反基督怪物作
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:皇家国教骑士团 OVA 7
+DTSTART;VALUE=DATE:20091223
+DTSTAMP;VALUE=DATE:20230618
+UID:493-7-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n在一次对治某村庄食尸鬼的超自然事
+ 件时，平凡女警女警西洛斯·维多利亚遭到袭击，奄奄一
+ 息，关键时刻吸血鬼杀手阿尔卡特出现，铲除食尸鬼，
+ 并将西洛斯变成了吸血鬼的一员，她顺理成章也接触到
+ 了阿尔卡特背后的神秘组织，即为维护英国基督新教、
+ 与反基督怪物作
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:皇家国教骑士团 OVA 10
+DTSTART;VALUE=DATE:20121226
+DTSTAMP;VALUE=DATE:20230618
+UID:493-10-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n在一次对治某村庄食尸鬼的超自然事
+ 件时，平凡女警女警西洛斯·维多利亚遭到袭击，奄奄一
+ 息，关键时刻吸血鬼杀手阿尔卡特出现，铲除食尸鬼，
+ 并将西洛斯变成了吸血鬼的一员，她顺理成章也接触到
+ 了阿尔卡特背后的神秘组织，即为维护英国基督新教、
+ 与反基督怪物作
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:四叠半神话大系 2
 DTSTART;VALUE=DATE:20100429
 DTSTAMP;VALUE=DATE:20230618
