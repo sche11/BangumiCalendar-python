@@ -1826,12 +1826,12 @@ DTSTART;VALUE=DATE:20230709
 DTSTAMP;VALUE=DATE:20230710
 UID:390794-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n霊媒体質の幻燈河螢多朗（げんとう
- が　けいたろう）は、かつて霊障を受け、友人を巻き
- 込んで以来引きこもりに。社会復帰すべく家庭教師を
- 始めたところに、不思議な瞳を持つ少女・寶月夜宵（
- ほうづき　やよい）と出会う。母親を悪霊に連れ去ら
- れた夜宵は、手が
+DESCRIPTION:「宝月夜宵」\n\n\n霊媒体質の幻燈河螢多朗（
+ げんとうが　けいたろう）は、かつて霊障を受け、友
+ 人を巻き込んで以来引きこもりに。社会復帰すべく家
+ 庭教師を始めたところに、不思議な瞳を持つ少女・寶
+ 月夜宵（ほうづき　やよい）と出会う。母親を悪霊に
+ 連れ去られた夜宵は、手が
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3961,6 +3961,18 @@ DESCRIPTION:「牢骚闪亮」\n\n\n在天堂和地狱的裂缝之间有
  恶灵（Ghost）”的袭击。\n腐蚀人心的黑暗，至今仍在悄
  悄地侵蚀这个城市，有人正试图以超自然力，消灭这些
  由欲望产生的恶灵，担负了这驱逐黑暗的使命。\n因
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:长安三万里 1
+DTSTART;VALUE=DATE:20230708
+DTSTAMP;VALUE=DATE:20230710
+UID:397534-1-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n安史之乱后数年，吐蕃大军入侵西南
+ ，大唐节度使高适交战不利。长安岌岌可危。困守孤城
+ 的高适向监军太监回忆起自己与李白的一生往事。\n
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
