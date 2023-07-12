@@ -560,6 +560,21 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:不死少女 杀人笑剧 13
+DTSTART;VALUE=DATE:20230927
+DTSTAMP;VALUE=DATE:20230712
+UID:425591-13-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n吸血鬼及人造人、怪盗、狼人、开膛
+ 手，还有名侦探。异形蠢动的十九世纪末欧洲，人类亲
+ 和派的吸血鬼遭到银桩贯穿虐杀死亡。找来解决此案的
+ ，是专门处理人类避之唯恐不及的「怪物案件」的专门
+ 侦探轮堂鸦夜，以及带着奇怪鸟笼的男人真打津轻。他
+ 们从留存的线索和
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:僵尸百分百～在成为僵尸前要做的100件事～ 1
 DTSTART;VALUE=DATE:20230709
 DTSTAMP;VALUE=DATE:20230712
@@ -749,11 +764,12 @@ DTSTART;VALUE=DATE:20230718
 DTSTAMP;VALUE=DATE:20230712
 UID:369784-2-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔界のとある国。\n\n一人の勇者の手
- によって魔王が倒され、新魔王の座をかけた競技会が
- 開かれることとなった。\n\n大会責任者の帝国四天王ヴ
- ァミリオは、敵であるはずの人間の勇者ヘルクの参加
- に激怒する。\n\n決勝戦を前に魔王ウルムの城が陥落
+DESCRIPTION:「运营人员 安」\n\n\n魔界のとある国。\n\n一人
+ の勇者の手によって魔王が倒され、新魔王の座をかけ
+ た競技会が開かれることとなった。\n\n大会責任者の帝
+ 国四天王ヴァミリオは、敵であるはずの人間の勇者ヘ
+ ルクの参加に激怒する。\n\n決勝戦を前に魔王ウルムの
+ 城が陥落
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
