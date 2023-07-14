@@ -1253,6 +1253,20 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 13
+DTSTART;VALUE=DATE:20230924
+DTSTAMP;VALUE=DATE:20230714
+UID:373247-13-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n「俺は、この異世界で本気だす！」\n
+ 34歳・童貞・無職の引きこもりニート男。\n両親の葬儀
+ の日に家を追い出された瞬間、\nトラックに轢かれ命を
+ 落としてしまう。\n目覚めると、なんと剣と魔法の\n異
+ 世界で赤ん坊に生まれ変わっていた！\nゴミク
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:英雄教室 1
 DTSTART;VALUE=DATE:20230709
 DTSTAMP;VALUE=DATE:20230714
@@ -2039,11 +2053,12 @@ DTSTART;VALUE=DATE:20230712
 DTSTAMP;VALUE=DATE:20230714
 UID:426815-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n天空カジノで摘発された硬貨型爆弾
- 。\nその１枚が街で爆発し、混乱の中で終末が幕を開け
- た。\n卑劣なる賊の名は――《武装探偵社》。\n\n《天
- 人五衰》の張り巡らせた醜悪な罠に掛かった中島敦た
- ちは、\n現実を改変する「頁」の力によって、\n世界
+DESCRIPTION:「最强的男人」\n\n\n天空カジノで摘発された
+ 硬貨型爆弾。\nその１枚が街で爆発し、混乱の中で終末
+ が幕を開けた。\n卑劣なる賊の名は――《武装探偵社》
+ 。\n\n《天人五衰》の張り巡らせた醜悪な罠に掛かった
+ 中島敦たちは、\n現実を改変する「頁」の力によって、
+ \n世界
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2820,11 +2835,11 @@ DTSTART;VALUE=DATE:20230721
 DTSTAMP;VALUE=DATE:20230714
 UID:410203-3-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nこれは、私たちの未来の物語 ――。\
- n\n21世紀に始まったAIの圧倒的な進歩は、社会の発展に
- 寄与する一方、\n高い知性を持つ機械を道具として使う
- 是非を、人類に突きつけた。\n\nそして22世紀後半。人
- 々は「産業AI」とは別格の存在として、
+DESCRIPTION:「心之所在」\n\n\nこれは、私たちの未来の物
+ 語 ――。\n\n21世紀に始まったAIの圧倒的な進歩は、社
+ 会の発展に寄与する一方、\n高い知性を持つ機械を道具
+ として使う是非を、人類に突きつけた。\n\nそして22世
+ 紀後半。人々は「産業AI」とは別格の存在として、
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
