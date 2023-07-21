@@ -866,6 +866,22 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:不死少女 杀人笑剧 0
+DTSTART;VALUE=DATE:20230720
+DTSTAMP;VALUE=DATE:20230721
+UID:425591-0-522825
+CLASS:PUBLIC
+DESCRIPTION:「广播剧二十席目「暑假的回忆是什么？」」\n
+ \n\n吸血鬼及人造人、怪盗、狼人、开膛手，还有名侦探
+ 。异形蠢动的十九世纪末欧洲，人类亲和派的吸血鬼遭
+ 到银桩贯穿虐杀死亡。找来解决此案的，是专门处理人
+ 类避之唯恐不及的「怪物案件」的专门侦探轮堂鸦夜，
+ 以及带着奇怪鸟笼的男人真打津轻。他们从留存的线索
+ 和
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:僵尸百分百～在成为僵尸前要做的100件事～ 1
 DTSTART;VALUE=DATE:20230709
 DTSTAMP;VALUE=DATE:20230721
@@ -3317,12 +3333,12 @@ DTSTART;VALUE=DATE:20230728
 DTSTAMP;VALUE=DATE:20230721
 UID:362006-4-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n舞台は名門キンバリー魔法学校。\nこ
- こでは卒業までに２割の生徒が、再起不能や行方知れ
- ず、または発狂した末に死に至る。\nいわゆる、“魔に
- 呑まれる” という——。\n春、キンバリーにオリバー
- ＝ホーンが入学する。穏やかで理性的だが、そこはか
- とな
+DESCRIPTION:「圆形斗技场」\n\n\n舞台は名門キンバリー魔
+ 法学校。\nここでは卒業までに２割の生徒が、再起不能
+ や行方知れず、または発狂した末に死に至る。\nいわゆ
+ る、“魔に呑まれる” という——。\n春、キンバリー
+ にオリバー＝ホーンが入学する。穏やかで理性的だが
+ 、そこはかとな
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3847,11 +3863,12 @@ DTSTART;VALUE=DATE:20230720
 DTSTAMP;VALUE=DATE:20230721
 UID:428735-6-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n「一生、バンドしてくれる？」\n\n高1
- の春の終わり。羽丘女子学園では誰も彼もがバンドを
- しており、\n遅れて入学した愛音も早くクラスに馴染め
- るよう、急いでバンドメンバーを探す。\nそんな中、「
- 羽丘の不思議ちゃん」である燈がまだバンドを組んで
+DESCRIPTION:「怎么事到如今」\n\n\n「一生、バンドしてく
+ れる？」\n\n高1の春の終わり。羽丘女子学園では誰も彼
+ もがバンドをしており、\n遅れて入学した愛音も早くク
+ ラスに馴染めるよう、急いでバンドメンバーを探す。\n
+ そんな中、「羽丘の不思議ちゃん」である燈がまだバ
+ ンドを組んで
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
