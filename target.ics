@@ -429,12 +429,12 @@ DTSTART;VALUE=DATE:20230726
 DTSTAMP;VALUE=DATE:20230724
 UID:425591-4-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n吸血鬼及人造人、怪盗、狼人、开膛
- 手，还有名侦探。异形蠢动的十九世纪末欧洲，人类亲
- 和派的吸血鬼遭到银桩贯穿虐杀死亡。找来解决此案的
- ，是专门处理人类避之唯恐不及的「怪物案件」的专门
- 侦探轮堂鸦夜，以及带着奇怪鸟笼的男人真打津轻。他
- 们从留存的线索和
+DESCRIPTION:「真打登场」\n\n\n吸血鬼及人造人、怪盗、狼
+ 人、开膛手，还有名侦探。异形蠢动的十九世纪末欧洲
+ ，人类亲和派的吸血鬼遭到银桩贯穿虐杀死亡。找来解
+ 决此案的，是专门处理人类避之唯恐不及的「怪物案件
+ 」的专门侦探轮堂鸦夜，以及带着奇怪鸟笼的男人真打
+ 津轻。他们从留存的线索和
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -881,6 +881,22 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:不死少女 杀人笑剧 0
+DTSTART;VALUE=DATE:20230724
+DTSTAMP;VALUE=DATE:20230724
+UID:425591-0-522825
+CLASS:PUBLIC
+DESCRIPTION:「广播剧二十一席目「知名保险机构路易斯的
+ 商业广告」」\n\n\n吸血鬼及人造人、怪盗、狼人、开膛
+ 手，还有名侦探。异形蠢动的十九世纪末欧洲，人类亲
+ 和派的吸血鬼遭到银桩贯穿虐杀死亡。找来解决此案的
+ ，是专门处理人类避之唯恐不及的「怪物案件」的专门
+ 侦探轮堂鸦夜，以及带着奇怪鸟笼的男人真打津轻。他
+ 们从留存的线索和
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:勇者赫鲁库 1
 DTSTART;VALUE=DATE:20230711
 DTSTAMP;VALUE=DATE:20230724
@@ -1255,7 +1271,7 @@ DTSTART;VALUE=DATE:20230723
 DTSTAMP;VALUE=DATE:20230724
 UID:350523-3-522825
 CLASS:PUBLIC
-DESCRIPTION:「库夫林」\n\n\n世界を苦しめる強大な魔王と
+DESCRIPTION:「库邱林」\n\n\n世界を苦しめる強大な魔王と
  互角の戦いを繰り広げ、\n痛み分けによって人類を救っ
  た勇者がいた――その名はブレイド。\n幼い頃から勇者
  としての素質を認められ、誰もが憧れる存在であった
