@@ -944,6 +944,22 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:不死少女 杀人笑剧 0
+DTSTART;VALUE=DATE:20230807
+DTSTAMP;VALUE=DATE:20230807
+UID:425591-0-522825
+CLASS:PUBLIC
+DESCRIPTION:「广播剧二十五席目（最终回）「静句的小心
+ 思」」\n\n\n吸血鬼及人造人、怪盗、狼人、开膛手，还
+ 有名侦探。异形蠢动的十九世纪末欧洲，人类亲和派的
+ 吸血鬼遭到银桩贯穿虐杀死亡。找来解决此案的，是专
+ 门处理人类避之唯恐不及的「怪物案件」的专门侦探轮
+ 堂鸦夜，以及带着奇怪鸟笼的男人真打津轻。他们从留
+ 存的线索和
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:勇者赫鲁库 1
 DTSTART;VALUE=DATE:20230711
 DTSTAMP;VALUE=DATE:20230807
@@ -1365,11 +1381,12 @@ DTSTART;VALUE=DATE:20230813
 DTSTAMP;VALUE=DATE:20230807
 UID:350523-6-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n世界を苦しめる強大な魔王と互角の
- 戦いを繰り広げ、\n痛み分けによって人類を救った勇者
- がいた――その名はブレイド。\n幼い頃から勇者として
- の素質を認められ、誰もが憧れる存在であった。\nだが
- 、ブレイドは魔王との戦いのあと、\nダメージによって
+DESCRIPTION:「将军和怪鸟」\n\n\n世界を苦しめる強大な魔
+ 王と互角の戦いを繰り広げ、\n痛み分けによって人類を
+ 救った勇者がいた――その名はブレイド。\n幼い頃から
+ 勇者としての素質を認められ、誰もが憧れる存在であ
+ った。\nだが、ブレイドは魔王との戦いのあと、\nダメ
+ ージによって
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
