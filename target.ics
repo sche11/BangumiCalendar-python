@@ -70,12 +70,12 @@ DTSTART;VALUE=DATE:20230809
 DTSTAMP;VALUE=DATE:20230810
 UID:387822-5-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某国的教会住着长相可爱但有着懒洋
- 洋小毛病的圣女——塞西莉亚，以及外表严肃却十分温
- 柔，对圣女过度保护、家务全能的牧师——劳伦斯，两
- 人一起度过的每一天，无时无刻都在不自觉地放闪。\n圣
- 女×牧师×同居=奇迹般令人心焦！在幻想世界中展开的“
- 不自觉的
+DESCRIPTION:「第一次的出差」\n\n\n某国的教会住着长相可
+ 爱但有着懒洋洋小毛病的圣女——塞西莉亚，以及外表
+ 严肃却十分温柔，对圣女过度保护、家务全能的牧师—
+ —劳伦斯，两人一起度过的每一天，无时无刻都在不自
+ 觉地放闪。\n圣女×牧师×同居=奇迹般令人心焦！在幻想
+ 世界中展开的“不自觉的
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -474,12 +474,12 @@ DTSTART;VALUE=DATE:20230816
 DTSTAMP;VALUE=DATE:20230810
 UID:425591-7-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n吸血鬼及人造人、怪盗、狼人、开膛
- 手，还有名侦探。异形蠢动的十九世纪末欧洲，人类亲
- 和派的吸血鬼遭到银桩贯穿虐杀死亡。找来解决此案的
- ，是专门处理人类避之唯恐不及的「怪物案件」的专门
- 侦探轮堂鸦夜，以及带着奇怪鸟笼的男人真打津轻。他
- 们从留存的线索和
+DESCRIPTION:「混战游戏」\n\n\n吸血鬼及人造人、怪盗、狼
+ 人、开膛手，还有名侦探。异形蠢动的十九世纪末欧洲
+ ，人类亲和派的吸血鬼遭到银桩贯穿虐杀死亡。找来解
+ 决此案的，是专门处理人类避之唯恐不及的「怪物案件
+ 」的专门侦探轮堂鸦夜，以及带着奇怪鸟笼的男人真打
+ 津轻。他们从留存的线索和
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1583,11 +1583,12 @@ DTSTART;VALUE=DATE:20230809
 DTSTAMP;VALUE=DATE:20230810
 UID:426815-5-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n天空カジノで摘発された硬貨型爆弾
- 。\nその１枚が街で爆発し、混乱の中で終末が幕を開け
- た。\n卑劣なる賊の名は――《武装探偵社》。\n\n《天
- 人五衰》の張り巡らせた醜悪な罠に掛かった中島敦た
- ちは、\n現実を改変する「頁」の力によって、\n世界
+DESCRIPTION:「在机场（其一）」\n\n\n天空カジノで摘発さ
+ れた硬貨型爆弾。\nその１枚が街で爆発し、混乱の中で
+ 終末が幕を開けた。\n卑劣なる賊の名は――《武装探偵
+ 社》。\n\n《天人五衰》の張り巡らせた醜悪な罠に掛か
+ った中島敦たちは、\n現実を改変する「頁」の力によっ
+ て、\n世界
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2364,45 +2365,45 @@ DTSTART;VALUE=DATE:20230818
 DTSTAMP;VALUE=DATE:20230810
 UID:410203-7-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nこれは、私たちの未来の物語 ――。\
- n\n21世紀に始まったAIの圧倒的な進歩は、社会の発展に
- 寄与する一方、\n高い知性を持つ機械を道具として使う
- 是非を、人類に突きつけた。\n\nそして22世紀後半。人
- 々は「産業AI」とは別格の存在として、
+DESCRIPTION:「人类」\n\n\nこれは、私たちの未来の物語 ―
+ ―。\n\n21世紀に始まったAIの圧倒的な進歩は、社会の発
+ 展に寄与する一方、\n高い知性を持つ機械を道具として
+ 使う是非を、人類に突きつけた。\n\nそして22世紀後半
+ 。人々は「産業AI」とは別格の存在として、
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AI电子基因 8
-DTSTART;VALUE=DATE:20230825
+DTSTART;VALUE=DATE:20230901
 DTSTAMP;VALUE=DATE:20230810
 UID:410203-8-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nこれは、私たちの未来の物語 ――。\
- n\n21世紀に始まったAIの圧倒的な進歩は、社会の発展に
- 寄与する一方、\n高い知性を持つ機械を道具として使う
- 是非を、人類に突きつけた。\n\nそして22世紀後半。人
- 々は「産業AI」とは別格の存在として、
+DESCRIPTION:「告白」\n\n\nこれは、私たちの未来の物語 ―
+ ―。\n\n21世紀に始まったAIの圧倒的な進歩は、社会の発
+ 展に寄与する一方、\n高い知性を持つ機械を道具として
+ 使う是非を、人類に突きつけた。\n\nそして22世紀後半
+ 。人々は「産業AI」とは別格の存在として、
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AI电子基因 9
-DTSTART;VALUE=DATE:20230901
+DTSTART;VALUE=DATE:20230908
 DTSTAMP;VALUE=DATE:20230810
 UID:410203-9-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nこれは、私たちの未来の物語 ――。\
- n\n21世紀に始まったAIの圧倒的な進歩は、社会の発展に
- 寄与する一方、\n高い知性を持つ機械を道具として使う
- 是非を、人類に突きつけた。\n\nそして22世紀後半。人
- 々は「産業AI」とは別格の存在として、
+DESCRIPTION:「正确的社会」\n\n\nこれは、私たちの未来の
+ 物語 ――。\n\n21世紀に始まったAIの圧倒的な進歩は、
+ 社会の発展に寄与する一方、\n高い知性を持つ機械を道
+ 具として使う是非を、人類に突きつけた。\n\nそして22
+ 世紀後半。人々は「産業AI」とは別格の存在として、
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AI电子基因 10
-DTSTART;VALUE=DATE:20230908
+DTSTART;VALUE=DATE:20230915
 DTSTAMP;VALUE=DATE:20230810
 UID:410203-10-522825
 CLASS:PUBLIC
@@ -2416,7 +2417,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AI电子基因 11
-DTSTART;VALUE=DATE:20230915
+DTSTART;VALUE=DATE:20230922
 DTSTAMP;VALUE=DATE:20230810
 UID:410203-11-522825
 CLASS:PUBLIC
@@ -2430,7 +2431,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AI电子基因 12
-DTSTART;VALUE=DATE:20230922
+DTSTART;VALUE=DATE:20230929
 DTSTAMP;VALUE=DATE:20230810
 UID:410203-12-522825
 CLASS:PUBLIC
@@ -2930,6 +2931,20 @@ SUMMARY:BanG Dream! It's MyGO!!!!! 12
 DTSTART;VALUE=DATE:20230907
 DTSTAMP;VALUE=DATE:20230810
 UID:428735-12-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n「一生、バンドしてくれる？」\n\n高1
+ の春の終わり。羽丘女子学園では誰も彼もがバンドを
+ しており、\n遅れて入学した愛音も早くクラスに馴染め
+ るよう、急いでバンドメンバーを探す。\nそんな中、「
+ 羽丘の不思議ちゃん」である燈がまだバンドを組んで
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BanG Dream! It's MyGO!!!!! 13
+DTSTART;VALUE=DATE:20230914
+DTSTAMP;VALUE=DATE:20230810
+UID:428735-13-522825
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「一生、バンドしてくれる？」\n\n高1
  の春の終わり。羽丘女子学園では誰も彼もがバンドを
