@@ -173,6 +173,20 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:赛马娘 Pretty Derby 第三季 13
+DTSTART;VALUE=DATE:20231227
+DTSTAMP;VALUE=DATE:20231004
+UID:407332-13-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nまた次の夢へ——\n\n同じ景色を夢見
+ て\n憧れの背中に追いつけると信じ、走り続ける\nキタ
+ サンブラック\n\n一族の期待を背に\nサトノ家のチーム
+ 〈カペラ〉で悲願のGI制覇へ挑む\nサトノダイヤモンド\
+ n\nいつも一緒だった二人は\n新た
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:火鸟  伊甸之宙 1
 DTSTART;VALUE=DATE:20230913
 DTSTAMP;VALUE=DATE:20231004
@@ -1078,7 +1092,7 @@ DTSTART;VALUE=DATE:20231004
 DTSTAMP;VALUE=DATE:20231004
 UID:419846-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「无法都市」\n\n\n接下来的舞台是由“血之女
+DESCRIPTION:「不法之城」\n\n\n接下来的舞台是由“血之女
  王”、“妖狐”、“暴君”三势力统治的无法都市。\n那
  里是无赖横行、弱肉强食的世界。为了讨伐吸血鬼们的
  支配者“血之女王”被姐姐克莱儿带走的希德，因为有
