@@ -478,11 +478,12 @@ DTSTART;VALUE=DATE:20231015
 DTSTAMP;VALUE=DATE:20231015
 UID:390980-3-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n你是为了什么而玩游戏的？\n如果世上
- 有100部神作，那么也存在着1000部粪作。这是喜爱粪作，
- 同时也被粪作所爱的男人“阳务乐郎”，向粪作的对立
- 面——神作「香格里拉边境」发起挑战的故事。\n原作网
- 络小说的总阅览数超过5亿，并少见的跳过书籍出版
+DESCRIPTION:「黒狼夜襲」\n\n\n你是为了什么而玩游戏的？\n
+ 如果世上有100部神作，那么也存在着1000部粪作。这是喜
+ 爱粪作，同时也被粪作所爱的男人“阳务乐郎”，向粪
+ 作的对立面——神作「香格里拉边境」发起挑战的故事
+ 。\n原作网络小说的总阅览数超过5亿，并少见的跳过书
+ 籍出版
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -792,6 +793,21 @@ SUMMARY:香格里拉·弗陇提亚～屎作猎人向神作发起挑战～
 DTSTART;VALUE=DATE:20240310
 DTSTAMP;VALUE=DATE:20231015
 UID:390980-24-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n你是为了什么而玩游戏的？\n如果世上
+ 有100部神作，那么也存在着1000部粪作。这是喜爱粪作，
+ 同时也被粪作所爱的男人“阳务乐郎”，向粪作的对立
+ 面——神作「香格里拉边境」发起挑战的故事。\n原作网
+ 络小说的总阅览数超过5亿，并少见的跳过书籍出版
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:香格里拉·弗陇提亚～屎作猎人向神作发起挑战～ 
+ 25
+DTSTART;VALUE=DATE:20240317
+DTSTAMP;VALUE=DATE:20231015
+UID:390980-25-522825
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n你是为了什么而玩游戏的？\n如果世上
  有100部神作，那么也存在着1000部粪作。这是喜爱粪作，
