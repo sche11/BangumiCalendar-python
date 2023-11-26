@@ -48,36 +48,6 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:新世纪福音战士剧场版 Air/真心为你 1
-DTSTART;VALUE=DATE:19970719
-DTSTAMP;VALUE=DATE:20231126
-UID:6049-1-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n　　神秘的EVA零号机驾驶员绫波丽，
- 在与碇元度约定之时，来到了NERV底层中央教条的红色水
- 池边。她的命运似乎就将在此结束。\n　　在危急时刻，
- 葛城美里不但要完成加持良治交待的对“第二次浩劫”
- 真相以及“人类补完计划”的探查工作，还要保护碇真
- 嗣
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:新世纪福音战士剧场版 Air/真心为你 2
-DTSTART;VALUE=DATE:19970719
-DTSTAMP;VALUE=DATE:20231126
-UID:6049-2-522825
-CLASS:PUBLIC
-DESCRIPTION:「真心为你」\n\n\n　　神秘的EVA零号机驾驶员
- 绫波丽，在与碇元度约定之时，来到了NERV底层中央教条
- 的红色水池边。她的命运似乎就将在此结束。\n　　在危
- 急时刻，葛城美里不但要完成加持良治交待的对“第二
- 次浩劫”真相以及“人类补完计划”的探查工作，还要
- 保护碇真嗣
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:葬送的芙莉莲 1
 DTSTART;VALUE=DATE:20230929
 DTSTAMP;VALUE=DATE:20231126
@@ -1731,11 +1701,12 @@ DTSTART;VALUE=DATE:20231202
 DTSTAMP;VALUE=DATE:20231126
 UID:411427-9-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n人はみな　誰にも見せぬ自分を　持
- っている――\n\n世界各国が水面下で熾烈な情報戦を繰
- り広げていた時代。\n東国（オスタニア）と西国（ウェ
- スタリス）は、十数年間にわたる冷戦状態にあった。\n
- \n西国の情報局対東課〈WISE（ワイズ）〉所属で
+DESCRIPTION:「维系未来的手」\n\n\n人はみな　誰にも見せ
+ ぬ自分を　持っている――\n\n世界各国が水面下で熾烈
+ な情報戦を繰り広げていた時代。\n東国（オスタニア）
+ と西国（ウェスタリス）は、十数年間にわたる冷戦状
+ 態にあった。\n\n西国の情報局対東課〈WISE（ワイズ）〉
+ 所属で
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
