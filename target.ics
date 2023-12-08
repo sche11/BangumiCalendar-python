@@ -5,6 +5,36 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
+SUMMARY:剧场版 Fate/stay night [Heaven's Feel] III.spring song 1
+DTSTART;VALUE=DATE:20200815
+DTSTAMP;VALUE=DATE:20231208
+UID:175600-1-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n“因为我决定，要成为樱的正义伙伴
+ 。”\n少年已无法逃避事实，这是为了拯救少女，也是为
+ 了贯彻自己选择的正义。\n\n围绕着能够实现任何愿望的
+ “圣杯”，魔术师（御主）与英灵（从者）所展开的“
+ 圣杯战争”经已扭曲。间桐樱与所犯下的罪孽，一同沉
+ 溺在无
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:剧场版 Fate/stay night [Heaven's Feel] II.lost butterfly 1
+DTSTART;VALUE=DATE:20190112
+DTSTAMP;VALUE=DATE:20231208
+UID:175599-1-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n俺の戦うべき相手は――まだこの街
+ にいる。少年は選んだ、自分の信念を。そして、少女
+ を守ることを。\n魔術師〈マスター〉と英霊〈サーヴァ
+ ント〉 が願望機「聖杯」をめぐり戦う――「聖杯戦争
+ 」。10年ぶりに冬木市で始まった戦争は、「聖杯戦争」
+ の御三
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:葬送的芙莉莲 1
 DTSTART;VALUE=DATE:20230929
 DTSTAMP;VALUE=DATE:20231208
@@ -220,12 +250,12 @@ DTSTART;VALUE=DATE:20231215
 DTSTAMP;VALUE=DATE:20231208
 UID:400602-15-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔法使芙莉莲和勇者辛美尔等人一起
- ，历经十年的冒险之后击败了魔王，为世界带来了和平
- 。\n身为能活上一千多年的精灵族，她于是和辛美尔等人
- 约定再次相见后，踏上了独自一人的旅途。\n自那以后，
- 50年过去，芙莉莲又前往拜访辛美尔，相比于和50年前一
- 点
+DESCRIPTION:「麻烦事的气味」\n\n\n魔法使芙莉莲和勇者辛
+ 美尔等人一起，历经十年的冒险之后击败了魔王，为世
+ 界带来了和平。\n身为能活上一千多年的精灵族，她于是
+ 和辛美尔等人约定再次相见后，踏上了独自一人的旅途
+ 。\n自那以后，50年过去，芙莉莲又前往拜访辛美尔，相
+ 比于和50年前一点
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -595,12 +625,12 @@ DTSTART;VALUE=DATE:20231213
 DTSTAMP;VALUE=DATE:20231208
 UID:419846-11-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n接下来的舞台是由“血之女王”、“
- 妖狐”、“暴君”三势力统治的无法都市。\n那里是无赖
- 横行、弱肉强食的世界。为了讨伐吸血鬼们的支配者“
- 血之女王”被姐姐克莱儿带走的希德，因为有机会做出
- “影之实力者”的行为而兴奋不已……。\n围绕“血之女
- 王”的阴
+DESCRIPTION:「决断」\n\n\n接下来的舞台是由“血之女王”
+ 、“妖狐”、“暴君”三势力统治的无法都市。\n那里是
+ 无赖横行、弱肉强食的世界。为了讨伐吸血鬼们的支配
+ 者“血之女王”被姐姐克莱儿带走的希德，因为有机会
+ 做出“影之实力者”的行为而兴奋不已……。\n围绕“血
+ 之女王”的阴
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
