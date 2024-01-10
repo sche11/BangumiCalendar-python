@@ -1000,6 +1000,21 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:金属口红 13
+DTSTART;VALUE=DATE:20240403
+DTSTAMP;VALUE=DATE:20240110
+UID:425595-13-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n人造人間たちが運命をかけて闘う驚
+ 異のテック・ノワールSF誕生！人間と人造人間が混在す
+ る世界──。人造人間の少女・ルジュは、バディのナ
+ オミと共に、火星である任務にあたっていた。それは
+ 、“政府に敵対する9人の人造人間の殺害”。人造人間
+ の少女・ル
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:异修罗 1
 DTSTART;VALUE=DATE:20240103
 DTSTAMP;VALUE=DATE:20240110
@@ -1190,12 +1205,12 @@ DTSTART;VALUE=DATE:20240110
 DTSTAMP;VALUE=DATE:20240110
 UID:373266-2-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n東京都高度育成高等学校、それは進
- 学率・就職率100％を誇り、毎月10万円の金銭に相当する
- ポイントが支給される夢のような学校。しかし、その
- 内実は一部の成績優秀者のみが好待遇を受けられる実
- 力至上主義の学校であった。3学期を迎え、Dクラスから
- Cク
+DESCRIPTION:「人之于人，无异于狰狞的野狼」\n\n\n東京都
+ 高度育成高等学校、それは進学率・就職率100％を誇り
+ 、毎月10万円の金銭に相当するポイントが支給される夢
+ のような学校。しかし、その内実は一部の成績優秀者
+ のみが好待遇を受けられる実力至上主義の学校であっ
+ た。3学期を迎え、DクラスからCク
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1932,12 +1947,12 @@ DTSTART;VALUE=DATE:20240110
 DTSTAMP;VALUE=DATE:20240110
 UID:424663-2-522825
 CLASS:PUBLIC
-DESCRIPTION:「她叫玛吉雅邪恶」\n\n\nわたし、柊うてなは
- 魔法少女が大好きなごく普通の女の子☆\nある日、変身
- する力を与えてくれそうなマスコット的なやつに出会
- って不思議な魔法をかけられちゃった!\nこれでわたし
- も魔法少女に――と思ったら\nえ? なにこの格好?\n悪の
- 組織の女幹部
+DESCRIPTION:「她的名字是 玛吉雅邪恶」\n\n\nわたし、柊う
+ てなは魔法少女が大好きなごく普通の女の子☆\nある日
+ 、変身する力を与えてくれそうなマスコット的なやつ
+ に出会って不思議な魔法をかけられちゃった!\nこれで
+ わたしも魔法少女に――と思ったら\nえ? なにこの格好?
+ \n悪の組織の女幹部
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1947,11 +1962,12 @@ DTSTART;VALUE=DATE:20240117
 DTSTAMP;VALUE=DATE:20240110
 UID:424663-3-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nわたし、柊うてなは魔法少女が大好
- きなごく普通の女の子☆\nある日、変身する力を与えて
- くれそうなマスコット的なやつに出会って不思議な魔
- 法をかけられちゃった!\nこれでわたしも魔法少女に―
- ―と思ったら\nえ? なにこの格好?\n悪の組織の女幹部
+DESCRIPTION:「爆裂女孩猎豹」\n\n\nわたし、柊うてなは魔
+ 法少女が大好きなごく普通の女の子☆\nある日、変身す
+ る力を与えてくれそうなマスコット的なやつに出会っ
+ て不思議な魔法をかけられちゃった!\nこれでわたしも
+ 魔法少女に――と思ったら\nえ? なにこの格好?\n悪の組
+ 織の女幹部
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
