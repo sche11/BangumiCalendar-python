@@ -882,12 +882,12 @@ DTSTART;VALUE=DATE:20240407
 DTSTAMP;VALUE=DATE:20240407
 UID:416777-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n数千を超える学校で形成された巨大
- な学園都市「キヴォトス」。\nここでは銃を手にした生
- 徒たちの諍いが、日常的な風景になっている。\n\nその
- 中で、砂に包まれた「アビドス高等学校」は廃校の危
- 機に瀕していた。\n状況を脱すべく奮闘する「対策委員
- 会
+DESCRIPTION:「阿拜多斯高等学院 停办对策委员会」\n\n\n数
+ 千を超える学校で形成された巨大な学園都市「キヴォ
+ トス」。\nここでは銃を手にした生徒たちの諍いが、日
+ 常的な風景になっている。\n\nその中で、砂に包まれた
+ 「アビドス高等学校」は廃校の危機に瀕していた。\n状
+ 況を脱すべく奮闘する「対策委員会
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1063,7 +1063,7 @@ DTSTART;VALUE=DATE:20240407
 DTSTAMP;VALUE=DATE:20240407
 UID:444557-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n
+DESCRIPTION:「我梦想中的家」\n\n\n
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1074,7 +1074,7 @@ DTSTART;VALUE=DATE:20240414
 DTSTAMP;VALUE=DATE:20240407
 UID:444557-2-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n
+DESCRIPTION:「婚礼」\n\n\n
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1348,6 +1348,20 @@ SUMMARY:吹响！悠风号 第三季 12
 DTSTART;VALUE=DATE:20240623
 DTSTAMP;VALUE=DATE:20240407
 UID:283643-12-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n春。北宇治高校吹奏楽部の3年、\n部
+ 長の黄前久美子は、期待と不安を抱いていた。\n\nどん
+ な新入部員がやって来るのか、\n部長として皆をまとめ
+ ていけるのか、\nそして悲願の目標である「全国大会金
+ 賞」を達成できるのか――。\n\nそんな思いを
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:吹响！悠风号 第三季 13
+DTSTART;VALUE=DATE:20240630
+DTSTAMP;VALUE=DATE:20240407
+UID:283643-13-522825
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n春。北宇治高校吹奏楽部の3年、\n部
  長の黄前久美子は、期待と不安を抱いていた。\n\nどん
@@ -2460,216 +2474,6 @@ DESCRIPTION:「」\n\n\n郊外のとある町。\nここはどこにでも
  民たちに大きな異変が起きているのだ。\nだけどそんな
  中でも千倉静留には、強い思いがあった。\n行方がわか
  らない友達に、もう一度会いたい！\n静留たちは放
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:我心里危险的东西 第二季 1
-DTSTART;VALUE=DATE:20240106
-DTSTAMP;VALUE=DATE:20240407
-UID:441795-1-522825
-CLASS:PUBLIC
-DESCRIPTION:「我们在寻找」\n\n\n重度の中二病で陰キャの
- 市川京太郎と、\nクラスで人気者の山田杏奈。\n \n美少
- 女らしからぬ行動を繰り出す山田に、\n市川は目を離せ
- ずにいた。\n \nそんな市川の恋心を知ってか知らずか、
- \n山田は天真爛漫に近づいて来る!!\n \n全く違
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:我心里危险的东西 第二季 2
-DTSTART;VALUE=DATE:20240113
-DTSTAMP;VALUE=DATE:20240407
-UID:441795-2-522825
-CLASS:PUBLIC
-DESCRIPTION:「我快变大人了」\n\n\n重度の中二病で陰キャ
- の市川京太郎と、\nクラスで人気者の山田杏奈。\n \n美
- 少女らしからぬ行動を繰り出す山田に、\n市川は目を離
- せずにいた。\n \nそんな市川の恋心を知ってか知らずか
- 、\n山田は天真爛漫に近づいて来る!!\n \n全く違
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:我心里危险的东西 第二季 3
-DTSTART;VALUE=DATE:20240120
-DTSTAMP;VALUE=DATE:20240407
-UID:441795-3-522825
-CLASS:PUBLIC
-DESCRIPTION:「我想和山田…」\n\n\n重度の中二病で陰キャ
- の市川京太郎と、\nクラスで人気者の山田杏奈。\n \n美
- 少女らしからぬ行動を繰り出す山田に、\n市川は目を離
- せずにいた。\n \nそんな市川の恋心を知ってか知らずか
- 、\n山田は天真爛漫に近づいて来る!!\n \n全く違
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:我心里危险的东西 第二季 4
-DTSTART;VALUE=DATE:20240127
-DTSTAMP;VALUE=DATE:20240407
-UID:441795-4-522825
-CLASS:PUBLIC
-DESCRIPTION:「山田对我…」\n\n\n重度の中二病で陰キャの
- 市川京太郎と、\nクラスで人気者の山田杏奈。\n \n美少
- 女らしからぬ行動を繰り出す山田に、\n市川は目を離せ
- ずにいた。\n \nそんな市川の恋心を知ってか知らずか、
- \n山田は天真爛漫に近づいて来る!!\n \n全く違
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:我心里危险的东西 第二季 5
-DTSTART;VALUE=DATE:20240203
-DTSTAMP;VALUE=DATE:20240407
-UID:441795-5-522825
-CLASS:PUBLIC
-DESCRIPTION:「我想了解」\n\n\n重度の中二病で陰キャの市
- 川京太郎と、\nクラスで人気者の山田杏奈。\n \n美少女
- らしからぬ行動を繰り出す山田に、\n市川は目を離せず
- にいた。\n \nそんな市川の恋心を知ってか知らずか、\n
- 山田は天真爛漫に近づいて来る!!\n \n全く違
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:我心里危险的东西 第二季 6
-DTSTART;VALUE=DATE:20240210
-DTSTAMP;VALUE=DATE:20240407
-UID:441795-6-522825
-CLASS:PUBLIC
-DESCRIPTION:「山田喜欢我」\n\n\n重度の中二病で陰キャの
- 市川京太郎と、\nクラスで人気者の山田杏奈。\n \n美少
- 女らしからぬ行動を繰り出す山田に、\n市川は目を離せ
- ずにいた。\n \nそんな市川の恋心を知ってか知らずか、
- \n山田は天真爛漫に近づいて来る!!\n \n全く違
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:我心里危险的东西 第二季 7
-DTSTART;VALUE=DATE:20240217
-DTSTAMP;VALUE=DATE:20240407
-UID:441795-7-522825
-CLASS:PUBLIC
-DESCRIPTION:「我们满溢而出」\n\n\n重度の中二病で陰キャ
- の市川京太郎と、\nクラスで人気者の山田杏奈。\n \n美
- 少女らしからぬ行動を繰り出す山田に、\n市川は目を離
- せずにいた。\n \nそんな市川の恋心を知ってか知らずか
- 、\n山田は天真爛漫に近づいて来る!!\n \n全く違
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:我心里危险的东西 第二季 8
-DTSTART;VALUE=DATE:20240224
-DTSTAMP;VALUE=DATE:20240407
-UID:441795-8-522825
-CLASS:PUBLIC
-DESCRIPTION:「我们很晚才睡」\n\n\n重度の中二病で陰キャ
- の市川京太郎と、\nクラスで人気者の山田杏奈。\n \n美
- 少女らしからぬ行動を繰り出す山田に、\n市川は目を離
- せずにいた。\n \nそんな市川の恋心を知ってか知らずか
- 、\n山田は天真爛漫に近づいて来る!!\n \n全く違
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:我心里危险的东西 第二季 9
-DTSTART;VALUE=DATE:20240302
-DTSTAMP;VALUE=DATE:20240407
-UID:441795-9-522825
-CLASS:PUBLIC
-DESCRIPTION:「我们说好了」\n\n\n重度の中二病で陰キャの
- 市川京太郎と、\nクラスで人気者の山田杏奈。\n \n美少
- 女らしからぬ行動を繰り出す山田に、\n市川は目を離せ
- ずにいた。\n \nそんな市川の恋心を知ってか知らずか、
- \n山田は天真爛漫に近づいて来る!!\n \n全く違
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:我心里危险的东西 第二季 10
-DTSTART;VALUE=DATE:20240309
-DTSTAMP;VALUE=DATE:20240407
-UID:441795-10-522825
-CLASS:PUBLIC
-DESCRIPTION:「我想接近山田」\n\n\n重度の中二病で陰キャ
- の市川京太郎と、\nクラスで人気者の山田杏奈。\n \n美
- 少女らしからぬ行動を繰り出す山田に、\n市川は目を離
- せずにいた。\n \nそんな市川の恋心を知ってか知らずか
- 、\n山田は天真爛漫に近づいて来る!!\n \n全く違
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:我心里危险的东西 第二季 11
-DTSTART;VALUE=DATE:20240316
-DTSTAMP;VALUE=DATE:20240407
-UID:441795-11-522825
-CLASS:PUBLIC
-DESCRIPTION:「我不想输」\n\n\n重度の中二病で陰キャの市
- 川京太郎と、\nクラスで人気者の山田杏奈。\n \n美少女
- らしからぬ行動を繰り出す山田に、\n市川は目を離せず
- にいた。\n \nそんな市川の恋心を知ってか知らずか、\n
- 山田は天真爛漫に近づいて来る!!\n \n全く違
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:我心里危险的东西 第二季 12
-DTSTART;VALUE=DATE:20240323
-DTSTAMP;VALUE=DATE:20240407
-UID:441795-12-522825
-CLASS:PUBLIC
-DESCRIPTION:「我想传达」\n\n\n重度の中二病で陰キャの市
- 川京太郎と、\nクラスで人気者の山田杏奈。\n \n美少女
- らしからぬ行動を繰り出す山田に、\n市川は目を離せず
- にいた。\n \nそんな市川の恋心を知ってか知らずか、\n
- 山田は天真爛漫に近づいて来る!!\n \n全く違
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:我心里危险的东西 第二季 13
-DTSTART;VALUE=DATE:20240330
-DTSTAMP;VALUE=DATE:20240407
-UID:441795-13-522825
-CLASS:PUBLIC
-DESCRIPTION:「我和我的恋心」\n\n\n重度の中二病で陰キャ
- の市川京太郎と、\nクラスで人気者の山田杏奈。\n \n美
- 少女らしからぬ行動を繰り出す山田に、\n市川は目を離
- せずにいた。\n \nそんな市川の恋心を知ってか知らずか
- 、\n山田は天真爛漫に近づいて来る!!\n \n全く違
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:我心里危险的东西 第二季 0
-DTSTART;VALUE=DATE:20240327
-DTSTAMP;VALUE=DATE:20240407
-UID:441795-0-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n重度の中二病で陰キャの市川京太郎
- と、\nクラスで人気者の山田杏奈。\n \n美少女らしから
- ぬ行動を繰り出す山田に、\n市川は目を離せずにいた。
- \n \nそんな市川の恋心を知ってか知らずか、\n山田は天
- 真爛漫に近づいて来る!!\n \n全く違
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:我心里危险的东西 第二季 0
-DTSTART;VALUE=DATE:20240327
-DTSTAMP;VALUE=DATE:20240407
-UID:441795-0-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n重度の中二病で陰キャの市川京太郎
- と、\nクラスで人気者の山田杏奈。\n \n美少女らしから
- ぬ行動を繰り出す山田に、\n市川は目を離せずにいた。
- \n \nそんな市川の恋心を知ってか知らずか、\n山田は天
- 真爛漫に近づいて来る!!\n \n全く違
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
