@@ -806,11 +806,12 @@ DTSTART;VALUE=DATE:20240426
 DTSTAMP;VALUE=DATE:20240419
 UID:407573-4-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nクレイマンを倒し、正式に魔王とな
- ったリムル。\n魔王たちの宴ワルプルギスを経て、\nリ
- ムルの支配地域はジュラの大森林全体に広がった。\n\n
- その影響で各種族の代表が挨拶しに殺到することが予
- 想されるならば\nいっそのこと魔王リムルのお披露目と
+DESCRIPTION:「各自的职责」\n\n\nクレイマンを倒し、正式
+ に魔王となったリムル。\n魔王たちの宴ワルプルギスを
+ 経て、\nリムルの支配地域はジュラの大森林全体に広が
+ った。\n\nその影響で各種族の代表が挨拶しに殺到する
+ ことが予想されるならば\nいっそのこと魔王リムルのお
+ 披露目と
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1255,6 +1256,20 @@ SUMMARY:GIRLS BAND CRY 12
 DTSTART;VALUE=DATE:20240621
 DTSTAMP;VALUE=DATE:20240419
 UID:431767-12-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n「怒りも喜びも哀しさも全部ぶちこ
+ め。」\n\n高校2年、学校を中退して単身東京で大学を目
+ 指すことになった主人公。\n仲間に裏切られてどうして
+ いいか分からない少女。\n両親に捨てられて、大都会で
+ 一人バイトで食いつないでいる女の子。\n\nこの
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIRLS BAND CRY 13
+DTSTART;VALUE=DATE:20240628
+DTSTAMP;VALUE=DATE:20240419
+UID:431767-13-522825
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「怒りも喜びも哀しさも全部ぶちこ
  め。」\n\n高校2年、学校を中退して単身東京で大学を目
