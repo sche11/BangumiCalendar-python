@@ -1680,7 +1680,7 @@ DTSTART;VALUE=DATE:20240428
 DTSTAMP;VALUE=DATE:20240422
 UID:444557-4-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n
+DESCRIPTION:「诺伦与爱夏」\n\n\n
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2786,11 +2786,12 @@ DTSTART;VALUE=DATE:20240422
 DTSTAMP;VALUE=DATE:20240422
 UID:404809-4-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n郊外的某个小镇。\n这里不是一个随处
- 可见的普通乡村……。\n这里的居民产生了巨大的异变。
- \n即使在这样的情况下，千仓静留也有着坚定的想法。\n
- 想再一次见到行踪不明的朋友们！\n静留她们在被废弃且
- 停止行驶的电车里，在不知道能不能活着回来的情况
+DESCRIPTION:「为什么要把屁股藏起来？」\n\n\n郊外的某个
+ 小镇。\n这里不是一个随处可见的普通乡村……。\n这里
+ 的居民产生了巨大的异变。\n即使在这样的情况下，千仓
+ 静留也有着坚定的想法。\n想再一次见到行踪不明的朋友
+ 们！\n静留她们在被废弃且停止行驶的电车里，在不知道
+ 能不能活着回来的情况
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
