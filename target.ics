@@ -5,6 +5,21 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
+SUMMARY:魔女宅急便 1
+DTSTART;VALUE=DATE:19890729
+DTSTAMP;VALUE=DATE:20240502
+UID:305-1-522825
+CLASS:PUBLIC
+DESCRIPTION:「魔女宅急便」\n\n\n琪琪是一个13岁的实习魔女
+ 。依家族惯例，琪琪是时候离开她的家，到一个新的城
+ 市去展开独立的新生活，修行成为正式的魔女。\n\n动画
+ 宣传用文宣：\n虽然有时会不如意，但我很好。（おちこ
+ んだりもしたけれど、私はげんきです。）──由糸井
+ 重里提供。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:失忆投捕 1
 DTSTART;VALUE=DATE:20240409
 DTSTAMP;VALUE=DATE:20240502
@@ -250,12 +265,12 @@ DTSTART;VALUE=DATE:20240502
 DTSTAMP;VALUE=DATE:20240502
 UID:426947-5-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n那些伤害人、破坏物的人，带入恶意
- 的任何人无一例外都会被“防风铃”肃清！\n偏差值最底
- 部，争吵最强。以超不良学校闻名的风铃高中。为了夺
- 取“顶峰”，从城市的“外”而来的高中一年级学生樱
- 遥。但是，现在的风铃高中被命名为“防风铃”，成为
- 守护城市的团
+DESCRIPTION:「温柔的男人」\n\n\n那些伤害人、破坏物的人
+ ，带入恶意的任何人无一例外都会被“防风铃”肃清！\n
+ 偏差值最底部，争吵最强。以超不良学校闻名的风铃高
+ 中。为了夺取“顶峰”，从城市的“外”而来的高中一
+ 年级学生樱遥。但是，现在的风铃高中被命名为“防风
+ 铃”，成为守护城市的团
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -446,12 +461,13 @@ DTSTART;VALUE=DATE:20240502
 DTSTAMP;VALUE=DATE:20240502
 UID:444403-5-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n贫苦的侦探镝矢惣助，遇到了操纵魔
- 法的异世界皇女莎拉。惣助逐渐开始了与莎拉的同居生
- 活，莎拉很快就习惯了现代日本。另一方面，跟着莎拉
- 转移来到日本的女骑士莉薇亚，在流浪的同时，意外地
- 度过了快乐生活。积极坚强生活的两个异世界人，不仅
- 影响了惣助，也影
+DESCRIPTION:「女骑士游民，休整 / 公主与卡拉OK咖啡厅」\n\
+ n\n贫苦的侦探镝矢惣助，遇到了操纵魔法的异世界皇女
+ 莎拉。惣助逐渐开始了与莎拉的同居生活，莎拉很快就
+ 习惯了现代日本。另一方面，跟着莎拉转移来到日本的
+ 女骑士莉薇亚，在流浪的同时，意外地度过了快乐生活
+ 。积极坚强生活的两个异世界人，不仅影响了惣助，也
+ 影
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -656,12 +672,12 @@ DTSTART;VALUE=DATE:20240509
 DTSTAMP;VALUE=DATE:20240502
 UID:405785-6-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nこれは、冬と春の間の物語。\n\n伊豆
- でグループキャンプを楽しんだ、なでしこ、リン、千
- 明、あおい、恵那。\nその後もキャンプ熱が高いままの
- 五人は、山梨や静岡で、それぞれのアウトドアを楽し
- んでいく。\nリンは、なでしこの幼なじみ・土岐綾乃と
- 大
+DESCRIPTION:「那么，改天再见」\n\n\nこれは、冬と春の間
+ の物語。\n\n伊豆でグループキャンプを楽しんだ、なで
+ しこ、リン、千明、あおい、恵那。\nその後もキャンプ
+ 熱が高いままの五人は、山梨や静岡で、それぞれのア
+ ウトドアを楽しんでいく。\nリンは、なでしこの幼なじ
+ み・土岐綾乃と大
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3031,11 +3047,11 @@ DTSTART;VALUE=DATE:20240502
 DTSTAMP;VALUE=DATE:20240502
 UID:395378-18-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n迷宫饭，不是吃就是被吃…\n\n妹妹在
- 迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃过一命回
- 到了地面。\n他想要再度挑战迷宫，但是钱和食物都留在
- 了迷宫深处…\n在妹妹随时可能会被消化掉情况下，莱欧
- 斯下定了决心：\n「食物要在迷宫内就地取材」
+DESCRIPTION:「变形怪」\n\n\n迷宫饭，不是吃就是被吃…\n\n
+ 妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃过
+ 一命回到了地面。\n他想要再度挑战迷宫，但是钱和食物
+ 都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况下
+ ，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
