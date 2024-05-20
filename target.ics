@@ -5,6 +5,181 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
+SUMMARY:战队大失格 1
+DTSTART;VALUE=DATE:20240407
+DTSTAMP;VALUE=DATE:20240520
+UID:407234-1-522825
+CLASS:PUBLIC
+DESCRIPTION:「我们代表正义！龙神战队龙神守望者！」\n\n\
+ n13年前，一座巨大的浮游城突然出现。\n从这一天开始，
+ 企图征服世界的怪人们和大战队之间的和平之战开始了
+ 。\n但是，这场战斗实际上只是一场闹剧？\n很久以前，
+ 浮游城处于陷落状态，怪人干部也全军覆没，剩下的下
+ 级战斗员达斯塔斯与大战队秘密缔结了秘
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:战队大失格 2
+DTSTART;VALUE=DATE:20240414
+DTSTAMP;VALUE=DATE:20240520
+UID:407234-2-522825
+CLASS:PUBLIC
+DESCRIPTION:「前进吧！战斗员D」\n\n\n13年前，一座巨大的
+ 浮游城突然出现。\n从这一天开始，企图征服世界的怪人
+ 们和大战队之间的和平之战开始了。\n但是，这场战斗实
+ 际上只是一场闹剧？\n很久以前，浮游城处于陷落状态，
+ 怪人干部也全军覆没，剩下的下级战斗员达斯塔斯与大
+ 战队秘密缔结了秘
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:战队大失格 3
+DTSTART;VALUE=DATE:20240421
+DTSTAMP;VALUE=DATE:20240520
+UID:407234-3-522825
+CLASS:PUBLIC
+DESCRIPTION:「终有一日，邪恶之花将绽放」\n\n\n13年前，一
+ 座巨大的浮游城突然出现。\n从这一天开始，企图征服世
+ 界的怪人们和大战队之间的和平之战开始了。\n但是，这
+ 场战斗实际上只是一场闹剧？\n很久以前，浮游城处于陷
+ 落状态，怪人干部也全军覆没，剩下的下级战斗员达斯
+ 塔斯与大战队秘密缔结了秘
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:战队大失格 4
+DTSTART;VALUE=DATE:20240428
+DTSTAMP;VALUE=DATE:20240520
+UID:407234-4-522825
+CLASS:PUBLIC
+DESCRIPTION:「爱之战士日日辉！」\n\n\n13年前，一座巨大的
+ 浮游城突然出现。\n从这一天开始，企图征服世界的怪人
+ 们和大战队之间的和平之战开始了。\n但是，这场战斗实
+ 际上只是一场闹剧？\n很久以前，浮游城处于陷落状态，
+ 怪人干部也全军覆没，剩下的下级战斗员达斯塔斯与大
+ 战队秘密缔结了秘
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:战队大失格 5
+DTSTART;VALUE=DATE:20240512
+DTSTAMP;VALUE=DATE:20240520
+UID:407234-5-522825
+CLASS:PUBLIC
+DESCRIPTION:「如今，身处大战队中」\n\n\n13年前，一座巨大
+ 的浮游城突然出现。\n从这一天开始，企图征服世界的怪
+ 人们和大战队之间的和平之战开始了。\n但是，这场战斗
+ 实际上只是一场闹剧？\n很久以前，浮游城处于陷落状态
+ ，怪人干部也全军覆没，剩下的下级战斗员达斯塔斯与
+ 大战队秘密缔结了秘
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:战队大失格 6
+DTSTART;VALUE=DATE:20240519
+DTSTAMP;VALUE=DATE:20240520
+UID:407234-6-522825
+CLASS:PUBLIC
+DESCRIPTION:「一加二加一团糟！」\n\n\n13年前，一座巨大的
+ 浮游城突然出现。\n从这一天开始，企图征服世界的怪人
+ 们和大战队之间的和平之战开始了。\n但是，这场战斗实
+ 际上只是一场闹剧？\n很久以前，浮游城处于陷落状态，
+ 怪人干部也全军覆没，剩下的下级战斗员达斯塔斯与大
+ 战队秘密缔结了秘
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:战队大失格 7
+DTSTART;VALUE=DATE:20240526
+DTSTAMP;VALUE=DATE:20240520
+UID:407234-7-522825
+CLASS:PUBLIC
+DESCRIPTION:「曲折的最终测验之路！」\n\n\n13年前，一座巨
+ 大的浮游城突然出现。\n从这一天开始，企图征服世界的
+ 怪人们和大战队之间的和平之战开始了。\n但是，这场战
+ 斗实际上只是一场闹剧？\n很久以前，浮游城处于陷落状
+ 态，怪人干部也全军覆没，剩下的下级战斗员达斯塔斯
+ 与大战队秘密缔结了秘
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:战队大失格 8
+DTSTART;VALUE=DATE:20240602
+DTSTAMP;VALUE=DATE:20240520
+UID:407234-8-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n13年前，一座巨大的浮游城突然出现。
+ \n从这一天开始，企图征服世界的怪人们和大战队之间的
+ 和平之战开始了。\n但是，这场战斗实际上只是一场闹剧
+ ？\n很久以前，浮游城处于陷落状态，怪人干部也全军覆
+ 没，剩下的下级战斗员达斯塔斯与大战队秘密缔结了秘
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:战队大失格 9
+DTSTART;VALUE=DATE:20240609
+DTSTAMP;VALUE=DATE:20240520
+UID:407234-9-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n13年前，一座巨大的浮游城突然出现。
+ \n从这一天开始，企图征服世界的怪人们和大战队之间的
+ 和平之战开始了。\n但是，这场战斗实际上只是一场闹剧
+ ？\n很久以前，浮游城处于陷落状态，怪人干部也全军覆
+ 没，剩下的下级战斗员达斯塔斯与大战队秘密缔结了秘
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:战队大失格 10
+DTSTART;VALUE=DATE:20240616
+DTSTAMP;VALUE=DATE:20240520
+UID:407234-10-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n13年前，一座巨大的浮游城突然出现。
+ \n从这一天开始，企图征服世界的怪人们和大战队之间的
+ 和平之战开始了。\n但是，这场战斗实际上只是一场闹剧
+ ？\n很久以前，浮游城处于陷落状态，怪人干部也全军覆
+ 没，剩下的下级战斗员达斯塔斯与大战队秘密缔结了秘
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:战队大失格 11
+DTSTART;VALUE=DATE:20240623
+DTSTAMP;VALUE=DATE:20240520
+UID:407234-11-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n13年前，一座巨大的浮游城突然出现。
+ \n从这一天开始，企图征服世界的怪人们和大战队之间的
+ 和平之战开始了。\n但是，这场战斗实际上只是一场闹剧
+ ？\n很久以前，浮游城处于陷落状态，怪人干部也全军覆
+ 没，剩下的下级战斗员达斯塔斯与大战队秘密缔结了秘
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:战队大失格 12
+DTSTART;VALUE=DATE:20240630
+DTSTAMP;VALUE=DATE:20240520
+UID:407234-12-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n13年前，一座巨大的浮游城突然出现。
+ \n从这一天开始，企图征服世界的怪人们和大战队之间的
+ 和平之战开始了。\n但是，这场战斗实际上只是一场闹剧
+ ？\n很久以前，浮游城处于陷落状态，怪人干部也全军覆
+ 没，剩下的下级战斗员达斯塔斯与大战队秘密缔结了秘
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:吹响！悠风号 第三季 1
 DTSTART;VALUE=DATE:20240407
 DTSTAMP;VALUE=DATE:20240520
@@ -886,181 +1061,6 @@ DESCRIPTION:「」\n\n\n交通事故（!?）によりあっけなく人生
  佐藤和真（カズマ）は、\nひょんなことから、女神・ア
  クアを道連れに\n異世界転生することに。\n「RPGゲーム
  のような異世界で、\n憧れの冒険者生活エン
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:战队大失格 1
-DTSTART;VALUE=DATE:20240407
-DTSTAMP;VALUE=DATE:20240520
-UID:407234-1-522825
-CLASS:PUBLIC
-DESCRIPTION:「我们代表正义！龙神战队龙神守望者！」\n\n\
- n13年前，一座巨大的浮游城突然出现。\n从这一天开始，
- 企图征服世界的怪人们和大战队之间的和平之战开始了
- 。\n但是，这场战斗实际上只是一场闹剧？\n很久以前，
- 浮游城处于陷落状态，怪人干部也全军覆没，剩下的下
- 级战斗员达斯塔斯与大战队秘密缔结了秘
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:战队大失格 2
-DTSTART;VALUE=DATE:20240414
-DTSTAMP;VALUE=DATE:20240520
-UID:407234-2-522825
-CLASS:PUBLIC
-DESCRIPTION:「前进吧！战斗员D」\n\n\n13年前，一座巨大的
- 浮游城突然出现。\n从这一天开始，企图征服世界的怪人
- 们和大战队之间的和平之战开始了。\n但是，这场战斗实
- 际上只是一场闹剧？\n很久以前，浮游城处于陷落状态，
- 怪人干部也全军覆没，剩下的下级战斗员达斯塔斯与大
- 战队秘密缔结了秘
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:战队大失格 3
-DTSTART;VALUE=DATE:20240421
-DTSTAMP;VALUE=DATE:20240520
-UID:407234-3-522825
-CLASS:PUBLIC
-DESCRIPTION:「终有一日，邪恶之花将绽放」\n\n\n13年前，一
- 座巨大的浮游城突然出现。\n从这一天开始，企图征服世
- 界的怪人们和大战队之间的和平之战开始了。\n但是，这
- 场战斗实际上只是一场闹剧？\n很久以前，浮游城处于陷
- 落状态，怪人干部也全军覆没，剩下的下级战斗员达斯
- 塔斯与大战队秘密缔结了秘
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:战队大失格 4
-DTSTART;VALUE=DATE:20240428
-DTSTAMP;VALUE=DATE:20240520
-UID:407234-4-522825
-CLASS:PUBLIC
-DESCRIPTION:「爱之战士日日辉！」\n\n\n13年前，一座巨大的
- 浮游城突然出现。\n从这一天开始，企图征服世界的怪人
- 们和大战队之间的和平之战开始了。\n但是，这场战斗实
- 际上只是一场闹剧？\n很久以前，浮游城处于陷落状态，
- 怪人干部也全军覆没，剩下的下级战斗员达斯塔斯与大
- 战队秘密缔结了秘
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:战队大失格 5
-DTSTART;VALUE=DATE:20240512
-DTSTAMP;VALUE=DATE:20240520
-UID:407234-5-522825
-CLASS:PUBLIC
-DESCRIPTION:「如今，身处大战队中」\n\n\n13年前，一座巨大
- 的浮游城突然出现。\n从这一天开始，企图征服世界的怪
- 人们和大战队之间的和平之战开始了。\n但是，这场战斗
- 实际上只是一场闹剧？\n很久以前，浮游城处于陷落状态
- ，怪人干部也全军覆没，剩下的下级战斗员达斯塔斯与
- 大战队秘密缔结了秘
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:战队大失格 6
-DTSTART;VALUE=DATE:20240519
-DTSTAMP;VALUE=DATE:20240520
-UID:407234-6-522825
-CLASS:PUBLIC
-DESCRIPTION:「一加二加一团糟！」\n\n\n13年前，一座巨大的
- 浮游城突然出现。\n从这一天开始，企图征服世界的怪人
- 们和大战队之间的和平之战开始了。\n但是，这场战斗实
- 际上只是一场闹剧？\n很久以前，浮游城处于陷落状态，
- 怪人干部也全军覆没，剩下的下级战斗员达斯塔斯与大
- 战队秘密缔结了秘
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:战队大失格 7
-DTSTART;VALUE=DATE:20240526
-DTSTAMP;VALUE=DATE:20240520
-UID:407234-7-522825
-CLASS:PUBLIC
-DESCRIPTION:「曲折的最终测验之路！」\n\n\n13年前，一座巨
- 大的浮游城突然出现。\n从这一天开始，企图征服世界的
- 怪人们和大战队之间的和平之战开始了。\n但是，这场战
- 斗实际上只是一场闹剧？\n很久以前，浮游城处于陷落状
- 态，怪人干部也全军覆没，剩下的下级战斗员达斯塔斯
- 与大战队秘密缔结了秘
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:战队大失格 8
-DTSTART;VALUE=DATE:20240602
-DTSTAMP;VALUE=DATE:20240520
-UID:407234-8-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n13年前，一座巨大的浮游城突然出现。
- \n从这一天开始，企图征服世界的怪人们和大战队之间的
- 和平之战开始了。\n但是，这场战斗实际上只是一场闹剧
- ？\n很久以前，浮游城处于陷落状态，怪人干部也全军覆
- 没，剩下的下级战斗员达斯塔斯与大战队秘密缔结了秘
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:战队大失格 9
-DTSTART;VALUE=DATE:20240609
-DTSTAMP;VALUE=DATE:20240520
-UID:407234-9-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n13年前，一座巨大的浮游城突然出现。
- \n从这一天开始，企图征服世界的怪人们和大战队之间的
- 和平之战开始了。\n但是，这场战斗实际上只是一场闹剧
- ？\n很久以前，浮游城处于陷落状态，怪人干部也全军覆
- 没，剩下的下级战斗员达斯塔斯与大战队秘密缔结了秘
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:战队大失格 10
-DTSTART;VALUE=DATE:20240616
-DTSTAMP;VALUE=DATE:20240520
-UID:407234-10-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n13年前，一座巨大的浮游城突然出现。
- \n从这一天开始，企图征服世界的怪人们和大战队之间的
- 和平之战开始了。\n但是，这场战斗实际上只是一场闹剧
- ？\n很久以前，浮游城处于陷落状态，怪人干部也全军覆
- 没，剩下的下级战斗员达斯塔斯与大战队秘密缔结了秘
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:战队大失格 11
-DTSTART;VALUE=DATE:20240623
-DTSTAMP;VALUE=DATE:20240520
-UID:407234-11-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n13年前，一座巨大的浮游城突然出现。
- \n从这一天开始，企图征服世界的怪人们和大战队之间的
- 和平之战开始了。\n但是，这场战斗实际上只是一场闹剧
- ？\n很久以前，浮游城处于陷落状态，怪人干部也全军覆
- 没，剩下的下级战斗员达斯塔斯与大战队秘密缔结了秘
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:战队大失格 12
-DTSTART;VALUE=DATE:20240630
-DTSTAMP;VALUE=DATE:20240520
-UID:407234-12-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n13年前，一座巨大的浮游城突然出现。
- \n从这一天开始，企图征服世界的怪人们和大战队之间的
- 和平之战开始了。\n但是，这场战斗实际上只是一场闹剧
- ？\n很久以前，浮游城处于陷落状态，怪人干部也全军覆
- 没，剩下的下级战斗员达斯塔斯与大战队秘密缔结了秘
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
