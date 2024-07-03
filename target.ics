@@ -19,21 +19,6 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:恶魔的破坏 DEAD DEAD DEMON'S DEDEDEDE DESTRUCTION 后篇 1
-DTSTART;VALUE=DATE:20240419
-DTSTAMP;VALUE=DATE:20240703
-UID:452432-1-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n地球外からの侵略者が日常に溶け込
- んだ世界で青春を謳歌する少女たちを描いた浅野いに
- お原作の同名コミックをアニメーション映画化した2部
- 作の後編。\n\n入試に合格して亜衣や凛と同じ大学に通
- い始めた門出と凰蘭は、竹本ふたばや田井沼マコトと
- いう新し
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:赛马娘 Pretty Derby 新时代之门 1
 DTSTART;VALUE=DATE:20240524
 DTSTAMP;VALUE=DATE:20240703
@@ -45,21 +30,6 @@ DESCRIPTION:「」\n\n\n「ウマ娘」―彼女たちは走るために
  走る。\n瞳の先にあるゴールだけを目指して―。\n\n走
  りで最強を目指すと豪語するジャングルポケットは＜
  トゥ
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:恶魔的破坏 DEAD DEAD DEMON'S DEDEDEDE DESTRUCTION 前篇 1
-DTSTART;VALUE=DATE:20240322
-DTSTAMP;VALUE=DATE:20240703
-UID:375425-1-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n地球外からの侵略者が日常に溶け込
- んだ世界で青春を謳歌する少女たちの姿を描いた浅野
- いにおの同名コミックをアニメーション映画化した2部
- 作の前編。\n\n3年前の8月31日、巨大な宇宙船「母艦」が
- 突如として東京に襲来し、世界は終わりを迎えるかに
- 見
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -99,11 +69,12 @@ DTSTART;VALUE=DATE:20240703
 DTSTAMP;VALUE=DATE:20240703
 UID:443428-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n新たな舞台の幕が開く──\n\n人気マ
- ンガ『東京ブレイド』の舞台稽古が始まった。\n劇団ラ
- ラライの役者達に囲まれ、大きく飛躍するかな。\nかな
- の才能を認めながら、ライバル心を激しく燃やすあか
- ね。\n才能と熱意のある役者が集う中、アクアは演技
+DESCRIPTION:「东京BLADE」\n\n\n新たな舞台の幕が開く──\n\
+ n人気マンガ『東京ブレイド』の舞台稽古が始まった。\
+ n劇団ララライの役者達に囲まれ、大きく飛躍するかな
+ 。\nかなの才能を認めながら、ライバル心を激しく燃や
+ すあかね。\n才能と熱意のある役者が集う中、アクアは
+ 演技
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3035,12 +3006,12 @@ DTSTART;VALUE=DATE:20240713
 DTSTAMP;VALUE=DATE:20240703
 UID:397604-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n在不远的未来，海平面原因不明地急
- 速上升，导致了地表多数都沉入海中。\n小时候因为事故
- 而失去一条腿的少年斑鸠夏生，厌倦了都市的生活，移
- 居到了海边的乡村小镇。\n曾经身为海洋地质学家的祖母
- 留给他的，就只有船、潜艇还有债务。\n夏生为了取回“
- 失去
+DESCRIPTION:「」\n\n\n「在逐渐沉没的世界，我找到了你。
+ 」在近未来，不明原因的海平面上升导致大面积地表被
+ 海水淹没。幼时因意外事故失去了一条腿的少年斑鸠夏
+ 生厌倦了城市生活，迁居到了海边的乡村小镇。他无亲
+ 无故，留给他的只有曾属于海洋地质学家的祖母的船和
+ 潜水艇，以及债款
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3050,12 +3021,12 @@ DTSTART;VALUE=DATE:20240720
 DTSTAMP;VALUE=DATE:20240703
 UID:397604-2-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n在不远的未来，海平面原因不明地急
- 速上升，导致了地表多数都沉入海中。\n小时候因为事故
- 而失去一条腿的少年斑鸠夏生，厌倦了都市的生活，移
- 居到了海边的乡村小镇。\n曾经身为海洋地质学家的祖母
- 留给他的，就只有船、潜艇还有债务。\n夏生为了取回“
- 失去
+DESCRIPTION:「」\n\n\n「在逐渐沉没的世界，我找到了你。
+ 」在近未来，不明原因的海平面上升导致大面积地表被
+ 海水淹没。幼时因意外事故失去了一条腿的少年斑鸠夏
+ 生厌倦了城市生活，迁居到了海边的乡村小镇。他无亲
+ 无故，留给他的只有曾属于海洋地质学家的祖母的船和
+ 潜水艇，以及债款
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3065,12 +3036,12 @@ DTSTART;VALUE=DATE:20240727
 DTSTAMP;VALUE=DATE:20240703
 UID:397604-3-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n在不远的未来，海平面原因不明地急
- 速上升，导致了地表多数都沉入海中。\n小时候因为事故
- 而失去一条腿的少年斑鸠夏生，厌倦了都市的生活，移
- 居到了海边的乡村小镇。\n曾经身为海洋地质学家的祖母
- 留给他的，就只有船、潜艇还有债务。\n夏生为了取回“
- 失去
+DESCRIPTION:「」\n\n\n「在逐渐沉没的世界，我找到了你。
+ 」在近未来，不明原因的海平面上升导致大面积地表被
+ 海水淹没。幼时因意外事故失去了一条腿的少年斑鸠夏
+ 生厌倦了城市生活，迁居到了海边的乡村小镇。他无亲
+ 无故，留给他的只有曾属于海洋地质学家的祖母的船和
+ 潜水艇，以及债款
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3080,12 +3051,12 @@ DTSTART;VALUE=DATE:20240803
 DTSTAMP;VALUE=DATE:20240703
 UID:397604-4-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n在不远的未来，海平面原因不明地急
- 速上升，导致了地表多数都沉入海中。\n小时候因为事故
- 而失去一条腿的少年斑鸠夏生，厌倦了都市的生活，移
- 居到了海边的乡村小镇。\n曾经身为海洋地质学家的祖母
- 留给他的，就只有船、潜艇还有债务。\n夏生为了取回“
- 失去
+DESCRIPTION:「」\n\n\n「在逐渐沉没的世界，我找到了你。
+ 」在近未来，不明原因的海平面上升导致大面积地表被
+ 海水淹没。幼时因意外事故失去了一条腿的少年斑鸠夏
+ 生厌倦了城市生活，迁居到了海边的乡村小镇。他无亲
+ 无故，留给他的只有曾属于海洋地质学家的祖母的船和
+ 潜水艇，以及债款
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3095,12 +3066,12 @@ DTSTART;VALUE=DATE:20240810
 DTSTAMP;VALUE=DATE:20240703
 UID:397604-5-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n在不远的未来，海平面原因不明地急
- 速上升，导致了地表多数都沉入海中。\n小时候因为事故
- 而失去一条腿的少年斑鸠夏生，厌倦了都市的生活，移
- 居到了海边的乡村小镇。\n曾经身为海洋地质学家的祖母
- 留给他的，就只有船、潜艇还有债务。\n夏生为了取回“
- 失去
+DESCRIPTION:「」\n\n\n「在逐渐沉没的世界，我找到了你。
+ 」在近未来，不明原因的海平面上升导致大面积地表被
+ 海水淹没。幼时因意外事故失去了一条腿的少年斑鸠夏
+ 生厌倦了城市生活，迁居到了海边的乡村小镇。他无亲
+ 无故，留给他的只有曾属于海洋地质学家的祖母的船和
+ 潜水艇，以及债款
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3110,12 +3081,12 @@ DTSTART;VALUE=DATE:20240817
 DTSTAMP;VALUE=DATE:20240703
 UID:397604-6-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n在不远的未来，海平面原因不明地急
- 速上升，导致了地表多数都沉入海中。\n小时候因为事故
- 而失去一条腿的少年斑鸠夏生，厌倦了都市的生活，移
- 居到了海边的乡村小镇。\n曾经身为海洋地质学家的祖母
- 留给他的，就只有船、潜艇还有债务。\n夏生为了取回“
- 失去
+DESCRIPTION:「」\n\n\n「在逐渐沉没的世界，我找到了你。
+ 」在近未来，不明原因的海平面上升导致大面积地表被
+ 海水淹没。幼时因意外事故失去了一条腿的少年斑鸠夏
+ 生厌倦了城市生活，迁居到了海边的乡村小镇。他无亲
+ 无故，留给他的只有曾属于海洋地质学家的祖母的船和
+ 潜水艇，以及债款
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3125,12 +3096,12 @@ DTSTART;VALUE=DATE:20240824
 DTSTAMP;VALUE=DATE:20240703
 UID:397604-7-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n在不远的未来，海平面原因不明地急
- 速上升，导致了地表多数都沉入海中。\n小时候因为事故
- 而失去一条腿的少年斑鸠夏生，厌倦了都市的生活，移
- 居到了海边的乡村小镇。\n曾经身为海洋地质学家的祖母
- 留给他的，就只有船、潜艇还有债务。\n夏生为了取回“
- 失去
+DESCRIPTION:「」\n\n\n「在逐渐沉没的世界，我找到了你。
+ 」在近未来，不明原因的海平面上升导致大面积地表被
+ 海水淹没。幼时因意外事故失去了一条腿的少年斑鸠夏
+ 生厌倦了城市生活，迁居到了海边的乡村小镇。他无亲
+ 无故，留给他的只有曾属于海洋地质学家的祖母的船和
+ 潜水艇，以及债款
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3140,12 +3111,12 @@ DTSTART;VALUE=DATE:20240831
 DTSTAMP;VALUE=DATE:20240703
 UID:397604-8-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n在不远的未来，海平面原因不明地急
- 速上升，导致了地表多数都沉入海中。\n小时候因为事故
- 而失去一条腿的少年斑鸠夏生，厌倦了都市的生活，移
- 居到了海边的乡村小镇。\n曾经身为海洋地质学家的祖母
- 留给他的，就只有船、潜艇还有债务。\n夏生为了取回“
- 失去
+DESCRIPTION:「」\n\n\n「在逐渐沉没的世界，我找到了你。
+ 」在近未来，不明原因的海平面上升导致大面积地表被
+ 海水淹没。幼时因意外事故失去了一条腿的少年斑鸠夏
+ 生厌倦了城市生活，迁居到了海边的乡村小镇。他无亲
+ 无故，留给他的只有曾属于海洋地质学家的祖母的船和
+ 潜水艇，以及债款
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3155,12 +3126,12 @@ DTSTART;VALUE=DATE:20240907
 DTSTAMP;VALUE=DATE:20240703
 UID:397604-9-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n在不远的未来，海平面原因不明地急
- 速上升，导致了地表多数都沉入海中。\n小时候因为事故
- 而失去一条腿的少年斑鸠夏生，厌倦了都市的生活，移
- 居到了海边的乡村小镇。\n曾经身为海洋地质学家的祖母
- 留给他的，就只有船、潜艇还有债务。\n夏生为了取回“
- 失去
+DESCRIPTION:「」\n\n\n「在逐渐沉没的世界，我找到了你。
+ 」在近未来，不明原因的海平面上升导致大面积地表被
+ 海水淹没。幼时因意外事故失去了一条腿的少年斑鸠夏
+ 生厌倦了城市生活，迁居到了海边的乡村小镇。他无亲
+ 无故，留给他的只有曾属于海洋地质学家的祖母的船和
+ 潜水艇，以及债款
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3170,12 +3141,12 @@ DTSTART;VALUE=DATE:20240914
 DTSTAMP;VALUE=DATE:20240703
 UID:397604-10-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n在不远的未来，海平面原因不明地急
- 速上升，导致了地表多数都沉入海中。\n小时候因为事故
- 而失去一条腿的少年斑鸠夏生，厌倦了都市的生活，移
- 居到了海边的乡村小镇。\n曾经身为海洋地质学家的祖母
- 留给他的，就只有船、潜艇还有债务。\n夏生为了取回“
- 失去
+DESCRIPTION:「」\n\n\n「在逐渐沉没的世界，我找到了你。
+ 」在近未来，不明原因的海平面上升导致大面积地表被
+ 海水淹没。幼时因意外事故失去了一条腿的少年斑鸠夏
+ 生厌倦了城市生活，迁居到了海边的乡村小镇。他无亲
+ 无故，留给他的只有曾属于海洋地质学家的祖母的船和
+ 潜水艇，以及债款
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3185,12 +3156,12 @@ DTSTART;VALUE=DATE:20240921
 DTSTAMP;VALUE=DATE:20240703
 UID:397604-11-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n在不远的未来，海平面原因不明地急
- 速上升，导致了地表多数都沉入海中。\n小时候因为事故
- 而失去一条腿的少年斑鸠夏生，厌倦了都市的生活，移
- 居到了海边的乡村小镇。\n曾经身为海洋地质学家的祖母
- 留给他的，就只有船、潜艇还有债务。\n夏生为了取回“
- 失去
+DESCRIPTION:「」\n\n\n「在逐渐沉没的世界，我找到了你。
+ 」在近未来，不明原因的海平面上升导致大面积地表被
+ 海水淹没。幼时因意外事故失去了一条腿的少年斑鸠夏
+ 生厌倦了城市生活，迁居到了海边的乡村小镇。他无亲
+ 无故，留给他的只有曾属于海洋地质学家的祖母的船和
+ 潜水艇，以及债款
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3200,12 +3171,12 @@ DTSTART;VALUE=DATE:20240928
 DTSTAMP;VALUE=DATE:20240703
 UID:397604-12-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n在不远的未来，海平面原因不明地急
- 速上升，导致了地表多数都沉入海中。\n小时候因为事故
- 而失去一条腿的少年斑鸠夏生，厌倦了都市的生活，移
- 居到了海边的乡村小镇。\n曾经身为海洋地质学家的祖母
- 留给他的，就只有船、潜艇还有债务。\n夏生为了取回“
- 失去
+DESCRIPTION:「」\n\n\n「在逐渐沉没的世界，我找到了你。
+ 」在近未来，不明原因的海平面上升导致大面积地表被
+ 海水淹没。幼时因意外事故失去了一条腿的少年斑鸠夏
+ 生厌倦了城市生活，迁居到了海边的乡村小镇。他无亲
+ 无故，留给他的只有曾属于海洋地质学家的祖母的船和
+ 潜水艇，以及债款
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3215,12 +3186,12 @@ DTSTART;VALUE=DATE:20241005
 DTSTAMP;VALUE=DATE:20240703
 UID:397604-13-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n在不远的未来，海平面原因不明地急
- 速上升，导致了地表多数都沉入海中。\n小时候因为事故
- 而失去一条腿的少年斑鸠夏生，厌倦了都市的生活，移
- 居到了海边的乡村小镇。\n曾经身为海洋地质学家的祖母
- 留给他的，就只有船、潜艇还有债务。\n夏生为了取回“
- 失去
+DESCRIPTION:「」\n\n\n「在逐渐沉没的世界，我找到了你。
+ 」在近未来，不明原因的海平面上升导致大面积地表被
+ 海水淹没。幼时因意外事故失去了一条腿的少年斑鸠夏
+ 生厌倦了城市生活，迁居到了海边的乡村小镇。他无亲
+ 无故，留给他的只有曾属于海洋地质学家的祖母的船和
+ 潜水艇，以及债款
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3758,200 +3729,6 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:希德尼娅的骑士 1
-DTSTART;VALUE=DATE:20140410
-DTSTAMP;VALUE=DATE:20240703
-UID:77476-1-522825
-CLASS:PUBLIC
-DESCRIPTION:「初阵」\n\n\n被无法与人类沟通的异生物·奇居
- 子破坏的太阳系，只剩下一小部分的人类尚存活。他们
- 为了生存制作了如同小行星本巨大的宇宙播种船希德尼
- 娅，并在宇宙中进行旅行。\n经过了1000年后，时值希德
- 尼娅出航纪元1009年，由地下层部培育的少年谷风长道自
- 祖父
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:希德尼娅的骑士 2
-DTSTART;VALUE=DATE:20140417
-DTSTAMP;VALUE=DATE:20240703
-UID:77476-2-522825
-CLASS:PUBLIC
-DESCRIPTION:「星空」\n\n\n被无法与人类沟通的异生物·奇居
- 子破坏的太阳系，只剩下一小部分的人类尚存活。他们
- 为了生存制作了如同小行星本巨大的宇宙播种船希德尼
- 娅，并在宇宙中进行旅行。\n经过了1000年后，时值希德
- 尼娅出航纪元1009年，由地下层部培育的少年谷风长道自
- 祖父
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:希德尼娅的骑士 3
-DTSTART;VALUE=DATE:20140424
-DTSTAMP;VALUE=DATE:20240703
-UID:77476-3-522825
-CLASS:PUBLIC
-DESCRIPTION:「荣光」\n\n\n被无法与人类沟通的异生物·奇居
- 子破坏的太阳系，只剩下一小部分的人类尚存活。他们
- 为了生存制作了如同小行星本巨大的宇宙播种船希德尼
- 娅，并在宇宙中进行旅行。\n经过了1000年后，时值希德
- 尼娅出航纪元1009年，由地下层部培育的少年谷风长道自
- 祖父
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:希德尼娅的骑士 4
-DTSTART;VALUE=DATE:20140501
-DTSTAMP;VALUE=DATE:20240703
-UID:77476-4-522825
-CLASS:PUBLIC
-DESCRIPTION:「选择」\n\n\n被无法与人类沟通的异生物·奇居
- 子破坏的太阳系，只剩下一小部分的人类尚存活。他们
- 为了生存制作了如同小行星本巨大的宇宙播种船希德尼
- 娅，并在宇宙中进行旅行。\n经过了1000年后，时值希德
- 尼娅出航纪元1009年，由地下层部培育的少年谷风长道自
- 祖父
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:希德尼娅的骑士 5
-DTSTART;VALUE=DATE:20140508
-DTSTAMP;VALUE=DATE:20240703
-UID:77476-5-522825
-CLASS:PUBLIC
-DESCRIPTION:「漂流」\n\n\n被无法与人类沟通的异生物·奇居
- 子破坏的太阳系，只剩下一小部分的人类尚存活。他们
- 为了生存制作了如同小行星本巨大的宇宙播种船希德尼
- 娅，并在宇宙中进行旅行。\n经过了1000年后，时值希德
- 尼娅出航纪元1009年，由地下层部培育的少年谷风长道自
- 祖父
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:希德尼娅的骑士 6
-DTSTART;VALUE=DATE:20140515
-DTSTAMP;VALUE=DATE:20240703
-UID:77476-6-522825
-CLASS:PUBLIC
-DESCRIPTION:「敬礼」\n\n\n被无法与人类沟通的异生物·奇居
- 子破坏的太阳系，只剩下一小部分的人类尚存活。他们
- 为了生存制作了如同小行星本巨大的宇宙播种船希德尼
- 娅，并在宇宙中进行旅行。\n经过了1000年后，时值希德
- 尼娅出航纪元1009年，由地下层部培育的少年谷风长道自
- 祖父
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:希德尼娅的骑士 7
-DTSTART;VALUE=DATE:20140522
-DTSTAMP;VALUE=DATE:20240703
-UID:77476-7-522825
-CLASS:PUBLIC
-DESCRIPTION:「觉悟」\n\n\n被无法与人类沟通的异生物·奇居
- 子破坏的太阳系，只剩下一小部分的人类尚存活。他们
- 为了生存制作了如同小行星本巨大的宇宙播种船希德尼
- 娅，并在宇宙中进行旅行。\n经过了1000年后，时值希德
- 尼娅出航纪元1009年，由地下层部培育的少年谷风长道自
- 祖父
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:希德尼娅的骑士 8
-DTSTART;VALUE=DATE:20140529
-DTSTAMP;VALUE=DATE:20240703
-UID:77476-8-522825
-CLASS:PUBLIC
-DESCRIPTION:「不死」\n\n\n被无法与人类沟通的异生物·奇居
- 子破坏的太阳系，只剩下一小部分的人类尚存活。他们
- 为了生存制作了如同小行星本巨大的宇宙播种船希德尼
- 娅，并在宇宙中进行旅行。\n经过了1000年后，时值希德
- 尼娅出航纪元1009年，由地下层部培育的少年谷风长道自
- 祖父
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:希德尼娅的骑士 9
-DTSTART;VALUE=DATE:20140605
-DTSTAMP;VALUE=DATE:20240703
-UID:77476-9-522825
-CLASS:PUBLIC
-DESCRIPTION:「眼神」\n\n\n被无法与人类沟通的异生物·奇居
- 子破坏的太阳系，只剩下一小部分的人类尚存活。他们
- 为了生存制作了如同小行星本巨大的宇宙播种船希德尼
- 娅，并在宇宙中进行旅行。\n经过了1000年后，时值希德
- 尼娅出航纪元1009年，由地下层部培育的少年谷风长道自
- 祖父
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:希德尼娅的骑士 10
-DTSTART;VALUE=DATE:20140612
-DTSTAMP;VALUE=DATE:20240703
-UID:77476-10-522825
-CLASS:PUBLIC
-DESCRIPTION:「决意」\n\n\n被无法与人类沟通的异生物·奇居
- 子破坏的太阳系，只剩下一小部分的人类尚存活。他们
- 为了生存制作了如同小行星本巨大的宇宙播种船希德尼
- 娅，并在宇宙中进行旅行。\n经过了1000年后，时值希德
- 尼娅出航纪元1009年，由地下层部培育的少年谷风长道自
- 祖父
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:希德尼娅的骑士 11
-DTSTART;VALUE=DATE:20140619
-DTSTAMP;VALUE=DATE:20240703
-UID:77476-11-522825
-CLASS:PUBLIC
-DESCRIPTION:「冲突」\n\n\n被无法与人类沟通的异生物·奇居
- 子破坏的太阳系，只剩下一小部分的人类尚存活。他们
- 为了生存制作了如同小行星本巨大的宇宙播种船希德尼
- 娅，并在宇宙中进行旅行。\n经过了1000年后，时值希德
- 尼娅出航纪元1009年，由地下层部培育的少年谷风长道自
- 祖父
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:希德尼娅的骑士 12
-DTSTART;VALUE=DATE:20140626
-DTSTAMP;VALUE=DATE:20240703
-UID:77476-12-522825
-CLASS:PUBLIC
-DESCRIPTION:「归舰」\n\n\n被无法与人类沟通的异生物·奇居
- 子破坏的太阳系，只剩下一小部分的人类尚存活。他们
- 为了生存制作了如同小行星本巨大的宇宙播种船希德尼
- 娅，并在宇宙中进行旅行。\n经过了1000年后，时值希德
- 尼娅出航纪元1009年，由地下层部培育的少年谷风长道自
- 祖父
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:希德尼娅的骑士 0
-DTSTART;VALUE=DATE:20140629
-DTSTAMP;VALUE=DATE:20240703
-UID:77476-0-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n被无法与人类沟通的异生物·奇居子破
- 坏的太阳系，只剩下一小部分的人类尚存活。他们为了
- 生存制作了如同小行星本巨大的宇宙播种船希德尼娅，
- 并在宇宙中进行旅行。\n经过了1000年后，时值希德尼娅
- 出航纪元1009年，由地下层部培育的少年谷风长道自祖父
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 1
 DTSTART;VALUE=DATE:20230702
 DTSTAMP;VALUE=DATE:20240703
@@ -4284,6 +4061,557 @@ DTSTAMP;VALUE=DATE:20240703
 UID:444557-0-522825
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 1
+DTSTART;VALUE=DATE:20240104
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-1-522825
+CLASS:PUBLIC
+DESCRIPTION:「清汤锅与挞」\n\n\n迷宫饭，不是吃就是被吃
+ …\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥
+ 幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是钱
+ 和食物都留在了迷宫深处…\n在妹妹随时可能会被消化掉
+ 情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地取
+ 材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 2
+DTSTART;VALUE=DATE:20240111
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-2-522825
+CLASS:PUBLIC
+DESCRIPTION:「烤蛇尾鸡/蛋包饭/什锦天妇罗」\n\n\n迷宫饭，
+ 不是吃就是被吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n
+ 冒险者莱欧斯侥幸逃过一命回到了地面。\n他想要再度挑
+ 战迷宫，但是钱和食物都留在了迷宫深处…\n在妹妹随时
+ 可能会被消化掉情况下，莱欧斯下定了决心：\n「食物要
+ 在迷宫内就地取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 3
+DTSTART;VALUE=DATE:20240118
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-3-522825
+CLASS:PUBLIC
+DESCRIPTION:「活动铠甲」\n\n\n迷宫饭，不是吃就是被吃…\n
+ \n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
+ 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
+ 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
+ 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+ 
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 4
+DTSTART;VALUE=DATE:20240125
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-4-522825
+CLASS:PUBLIC
+DESCRIPTION:「炖煮卷心菜/兽人」\n\n\n迷宫饭，不是吃就是
+ 被吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧
+ 斯侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但
+ 是钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消
+ 化掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就
+ 地取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 5
+DTSTART;VALUE=DATE:20240201
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-5-522825
+CLASS:PUBLIC
+DESCRIPTION:「点心/冰糕」\n\n\n迷宫饭，不是吃就是被吃…\
+ n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
+ 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
+ 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
+ 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+ 
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 6
+DTSTART;VALUE=DATE:20240208
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-6-522825
+CLASS:PUBLIC
+DESCRIPTION:「宫廷料理/盐煮」\n\n\n迷宫饭，不是吃就是被
+ 吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯
+ 侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是
+ 钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消化
+ 掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地
+ 取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 7
+DTSTART;VALUE=DATE:20240215
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-7-522825
+CLASS:PUBLIC
+DESCRIPTION:「水栖马/杂烩粥/蒲烧」\n\n\n迷宫饭，不是吃就
+ 是被吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱
+ 欧斯侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，
+ 但是钱和食物都留在了迷宫深处…\n在妹妹随时可能会被
+ 消化掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内
+ 就地取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 8
+DTSTART;VALUE=DATE:20240222
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-8-522825
+CLASS:PUBLIC
+DESCRIPTION:「木莓/烤肉」\n\n\n迷宫饭，不是吃就是被吃…\
+ n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
+ 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
+ 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
+ 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+ 
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 9
+DTSTART;VALUE=DATE:20240229
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-9-522825
+CLASS:PUBLIC
+DESCRIPTION:「触手怪/浓汤」\n\n\n迷宫饭，不是吃就是被吃
+ …\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥
+ 幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是钱
+ 和食物都留在了迷宫深处…\n在妹妹随时可能会被消化掉
+ 情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地取
+ 材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 10
+DTSTART;VALUE=DATE:20240307
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-10-522825
+CLASS:PUBLIC
+DESCRIPTION:「巨蛙/地面诸事」\n\n\n迷宫饭，不是吃就是被
+ 吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯
+ 侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是
+ 钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消化
+ 掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地
+ 取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 11
+DTSTART;VALUE=DATE:20240314
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-11-522825
+CLASS:PUBLIC
+DESCRIPTION:「炎龙1」\n\n\n迷宫饭，不是吃就是被吃…\n\n妹
+ 妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃过一
+ 命回到了地面。\n他想要再度挑战迷宫，但是钱和食物都
+ 留在了迷宫深处…\n在妹妹随时可能会被消化掉情况下，
+ 莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 12
+DTSTART;VALUE=DATE:20240321
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-12-522825
+CLASS:PUBLIC
+DESCRIPTION:「炎龙2」\n\n\n迷宫饭，不是吃就是被吃…\n\n妹
+ 妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃过一
+ 命回到了地面。\n他想要再度挑战迷宫，但是钱和食物都
+ 留在了迷宫深处…\n在妹妹随时可能会被消化掉情况下，
+ 莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 13
+DTSTART;VALUE=DATE:20240328
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-13-522825
+CLASS:PUBLIC
+DESCRIPTION:「炎龙3/良药」\n\n\n迷宫饭，不是吃就是被吃…
+ \n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸
+ 逃过一命回到了地面。\n他想要再度挑战迷宫，但是钱和
+ 食物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情
+ 况下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材
+ 」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 14
+DTSTART;VALUE=DATE:20240404
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-14-522825
+CLASS:PUBLIC
+DESCRIPTION:「大海蛇」\n\n\n迷宫饭，不是吃就是被吃…\n\n
+ 妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃过
+ 一命回到了地面。\n他想要再度挑战迷宫，但是钱和食物
+ 都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况下
+ ，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 15
+DTSTART;VALUE=DATE:20240411
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-15-522825
+CLASS:PUBLIC
+DESCRIPTION:「树精/鸡蛇」\n\n\n迷宫饭，不是吃就是被吃…\
+ n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
+ 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
+ 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
+ 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+ 
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 16
+DTSTART;VALUE=DATE:20240418
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-16-522825
+CLASS:PUBLIC
+DESCRIPTION:「清洁工/味醂鱼干」\n\n\n迷宫饭，不是吃就是
+ 被吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧
+ 斯侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但
+ 是钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消
+ 化掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就
+ 地取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 17
+DTSTART;VALUE=DATE:20240425
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-17-522825
+CLASS:PUBLIC
+DESCRIPTION:「鹰身女妖/合成兽」\n\n\n迷宫饭，不是吃就是
+ 被吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧
+ 斯侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但
+ 是钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消
+ 化掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就
+ 地取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 18
+DTSTART;VALUE=DATE:20240502
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-18-522825
+CLASS:PUBLIC
+DESCRIPTION:「变形怪」\n\n\n迷宫饭，不是吃就是被吃…\n\n
+ 妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃过
+ 一命回到了地面。\n他想要再度挑战迷宫，但是钱和食物
+ 都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况下
+ ，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 19
+DTSTART;VALUE=DATE:20240509
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-19-522825
+CLASS:PUBLIC
+DESCRIPTION:「山姥/梦魔」\n\n\n迷宫饭，不是吃就是被吃…\
+ n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
+ 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
+ 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
+ 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+ 
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 20
+DTSTART;VALUE=DATE:20240516
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-20-522825
+CLASS:PUBLIC
+DESCRIPTION:「冰魔像/植物羊」\n\n\n迷宫饭，不是吃就是被
+ 吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯
+ 侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是
+ 钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消化
+ 掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地
+ 取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 21
+DTSTART;VALUE=DATE:20240523
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-21-522825
+CLASS:PUBLIC
+DESCRIPTION:「蛋/黄金国」\n\n\n迷宫饭，不是吃就是被吃…\
+ n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
+ 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
+ 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
+ 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+ 
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 22
+DTSTART;VALUE=DATE:20240530
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-22-522825
+CLASS:PUBLIC
+DESCRIPTION:「狮鹫/使魔」\n\n\n迷宫饭，不是吃就是被吃…\
+ n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
+ 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
+ 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
+ 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+ 
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 23
+DTSTART;VALUE=DATE:20240606
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-23-522825
+CLASS:PUBLIC
+DESCRIPTION:「狮鹫肉汤/饺子1」\n\n\n迷宫饭，不是吃就是被
+ 吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯
+ 侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是
+ 钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消化
+ 掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地
+ 取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 24
+DTSTART;VALUE=DATE:20240613
+DTSTAMP;VALUE=DATE:20240703
+UID:395378-24-522825
+CLASS:PUBLIC
+DESCRIPTION:「饺子2/培根煎蛋」\n\n\n迷宫饭，不是吃就是被
+ 吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯
+ 侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是
+ 钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消化
+ 掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地
+ 取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIRLS BAND CRY 1
+DTSTART;VALUE=DATE:20240405
+DTSTAMP;VALUE=DATE:20240703
+UID:431767-1-522825
+CLASS:PUBLIC
+DESCRIPTION:「东京嘿咻」\n\n\n无论是愤怒、喜悦还是悲伤
+ ，全都倾注其中。\n高中二年级，从学校退学，只身在东
+ 京以大学为目标的主人公。被同伴背叛，不知如何是好
+ 的少女。被父母抛弃，一个人在大城市里打工维生的女
+ 孩子。\n虽然这个世界总是背叛我们。虽然什么都不能称
+ 心如意。但是，因
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIRLS BAND CRY 2
+DTSTART;VALUE=DATE:20240412
+DTSTAMP;VALUE=DATE:20240703
+UID:431767-2-522825
+CLASS:PUBLIC
+DESCRIPTION:「三只夜行动物」\n\n\n无论是愤怒、喜悦还是
+ 悲伤，全都倾注其中。\n高中二年级，从学校退学，只身
+ 在东京以大学为目标的主人公。被同伴背叛，不知如何
+ 是好的少女。被父母抛弃，一个人在大城市里打工维生
+ 的女孩子。\n虽然这个世界总是背叛我们。虽然什么都不
+ 能称心如意。但是，因
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIRLS BAND CRY 3
+DTSTART;VALUE=DATE:20240419
+DTSTAMP;VALUE=DATE:20240703
+UID:431767-3-522825
+CLASS:PUBLIC
+DESCRIPTION:「无脑问答」\n\n\n无论是愤怒、喜悦还是悲伤
+ ，全都倾注其中。\n高中二年级，从学校退学，只身在东
+ 京以大学为目标的主人公。被同伴背叛，不知如何是好
+ 的少女。被父母抛弃，一个人在大城市里打工维生的女
+ 孩子。\n虽然这个世界总是背叛我们。虽然什么都不能称
+ 心如意。但是，因
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIRLS BAND CRY 4
+DTSTART;VALUE=DATE:20240426
+DTSTAMP;VALUE=DATE:20240703
+UID:431767-4-522825
+CLASS:PUBLIC
+DESCRIPTION:「感谢（惊）」\n\n\n无论是愤怒、喜悦还是悲
+ 伤，全都倾注其中。\n高中二年级，从学校退学，只身在
+ 东京以大学为目标的主人公。被同伴背叛，不知如何是
+ 好的少女。被父母抛弃，一个人在大城市里打工维生的
+ 女孩子。\n虽然这个世界总是背叛我们。虽然什么都不能
+ 称心如意。但是，因
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIRLS BAND CRY 5
+DTSTART;VALUE=DATE:20240503
+DTSTAMP;VALUE=DATE:20240703
+UID:431767-5-522825
+CLASS:PUBLIC
+DESCRIPTION:「歌声响起吧」\n\n\n无论是愤怒、喜悦还是悲
+ 伤，全都倾注其中。\n高中二年级，从学校退学，只身在
+ 东京以大学为目标的主人公。被同伴背叛，不知如何是
+ 好的少女。被父母抛弃，一个人在大城市里打工维生的
+ 女孩子。\n虽然这个世界总是背叛我们。虽然什么都不能
+ 称心如意。但是，因
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIRLS BAND CRY 6
+DTSTART;VALUE=DATE:20240510
+DTSTAMP;VALUE=DATE:20240703
+UID:431767-6-522825
+CLASS:PUBLIC
+DESCRIPTION:「独行侠赞歌」\n\n\n无论是愤怒、喜悦还是悲
+ 伤，全都倾注其中。\n高中二年级，从学校退学，只身在
+ 东京以大学为目标的主人公。被同伴背叛，不知如何是
+ 好的少女。被父母抛弃，一个人在大城市里打工维生的
+ 女孩子。\n虽然这个世界总是背叛我们。虽然什么都不能
+ 称心如意。但是，因
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIRLS BAND CRY 7
+DTSTART;VALUE=DATE:20240517
+DTSTAMP;VALUE=DATE:20240703
+UID:431767-7-522825
+CLASS:PUBLIC
+DESCRIPTION:「为它取名」\n\n\n无论是愤怒、喜悦还是悲伤
+ ，全都倾注其中。\n高中二年级，从学校退学，只身在东
+ 京以大学为目标的主人公。被同伴背叛，不知如何是好
+ 的少女。被父母抛弃，一个人在大城市里打工维生的女
+ 孩子。\n虽然这个世界总是背叛我们。虽然什么都不能称
+ 心如意。但是，因
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIRLS BAND CRY 8
+DTSTART;VALUE=DATE:20240524
+DTSTAMP;VALUE=DATE:20240703
+UID:431767-8-522825
+CLASS:PUBLIC
+DESCRIPTION:「如果你要哭的话」\n\n\n无论是愤怒、喜悦还
+ 是悲伤，全都倾注其中。\n高中二年级，从学校退学，只
+ 身在东京以大学为目标的主人公。被同伴背叛，不知如
+ 何是好的少女。被父母抛弃，一个人在大城市里打工维
+ 生的女孩子。\n虽然这个世界总是背叛我们。虽然什么都
+ 不能称心如意。但是，因
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIRLS BAND CRY 9
+DTSTART;VALUE=DATE:20240531
+DTSTAMP;VALUE=DATE:20240703
+UID:431767-9-522825
+CLASS:PUBLIC
+DESCRIPTION:「残月已经出来了」\n\n\n无论是愤怒、喜悦还
+ 是悲伤，全都倾注其中。\n高中二年级，从学校退学，只
+ 身在东京以大学为目标的主人公。被同伴背叛，不知如
+ 何是好的少女。被父母抛弃，一个人在大城市里打工维
+ 生的女孩子。\n虽然这个世界总是背叛我们。虽然什么都
+ 不能称心如意。但是，因
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIRLS BAND CRY 10
+DTSTART;VALUE=DATE:20240607
+DTSTAMP;VALUE=DATE:20240703
+UID:431767-10-522825
+CLASS:PUBLIC
+DESCRIPTION:「流浪的翅膀」\n\n\n无论是愤怒、喜悦还是悲
+ 伤，全都倾注其中。\n高中二年级，从学校退学，只身在
+ 东京以大学为目标的主人公。被同伴背叛，不知如何是
+ 好的少女。被父母抛弃，一个人在大城市里打工维生的
+ 女孩子。\n虽然这个世界总是背叛我们。虽然什么都不能
+ 称心如意。但是，因
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIRLS BAND CRY 11
+DTSTART;VALUE=DATE:20240614
+DTSTAMP;VALUE=DATE:20240703
+UID:431767-11-522825
+CLASS:PUBLIC
+DESCRIPTION:「世界的正中心」\n\n\n无论是愤怒、喜悦还是
+ 悲伤，全都倾注其中。\n高中二年级，从学校退学，只身
+ 在东京以大学为目标的主人公。被同伴背叛，不知如何
+ 是好的少女。被父母抛弃，一个人在大城市里打工维生
+ 的女孩子。\n虽然这个世界总是背叛我们。虽然什么都不
+ 能称心如意。但是，因
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIRLS BAND CRY 12
+DTSTART;VALUE=DATE:20240621
+DTSTAMP;VALUE=DATE:20240703
+UID:431767-12-522825
+CLASS:PUBLIC
+DESCRIPTION:「天空再次灰暗」\n\n\n无论是愤怒、喜悦还是
+ 悲伤，全都倾注其中。\n高中二年级，从学校退学，只身
+ 在东京以大学为目标的主人公。被同伴背叛，不知如何
+ 是好的少女。被父母抛弃，一个人在大城市里打工维生
+ 的女孩子。\n虽然这个世界总是背叛我们。虽然什么都不
+ 能称心如意。但是，因
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIRLS BAND CRY 13
+DTSTART;VALUE=DATE:20240628
+DTSTAMP;VALUE=DATE:20240703
+UID:431767-13-522825
+CLASS:PUBLIC
+DESCRIPTION:「摇滚乐永不停息」\n\n\n无论是愤怒、喜悦还
+ 是悲伤，全都倾注其中。\n高中二年级，从学校退学，只
+ 身在东京以大学为目标的主人公。被同伴背叛，不知如
+ 何是好的少女。被父母抛弃，一个人在大城市里打工维
+ 生的女孩子。\n虽然这个世界总是背叛我们。虽然什么都
+ 不能称心如意。但是，因
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
