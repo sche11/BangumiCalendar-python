@@ -785,11 +785,11 @@ DTSTART;VALUE=DATE:20240706
 DTSTAMP;VALUE=DATE:20240706
 UID:475354-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n高校を卒業し、\n阿良々木暦の物語は
- 終わった。\n今度こそ、本当に終わった。\n\nしかし暦
- に助けられた\n彼女たちの物語は、\n終わってはいなか
- った。\n\n青春の中でもがく彼女たちの、\n前日譚、あ
- るいは後日談。
+DESCRIPTION:「愚物语 第三话 月火复原」\n\n\n高校を卒業し
+ 、\n阿良々木暦の物語は終わった。\n今度こそ、本当に
+ 終わった。\n\nしかし暦に助けられた\n彼女たちの物語
+ は、\n終わってはいなかった。\n\n青春の中でもがく彼
+ 女たちの、\n前日譚、あるいは後日談。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1639,11 +1639,12 @@ DTSTART;VALUE=DATE:20240706
 DTSTAMP;VALUE=DATE:20240706
 UID:478684-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n遥か東方の果て、ヤナトの国。\n古来
- よりこの地では神々の住む頂の世と\n人間の住む麓の世
- 、\n二つの世があると信じられている――。\n\n頂の世
- に住まう上級神かつ駄女神の\nサクナヒメは、武神と豊
- 穣神の間に\n産まれながら、両親が蓄えた穀を
+DESCRIPTION:「天界的咲稻姬」\n\n\n遥か東方の果て、ヤナ
+ トの国。\n古来よりこの地では神々の住む頂の世と\n人
+ 間の住む麓の世、\n二つの世があると信じられている―
+ ―。\n\n頂の世に住まう上級神かつ駄女神の\nサクナヒ
+ メは、武神と豊穣神の間に\n産まれながら、両親が蓄え
+ た穀を
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1802,6 +1803,20 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:天穗之咲稻姬 13
+DTSTART;VALUE=DATE:20240928
+DTSTAMP;VALUE=DATE:20240706
+UID:478684-13-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n遥か東方の果て、ヤナトの国。\n古来
+ よりこの地では神々の住む頂の世と\n人間の住む麓の世
+ 、\n二つの世があると信じられている――。\n\n頂の世
+ に住まう上級神かつ駄女神の\nサクナヒメは、武神と豊
+ 穣神の間に\n産まれながら、両親が蓄えた穀を
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:剧场版 物怪 唐伞 1
 DTSTART;VALUE=DATE:20240726
 DTSTAMP;VALUE=DATE:20240706
@@ -1837,11 +1852,12 @@ DTSTART;VALUE=DATE:20240706
 DTSTAMP;VALUE=DATE:20240706
 UID:424573-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n時は西暦1333年、武士による日本統治
- の礎を築いた鎌倉幕府は、\n信頼していた幕臣・足利高
- 氏の謀反によって滅亡する。\n\n全てを失い、絶望の淵
- へと叩き落とされた幕府の正統後継者・北条時行は、\n
- 神を名乗る神官・諏訪頼重の手引きで燃え落ちる
+DESCRIPTION:「5月22日」\n\n\n時は西暦1333年、武士による日
+ 本統治の礎を築いた鎌倉幕府は、\n信頼していた幕臣・
+ 足利高氏の謀反によって滅亡する。\n\n全てを失い、絶
+ 望の淵へと叩き落とされた幕府の正統後継者・北条時
+ 行は、\n神を名乗る神官・諏訪頼重の手引きで燃え落ち
+ る
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2005,12 +2021,12 @@ DTSTART;VALUE=DATE:20240706
 DTSTAMP;VALUE=DATE:20240706
 UID:474906-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nたがいに助け合い、完全な小市民を
- 目指そう。\nかつて“知恵働き”と称する推理活動によ
- り苦い経験をした小鳩くんは、清く慎ましい小市民を
- 目指そうと決意していた。\n同じ志を立てた同級生の小
- 佐内さんとたがいに助け合う“互恵（ごけい）関係”
- を密かに
+DESCRIPTION:「羊布偶装」\n\n\nたがいに助け合い、完全な
+ 小市民を目指そう。\nかつて“知恵働き”と称する推理
+ 活動により苦い経験をした小鳩くんは、清く慎ましい
+ 小市民を目指そうと決意していた。\n同じ志を立てた同
+ 級生の小佐内さんとたがいに助け合う“互恵（ごけい
+ ）関係”を密かに
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2139,36 +2155,6 @@ SUMMARY:小市民系列 10
 DTSTART;VALUE=DATE:20240907
 DTSTAMP;VALUE=DATE:20240706
 UID:474906-10-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nたがいに助け合い、完全な小市民を
- 目指そう。\nかつて“知恵働き”と称する推理活動によ
- り苦い経験をした小鳩くんは、清く慎ましい小市民を
- 目指そうと決意していた。\n同じ志を立てた同級生の小
- 佐内さんとたがいに助け合う“互恵（ごけい）関係”
- を密かに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:小市民系列 11
-DTSTART;VALUE=DATE:20240914
-DTSTAMP;VALUE=DATE:20240706
-UID:474906-11-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nたがいに助け合い、完全な小市民を
- 目指そう。\nかつて“知恵働き”と称する推理活動によ
- り苦い経験をした小鳩くんは、清く慎ましい小市民を
- 目指そうと決意していた。\n同じ志を立てた同級生の小
- 佐内さんとたがいに助け合う“互恵（ごけい）関係”
- を密かに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:小市民系列 12
-DTSTART;VALUE=DATE:20240921
-DTSTAMP;VALUE=DATE:20240706
-UID:474906-12-522825
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\nたがいに助け合い、完全な小市民を
  目指そう。\nかつて“知恵働き”と称する推理活動によ
