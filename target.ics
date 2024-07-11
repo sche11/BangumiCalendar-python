@@ -5,17 +5,373 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
+SUMMARY:迷宫饭 1
+DTSTART;VALUE=DATE:20240104
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-1-522825
+CLASS:PUBLIC
+DESCRIPTION:「清汤锅与挞」\n\n\n迷宫饭，不是吃就是被吃
+ …\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥
+ 幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是钱
+ 和食物都留在了迷宫深处…\n在妹妹随时可能会被消化掉
+ 情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地取
+ 材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 2
+DTSTART;VALUE=DATE:20240111
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-2-522825
+CLASS:PUBLIC
+DESCRIPTION:「烤蛇尾鸡/蛋包饭/什锦天妇罗」\n\n\n迷宫饭，
+ 不是吃就是被吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n
+ 冒险者莱欧斯侥幸逃过一命回到了地面。\n他想要再度挑
+ 战迷宫，但是钱和食物都留在了迷宫深处…\n在妹妹随时
+ 可能会被消化掉情况下，莱欧斯下定了决心：\n「食物要
+ 在迷宫内就地取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 3
+DTSTART;VALUE=DATE:20240118
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-3-522825
+CLASS:PUBLIC
+DESCRIPTION:「活动铠甲」\n\n\n迷宫饭，不是吃就是被吃…\n
+ \n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
+ 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
+ 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
+ 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+ 
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 4
+DTSTART;VALUE=DATE:20240125
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-4-522825
+CLASS:PUBLIC
+DESCRIPTION:「炖煮卷心菜/兽人」\n\n\n迷宫饭，不是吃就是
+ 被吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧
+ 斯侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但
+ 是钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消
+ 化掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就
+ 地取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 5
+DTSTART;VALUE=DATE:20240201
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-5-522825
+CLASS:PUBLIC
+DESCRIPTION:「点心/冰糕」\n\n\n迷宫饭，不是吃就是被吃…\
+ n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
+ 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
+ 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
+ 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+ 
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 6
+DTSTART;VALUE=DATE:20240208
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-6-522825
+CLASS:PUBLIC
+DESCRIPTION:「宫廷料理/盐煮」\n\n\n迷宫饭，不是吃就是被
+ 吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯
+ 侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是
+ 钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消化
+ 掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地
+ 取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 7
+DTSTART;VALUE=DATE:20240215
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-7-522825
+CLASS:PUBLIC
+DESCRIPTION:「水栖马/杂烩粥/蒲烧」\n\n\n迷宫饭，不是吃就
+ 是被吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱
+ 欧斯侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，
+ 但是钱和食物都留在了迷宫深处…\n在妹妹随时可能会被
+ 消化掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内
+ 就地取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 8
+DTSTART;VALUE=DATE:20240222
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-8-522825
+CLASS:PUBLIC
+DESCRIPTION:「木莓/烤肉」\n\n\n迷宫饭，不是吃就是被吃…\
+ n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
+ 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
+ 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
+ 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+ 
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 9
+DTSTART;VALUE=DATE:20240229
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-9-522825
+CLASS:PUBLIC
+DESCRIPTION:「触手怪/浓汤」\n\n\n迷宫饭，不是吃就是被吃
+ …\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥
+ 幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是钱
+ 和食物都留在了迷宫深处…\n在妹妹随时可能会被消化掉
+ 情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地取
+ 材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 10
+DTSTART;VALUE=DATE:20240307
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-10-522825
+CLASS:PUBLIC
+DESCRIPTION:「巨蛙/地面诸事」\n\n\n迷宫饭，不是吃就是被
+ 吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯
+ 侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是
+ 钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消化
+ 掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地
+ 取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 11
+DTSTART;VALUE=DATE:20240314
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-11-522825
+CLASS:PUBLIC
+DESCRIPTION:「炎龙1」\n\n\n迷宫饭，不是吃就是被吃…\n\n妹
+ 妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃过一
+ 命回到了地面。\n他想要再度挑战迷宫，但是钱和食物都
+ 留在了迷宫深处…\n在妹妹随时可能会被消化掉情况下，
+ 莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 12
+DTSTART;VALUE=DATE:20240321
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-12-522825
+CLASS:PUBLIC
+DESCRIPTION:「炎龙2」\n\n\n迷宫饭，不是吃就是被吃…\n\n妹
+ 妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃过一
+ 命回到了地面。\n他想要再度挑战迷宫，但是钱和食物都
+ 留在了迷宫深处…\n在妹妹随时可能会被消化掉情况下，
+ 莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 13
+DTSTART;VALUE=DATE:20240328
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-13-522825
+CLASS:PUBLIC
+DESCRIPTION:「炎龙3/良药」\n\n\n迷宫饭，不是吃就是被吃…
+ \n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸
+ 逃过一命回到了地面。\n他想要再度挑战迷宫，但是钱和
+ 食物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情
+ 况下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材
+ 」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 14
+DTSTART;VALUE=DATE:20240404
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-14-522825
+CLASS:PUBLIC
+DESCRIPTION:「大海蛇」\n\n\n迷宫饭，不是吃就是被吃…\n\n
+ 妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃过
+ 一命回到了地面。\n他想要再度挑战迷宫，但是钱和食物
+ 都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况下
+ ，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 15
+DTSTART;VALUE=DATE:20240411
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-15-522825
+CLASS:PUBLIC
+DESCRIPTION:「树精/鸡蛇」\n\n\n迷宫饭，不是吃就是被吃…\
+ n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
+ 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
+ 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
+ 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+ 
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 16
+DTSTART;VALUE=DATE:20240418
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-16-522825
+CLASS:PUBLIC
+DESCRIPTION:「清洁工/味醂鱼干」\n\n\n迷宫饭，不是吃就是
+ 被吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧
+ 斯侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但
+ 是钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消
+ 化掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就
+ 地取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 17
+DTSTART;VALUE=DATE:20240425
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-17-522825
+CLASS:PUBLIC
+DESCRIPTION:「鹰身女妖/合成兽」\n\n\n迷宫饭，不是吃就是
+ 被吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧
+ 斯侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但
+ 是钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消
+ 化掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就
+ 地取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 18
+DTSTART;VALUE=DATE:20240502
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-18-522825
+CLASS:PUBLIC
+DESCRIPTION:「变形怪」\n\n\n迷宫饭，不是吃就是被吃…\n\n
+ 妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃过
+ 一命回到了地面。\n他想要再度挑战迷宫，但是钱和食物
+ 都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况下
+ ，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 19
+DTSTART;VALUE=DATE:20240509
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-19-522825
+CLASS:PUBLIC
+DESCRIPTION:「山姥/梦魔」\n\n\n迷宫饭，不是吃就是被吃…\
+ n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
+ 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
+ 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
+ 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+ 
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 20
+DTSTART;VALUE=DATE:20240516
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-20-522825
+CLASS:PUBLIC
+DESCRIPTION:「冰魔像/植物羊」\n\n\n迷宫饭，不是吃就是被
+ 吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯
+ 侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是
+ 钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消化
+ 掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地
+ 取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 21
+DTSTART;VALUE=DATE:20240523
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-21-522825
+CLASS:PUBLIC
+DESCRIPTION:「蛋/黄金国」\n\n\n迷宫饭，不是吃就是被吃…\
+ n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
+ 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
+ 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
+ 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+ 
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 22
+DTSTART;VALUE=DATE:20240530
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-22-522825
+CLASS:PUBLIC
+DESCRIPTION:「狮鹫/使魔」\n\n\n迷宫饭，不是吃就是被吃…\
+ n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
+ 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
+ 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
+ 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
+ 
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 23
+DTSTART;VALUE=DATE:20240606
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-23-522825
+CLASS:PUBLIC
+DESCRIPTION:「狮鹫肉汤/饺子1」\n\n\n迷宫饭，不是吃就是被
+ 吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯
+ 侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是
+ 钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消化
+ 掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地
+ 取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:迷宫饭 24
+DTSTART;VALUE=DATE:20240613
+DTSTAMP;VALUE=DATE:20240711
+UID:395378-24-522825
+CLASS:PUBLIC
+DESCRIPTION:「饺子2/培根煎蛋」\n\n\n迷宫饭，不是吃就是被
+ 吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯
+ 侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是
+ 钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消化
+ 掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地
+ 取材」
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:杖与剑的魔剑谭 1
 DTSTART;VALUE=DATE:20240707
 DTSTAMP;VALUE=DATE:20240711
 UID:479477-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「宛若一把剑」\n\n\n里加甸魔法學院六年級生
- ──威爾・賽爾佛特，\n被稱為「只擅長學科的書呆子」
- 。\n\n威爾連初階魔法都無法使用，被大家藐視為學院的
- 吊車尾。 \n\n為了遵守與兒時玩伴──愛爾法利亞的約定
- ，威爾作為魔導士，\n以最强稱號「至高五杖」為目標，
- 但這
+DESCRIPTION:「宛若一把剑」\n\n\n里加甸魔法学院六年级生
+ ──威尔・赛尔佛特，\n被称为「只擅长学科的书呆子」
+ 。\n\n威尔连初阶魔法都无法使用，被大家藐视为学院的
+ 吊车尾。 \n\n为了遵守与儿时玩伴──爱尔法利亚的约定
+ ，威尔作为魔导士，\n以最强称号「至高五杖」为目标，
+ 但这
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -25,12 +381,12 @@ DTSTART;VALUE=DATE:20240714
 DTSTAMP;VALUE=DATE:20240711
 UID:479477-2-522825
 CLASS:PUBLIC
-DESCRIPTION:「不屈不挠」\n\n\n里加甸魔法學院六年級生─
- ─威爾・賽爾佛特，\n被稱為「只擅長學科的書呆子」。
- \n\n威爾連初階魔法都無法使用，被大家藐視為學院的吊
- 車尾。 \n\n為了遵守與兒時玩伴──愛爾法利亞的約定，
- 威爾作為魔導士，\n以最强稱號「至高五杖」為目標，但
- 這
+DESCRIPTION:「不屈不挠」\n\n\n里加甸魔法学院六年级生─
+ ─威尔・赛尔佛特，\n被称为「只擅长学科的书呆子」。
+ \n\n威尔连初阶魔法都无法使用，被大家藐视为学院的吊
+ 车尾。 \n\n为了遵守与儿时玩伴──爱尔法利亚的约定，
+ 威尔作为魔导士，\n以最强称号「至高五杖」为目标，但
+ 这
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -40,11 +396,11 @@ DTSTART;VALUE=DATE:20240721
 DTSTAMP;VALUE=DATE:20240711
 UID:479477-3-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法學院六年級生──威爾・
- 賽爾佛特，\n被稱為「只擅長學科的書呆子」。\n\n威爾
- 連初階魔法都無法使用，被大家藐視為學院的吊車尾。 \
- n\n為了遵守與兒時玩伴──愛爾法利亞的約定，威爾作
- 為魔導士，\n以最强稱號「至高五杖」為目標，但這
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔佛特，\n被称为「只擅长学科的书呆子」。\n\n威尔
+ 连初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \
+ n\n为了遵守与儿时玩伴──爱尔法利亚的约定，威尔作
+ 为魔导士，\n以最强称号「至高五杖」为目标，但这
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -54,11 +410,11 @@ DTSTART;VALUE=DATE:20240728
 DTSTAMP;VALUE=DATE:20240711
 UID:479477-4-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法學院六年級生──威爾・
- 賽爾佛特，\n被稱為「只擅長學科的書呆子」。\n\n威爾
- 連初階魔法都無法使用，被大家藐視為學院的吊車尾。 \
- n\n為了遵守與兒時玩伴──愛爾法利亞的約定，威爾作
- 為魔導士，\n以最强稱號「至高五杖」為目標，但這
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔佛特，\n被称为「只擅长学科的书呆子」。\n\n威尔
+ 连初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \
+ n\n为了遵守与儿时玩伴──爱尔法利亚的约定，威尔作
+ 为魔导士，\n以最强称号「至高五杖」为目标，但这
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -68,11 +424,11 @@ DTSTART;VALUE=DATE:20240804
 DTSTAMP;VALUE=DATE:20240711
 UID:479477-5-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法學院六年級生──威爾・
- 賽爾佛特，\n被稱為「只擅長學科的書呆子」。\n\n威爾
- 連初階魔法都無法使用，被大家藐視為學院的吊車尾。 \
- n\n為了遵守與兒時玩伴──愛爾法利亞的約定，威爾作
- 為魔導士，\n以最强稱號「至高五杖」為目標，但這
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔佛特，\n被称为「只擅长学科的书呆子」。\n\n威尔
+ 连初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \
+ n\n为了遵守与儿时玩伴──爱尔法利亚的约定，威尔作
+ 为魔导士，\n以最强称号「至高五杖」为目标，但这
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -82,11 +438,11 @@ DTSTART;VALUE=DATE:20240811
 DTSTAMP;VALUE=DATE:20240711
 UID:479477-6-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法學院六年級生──威爾・
- 賽爾佛特，\n被稱為「只擅長學科的書呆子」。\n\n威爾
- 連初階魔法都無法使用，被大家藐視為學院的吊車尾。 \
- n\n為了遵守與兒時玩伴──愛爾法利亞的約定，威爾作
- 為魔導士，\n以最强稱號「至高五杖」為目標，但這
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔佛特，\n被称为「只擅长学科的书呆子」。\n\n威尔
+ 连初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \
+ n\n为了遵守与儿时玩伴──爱尔法利亚的约定，威尔作
+ 为魔导士，\n以最强称号「至高五杖」为目标，但这
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -96,11 +452,11 @@ DTSTART;VALUE=DATE:20240818
 DTSTAMP;VALUE=DATE:20240711
 UID:479477-7-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法學院六年級生──威爾・
- 賽爾佛特，\n被稱為「只擅長學科的書呆子」。\n\n威爾
- 連初階魔法都無法使用，被大家藐視為學院的吊車尾。 \
- n\n為了遵守與兒時玩伴──愛爾法利亞的約定，威爾作
- 為魔導士，\n以最强稱號「至高五杖」為目標，但這
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔佛特，\n被称为「只擅长学科的书呆子」。\n\n威尔
+ 连初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \
+ n\n为了遵守与儿时玩伴──爱尔法利亚的约定，威尔作
+ 为魔导士，\n以最强称号「至高五杖」为目标，但这
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -110,11 +466,11 @@ DTSTART;VALUE=DATE:20240825
 DTSTAMP;VALUE=DATE:20240711
 UID:479477-8-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法學院六年級生──威爾・
- 賽爾佛特，\n被稱為「只擅長學科的書呆子」。\n\n威爾
- 連初階魔法都無法使用，被大家藐視為學院的吊車尾。 \
- n\n為了遵守與兒時玩伴──愛爾法利亞的約定，威爾作
- 為魔導士，\n以最强稱號「至高五杖」為目標，但這
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔佛特，\n被称为「只擅长学科的书呆子」。\n\n威尔
+ 连初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \
+ n\n为了遵守与儿时玩伴──爱尔法利亚的约定，威尔作
+ 为魔导士，\n以最强称号「至高五杖」为目标，但这
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -124,11 +480,11 @@ DTSTART;VALUE=DATE:20240901
 DTSTAMP;VALUE=DATE:20240711
 UID:479477-9-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法學院六年級生──威爾・
- 賽爾佛特，\n被稱為「只擅長學科的書呆子」。\n\n威爾
- 連初階魔法都無法使用，被大家藐視為學院的吊車尾。 \
- n\n為了遵守與兒時玩伴──愛爾法利亞的約定，威爾作
- 為魔導士，\n以最强稱號「至高五杖」為目標，但這
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔佛特，\n被称为「只擅长学科的书呆子」。\n\n威尔
+ 连初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \
+ n\n为了遵守与儿时玩伴──爱尔法利亚的约定，威尔作
+ 为魔导士，\n以最强称号「至高五杖」为目标，但这
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -138,11 +494,11 @@ DTSTART;VALUE=DATE:20240908
 DTSTAMP;VALUE=DATE:20240711
 UID:479477-10-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法學院六年級生──威爾・
- 賽爾佛特，\n被稱為「只擅長學科的書呆子」。\n\n威爾
- 連初階魔法都無法使用，被大家藐視為學院的吊車尾。 \
- n\n為了遵守與兒時玩伴──愛爾法利亞的約定，威爾作
- 為魔導士，\n以最强稱號「至高五杖」為目標，但這
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔佛特，\n被称为「只擅长学科的书呆子」。\n\n威尔
+ 连初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \
+ n\n为了遵守与儿时玩伴──爱尔法利亚的约定，威尔作
+ 为魔导士，\n以最强称号「至高五杖」为目标，但这
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -152,11 +508,11 @@ DTSTART;VALUE=DATE:20240915
 DTSTAMP;VALUE=DATE:20240711
 UID:479477-11-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法學院六年級生──威爾・
- 賽爾佛特，\n被稱為「只擅長學科的書呆子」。\n\n威爾
- 連初階魔法都無法使用，被大家藐視為學院的吊車尾。 \
- n\n為了遵守與兒時玩伴──愛爾法利亞的約定，威爾作
- 為魔導士，\n以最强稱號「至高五杖」為目標，但這
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔佛特，\n被称为「只擅长学科的书呆子」。\n\n威尔
+ 连初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \
+ n\n为了遵守与儿时玩伴──爱尔法利亚的约定，威尔作
+ 为魔导士，\n以最强称号「至高五杖」为目标，但这
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -166,11 +522,11 @@ DTSTART;VALUE=DATE:20240922
 DTSTAMP;VALUE=DATE:20240711
 UID:479477-12-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n里加甸魔法學院六年級生──威爾・
- 賽爾佛特，\n被稱為「只擅長學科的書呆子」。\n\n威爾
- 連初階魔法都無法使用，被大家藐視為學院的吊車尾。 \
- n\n為了遵守與兒時玩伴──愛爾法利亞的約定，威爾作
- 為魔導士，\n以最强稱號「至高五杖」為目標，但這
+DESCRIPTION:「」\n\n\n里加甸魔法学院六年级生──威尔・
+ 赛尔佛特，\n被称为「只擅长学科的书呆子」。\n\n威尔
+ 连初阶魔法都无法使用，被大家藐视为学院的吊车尾。 \
+ n\n为了遵守与儿时玩伴──爱尔法利亚的约定，威尔作
+ 为魔导士，\n以最强称号「至高五杖」为目标，但这
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -944,10 +1300,10 @@ DTSTART;VALUE=DATE:20240706
 DTSTAMP;VALUE=DATE:20240711
 UID:475354-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「愚物语 第三话 月火复原」\n\n\n高中畢業後，
- \n阿良良木暦的故事結束了。\n\n這一次是真的結束了，\n
- 不過暦所幫助的少女們的故事卻還沒有結束。\n\n這是這
- 些女孩在青春中奮鬥的前傳，\n抑或是續集。
+DESCRIPTION:「愚物语 月火复原」\n\n\n高中畢業後，\n阿良
+ 良木暦的故事結束了。\n\n這一次是真的結束了，\n不過
+ 暦所幫助的少女們的故事卻還沒有結束。\n\n這是這些女
+ 孩在青春中奮鬥的前傳，\n抑或是續集。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -957,10 +1313,10 @@ DTSTART;VALUE=DATE:20240713
 DTSTAMP;VALUE=DATE:20240711
 UID:475354-2-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n高中畢業後，\n阿良良木暦的故事結束
- 了。\n\n這一次是真的結束了，\n不過暦所幫助的少女們
- 的故事卻還沒有結束。\n\n這是這些女孩在青春中奮鬥的
- 前傳，\n抑或是續集。
+DESCRIPTION:「抚物语 抚子Draw 其之一」\n\n\n高中畢業後，\n
+ 阿良良木暦的故事結束了。\n\n這一次是真的結束了，\n
+ 不過暦所幫助的少女們的故事卻還沒有結束。\n\n這是這
+ 些女孩在青春中奮鬥的前傳，\n抑或是續集。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3361,698 +3717,6 @@ DESCRIPTION:「第三天」\n\n\n小时候，日向翔阳从电视上看
  ，一直想成为“小巨人”一样的人。初中时排球社不够
  人数，只好默默等待，后来在终于有新成员后，参与了
  第一次也是最后一赛的比
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 1
-DTSTART;VALUE=DATE:20230702
-DTSTAMP;VALUE=DATE:20240711
-UID:373247-1-522825
-CLASS:PUBLIC
-DESCRIPTION:「守护术师菲兹」\n\n\n「俺は、この異世界で
- 本気だす！」\n34歳・童貞・無職の引きこもりニート男
- 。\n両親の葬儀の日に家を追い出された瞬間、\nトラッ
- クに轢かれ命を落としてしまう。\n目覚めると、なんと
- 剣と魔法の\n異世界で赤ん坊に生まれ変わっていた！\n
- ゴミク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 2
-DTSTART;VALUE=DATE:20230709
-DTSTAMP;VALUE=DATE:20240711
-UID:373247-2-522825
-CLASS:PUBLIC
-DESCRIPTION:「失意的魔术师」\n\n\n「俺は、この異世界で
- 本気だす！」\n34歳・童貞・無職の引きこもりニート男
- 。\n両親の葬儀の日に家を追い出された瞬間、\nトラッ
- クに轢かれ命を落としてしまう。\n目覚めると、なんと
- 剣と魔法の\n異世界で赤ん坊に生まれ変わっていた！\n
- ゴミク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 3
-DTSTART;VALUE=DATE:20230716
-DTSTAMP;VALUE=DATE:20240711
-UID:373247-3-522825
-CLASS:PUBLIC
-DESCRIPTION:「深夜里的森林」\n\n\n「俺は、この異世界で
- 本気だす！」\n34歳・童貞・無職の引きこもりニート男
- 。\n両親の葬儀の日に家を追い出された瞬間、\nトラッ
- クに轢かれ命を落としてしまう。\n目覚めると、なんと
- 剣と魔法の\n異世界で赤ん坊に生まれ変わっていた！\n
- ゴミク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 4
-DTSTART;VALUE=DATE:20230723
-DTSTAMP;VALUE=DATE:20240711
-UID:373247-4-522825
-CLASS:PUBLIC
-DESCRIPTION:「快速进展」\n\n\n「俺は、この異世界で本気
- だす！」\n34歳・童貞・無職の引きこもりニート男。\n
- 両親の葬儀の日に家を追い出された瞬間、\nトラックに
- 轢かれ命を落としてしまう。\n目覚めると、なんと剣と
- 魔法の\n異世界で赤ん坊に生まれ変わっていた！\nゴミ
- ク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 5
-DTSTART;VALUE=DATE:20230730
-DTSTAMP;VALUE=DATE:20240711
-UID:373247-5-522825
-CLASS:PUBLIC
-DESCRIPTION:「推荐信」\n\n\n「俺は、この異世界で本気だ
- す！」\n34歳・童貞・無職の引きこもりニート男。\n両
- 親の葬儀の日に家を追い出された瞬間、\nトラックに轢
- かれ命を落としてしまう。\n目覚めると、なんと剣と魔
- 法の\n異世界で赤ん坊に生まれ変わっていた！\nゴミク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 6
-DTSTART;VALUE=DATE:20230806
-DTSTAMP;VALUE=DATE:20240711
-UID:373247-6-522825
-CLASS:PUBLIC
-DESCRIPTION:「拉诺亚魔法大学」\n\n\n「俺は、この異世界
- で本気だす！」\n34歳・童貞・無職の引きこもりニート
- 男。\n両親の葬儀の日に家を追い出された瞬間、\nトラ
- ックに轢かれ命を落としてしまう。\n目覚めると、なん
- と剣と魔法の\n異世界で赤ん坊に生まれ変わっていた！
- \nゴミク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 7
-DTSTART;VALUE=DATE:20230813
-DTSTAMP;VALUE=DATE:20240711
-UID:373247-7-522825
-CLASS:PUBLIC
-DESCRIPTION:「我不想死」\n\n\n「俺は、この異世界で本気
- だす！」\n34歳・童貞・無職の引きこもりニート男。\n
- 両親の葬儀の日に家を追い出された瞬間、\nトラックに
- 轢かれ命を落としてしまう。\n目覚めると、なんと剣と
- 魔法の\n異世界で赤ん坊に生まれ変わっていた！\nゴミ
- ク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 8
-DTSTART;VALUE=DATE:20230820
-DTSTAMP;VALUE=DATE:20240711
-UID:373247-8-522825
-CLASS:PUBLIC
-DESCRIPTION:「兽族大小姐绑架监禁事件」\n\n\n「俺は、こ
- の異世界で本気だす！」\n34歳・童貞・無職の引きこも
- りニート男。\n両親の葬儀の日に家を追い出された瞬間
- 、\nトラックに轢かれ命を落としてしまう。\n目覚める
- と、なんと剣と魔法の\n異世界で赤ん坊に生まれ変わっ
- ていた！\nゴミク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 9
-DTSTART;VALUE=DATE:20230827
-DTSTAMP;VALUE=DATE:20240711
-UID:373247-9-522825
-CLASS:PUBLIC
-DESCRIPTION:「绝望的婚约者」\n\n\n「俺は、この異世界で
- 本気だす！」\n34歳・童貞・無職の引きこもりニート男
- 。\n両親の葬儀の日に家を追い出された瞬間、\nトラッ
- クに轢かれ命を落としてしまう。\n目覚めると、なんと
- 剣と魔法の\n異世界で赤ん坊に生まれ変わっていた！\n
- ゴミク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 10
-DTSTART;VALUE=DATE:20230903
-DTSTAMP;VALUE=DATE:20240711
-UID:373247-10-522825
-CLASS:PUBLIC
-DESCRIPTION:「白色面具」\n\n\n「俺は、この異世界で本気
- だす！」\n34歳・童貞・無職の引きこもりニート男。\n
- 両親の葬儀の日に家を追い出された瞬間、\nトラックに
- 轢かれ命を落としてしまう。\n目覚めると、なんと剣と
- 魔法の\n異世界で赤ん坊に生まれ変わっていた！\nゴミ
- ク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 11
-DTSTART;VALUE=DATE:20230910
-DTSTAMP;VALUE=DATE:20240711
-UID:373247-11-522825
-CLASS:PUBLIC
-DESCRIPTION:「这份心意」\n\n\n「俺は、この異世界で本気
- だす！」\n34歳・童貞・無職の引きこもりニート男。\n
- 両親の葬儀の日に家を追い出された瞬間、\nトラックに
- 轢かれ命を落としてしまう。\n目覚めると、なんと剣と
- 魔法の\n異世界で赤ん坊に生まれ変わっていた！\nゴミ
- ク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 12
-DTSTART;VALUE=DATE:20230917
-DTSTAMP;VALUE=DATE:20240711
-UID:373247-12-522825
-CLASS:PUBLIC
-DESCRIPTION:「给你」\n\n\n「俺は、この異世界で本気だす
- ！」\n34歳・童貞・無職の引きこもりニート男。\n両親
- の葬儀の日に家を追い出された瞬間、\nトラックに轢か
- れ命を落としてしまう。\n目覚めると、なんと剣と魔法
- の\n異世界で赤ん坊に生まれ変わっていた！\nゴミク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 13
-DTSTART;VALUE=DATE:20230924
-DTSTAMP;VALUE=DATE:20240711
-UID:373247-13-522825
-CLASS:PUBLIC
-DESCRIPTION:「想告诉你」\n\n\n「俺は、この異世界で本気
- だす！」\n34歳・童貞・無職の引きこもりニート男。\n
- 両親の葬儀の日に家を追い出された瞬間、\nトラックに
- 轢かれ命を落としてしまう。\n目覚めると、なんと剣と
- 魔法の\n異世界で赤ん坊に生まれ変わっていた！\nゴミ
- ク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 第2部分
-  1
-DTSTART;VALUE=DATE:20240407
-DTSTAMP;VALUE=DATE:20240711
-UID:444557-1-522825
-CLASS:PUBLIC
-DESCRIPTION:「我梦想中的家」\n\n\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 第2部分
-  2
-DTSTART;VALUE=DATE:20240414
-DTSTAMP;VALUE=DATE:20240711
-UID:444557-2-522825
-CLASS:PUBLIC
-DESCRIPTION:「婚礼」\n\n\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 第2部分
-  3
-DTSTART;VALUE=DATE:20240421
-DTSTAMP;VALUE=DATE:20240711
-UID:444557-3-522825
-CLASS:PUBLIC
-DESCRIPTION:「遥远」\n\n\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 第2部分
-  4
-DTSTART;VALUE=DATE:20240428
-DTSTAMP;VALUE=DATE:20240711
-UID:444557-4-522825
-CLASS:PUBLIC
-DESCRIPTION:「诺伦与爱夏」\n\n\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 第2部分
-  5
-DTSTART;VALUE=DATE:20240505
-DTSTAMP;VALUE=DATE:20240711
-UID:444557-5-522825
-CLASS:PUBLIC
-DESCRIPTION:「大哥的心意」\n\n\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 第2部分
-  6
-DTSTART;VALUE=DATE:20240512
-DTSTAMP;VALUE=DATE:20240711
-UID:444557-6-522825
-CLASS:PUBLIC
-DESCRIPTION:「转折点3」\n\n\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 第2部分
-  7
-DTSTART;VALUE=DATE:20240526
-DTSTAMP;VALUE=DATE:20240711
-UID:444557-7-522825
-CLASS:PUBLIC
-DESCRIPTION:「沙漠之旅」\n\n\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 第2部分
-  8
-DTSTART;VALUE=DATE:20240602
-DTSTAMP;VALUE=DATE:20240711
-UID:444557-8-522825
-CLASS:PUBLIC
-DESCRIPTION:「进入迷宫」\n\n\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 第2部分
-  9
-DTSTART;VALUE=DATE:20240609
-DTSTAMP;VALUE=DATE:20240711
-UID:444557-9-522825
-CLASS:PUBLIC
-DESCRIPTION:「第六层的魔法阵」\n\n\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 第2部分
-  10
-DTSTART;VALUE=DATE:20240616
-DTSTAMP;VALUE=DATE:20240711
-UID:444557-10-522825
-CLASS:PUBLIC
-DESCRIPTION:「双亲」\n\n\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 第2部分
-  11
-DTSTART;VALUE=DATE:20240623
-DTSTAMP;VALUE=DATE:20240711
-UID:444557-11-522825
-CLASS:PUBLIC
-DESCRIPTION:「回去吧」\n\n\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 第2部分
-  12
-DTSTART;VALUE=DATE:20240630
-DTSTAMP;VALUE=DATE:20240711
-UID:444557-12-522825
-CLASS:PUBLIC
-DESCRIPTION:「继承」\n\n\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 第2部分
-  0
-DTSTART;VALUE=DATE:20240519
-DTSTAMP;VALUE=DATE:20240711
-UID:444557-0-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 1
-DTSTART;VALUE=DATE:20240104
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-1-522825
-CLASS:PUBLIC
-DESCRIPTION:「清汤锅与挞」\n\n\n迷宫饭，不是吃就是被吃
- …\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥
- 幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是钱
- 和食物都留在了迷宫深处…\n在妹妹随时可能会被消化掉
- 情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地取
- 材」
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 2
-DTSTART;VALUE=DATE:20240111
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-2-522825
-CLASS:PUBLIC
-DESCRIPTION:「烤蛇尾鸡/蛋包饭/什锦天妇罗」\n\n\n迷宫饭，
- 不是吃就是被吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n
- 冒险者莱欧斯侥幸逃过一命回到了地面。\n他想要再度挑
- 战迷宫，但是钱和食物都留在了迷宫深处…\n在妹妹随时
- 可能会被消化掉情况下，莱欧斯下定了决心：\n「食物要
- 在迷宫内就地取材」
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 3
-DTSTART;VALUE=DATE:20240118
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-3-522825
-CLASS:PUBLIC
-DESCRIPTION:「活动铠甲」\n\n\n迷宫饭，不是吃就是被吃…\n
- \n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
- 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
- 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
- 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
- 
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 4
-DTSTART;VALUE=DATE:20240125
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-4-522825
-CLASS:PUBLIC
-DESCRIPTION:「炖煮卷心菜/兽人」\n\n\n迷宫饭，不是吃就是
- 被吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧
- 斯侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但
- 是钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消
- 化掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就
- 地取材」
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 5
-DTSTART;VALUE=DATE:20240201
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-5-522825
-CLASS:PUBLIC
-DESCRIPTION:「点心/冰糕」\n\n\n迷宫饭，不是吃就是被吃…\
- n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
- 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
- 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
- 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
- 
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 6
-DTSTART;VALUE=DATE:20240208
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-6-522825
-CLASS:PUBLIC
-DESCRIPTION:「宫廷料理/盐煮」\n\n\n迷宫饭，不是吃就是被
- 吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯
- 侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是
- 钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消化
- 掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地
- 取材」
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 7
-DTSTART;VALUE=DATE:20240215
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-7-522825
-CLASS:PUBLIC
-DESCRIPTION:「水栖马/杂烩粥/蒲烧」\n\n\n迷宫饭，不是吃就
- 是被吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱
- 欧斯侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，
- 但是钱和食物都留在了迷宫深处…\n在妹妹随时可能会被
- 消化掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内
- 就地取材」
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 8
-DTSTART;VALUE=DATE:20240222
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-8-522825
-CLASS:PUBLIC
-DESCRIPTION:「木莓/烤肉」\n\n\n迷宫饭，不是吃就是被吃…\
- n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
- 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
- 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
- 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
- 
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 9
-DTSTART;VALUE=DATE:20240229
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-9-522825
-CLASS:PUBLIC
-DESCRIPTION:「触手怪/浓汤」\n\n\n迷宫饭，不是吃就是被吃
- …\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥
- 幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是钱
- 和食物都留在了迷宫深处…\n在妹妹随时可能会被消化掉
- 情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地取
- 材」
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 10
-DTSTART;VALUE=DATE:20240307
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-10-522825
-CLASS:PUBLIC
-DESCRIPTION:「巨蛙/地面诸事」\n\n\n迷宫饭，不是吃就是被
- 吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯
- 侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是
- 钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消化
- 掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地
- 取材」
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 11
-DTSTART;VALUE=DATE:20240314
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-11-522825
-CLASS:PUBLIC
-DESCRIPTION:「炎龙1」\n\n\n迷宫饭，不是吃就是被吃…\n\n妹
- 妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃过一
- 命回到了地面。\n他想要再度挑战迷宫，但是钱和食物都
- 留在了迷宫深处…\n在妹妹随时可能会被消化掉情况下，
- 莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 12
-DTSTART;VALUE=DATE:20240321
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-12-522825
-CLASS:PUBLIC
-DESCRIPTION:「炎龙2」\n\n\n迷宫饭，不是吃就是被吃…\n\n妹
- 妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃过一
- 命回到了地面。\n他想要再度挑战迷宫，但是钱和食物都
- 留在了迷宫深处…\n在妹妹随时可能会被消化掉情况下，
- 莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 13
-DTSTART;VALUE=DATE:20240328
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-13-522825
-CLASS:PUBLIC
-DESCRIPTION:「炎龙3/良药」\n\n\n迷宫饭，不是吃就是被吃…
- \n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸
- 逃过一命回到了地面。\n他想要再度挑战迷宫，但是钱和
- 食物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情
- 况下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材
- 」
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 14
-DTSTART;VALUE=DATE:20240404
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-14-522825
-CLASS:PUBLIC
-DESCRIPTION:「大海蛇」\n\n\n迷宫饭，不是吃就是被吃…\n\n
- 妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃过
- 一命回到了地面。\n他想要再度挑战迷宫，但是钱和食物
- 都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况下
- ，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 15
-DTSTART;VALUE=DATE:20240411
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-15-522825
-CLASS:PUBLIC
-DESCRIPTION:「树精/鸡蛇」\n\n\n迷宫饭，不是吃就是被吃…\
- n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
- 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
- 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
- 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
- 
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 16
-DTSTART;VALUE=DATE:20240418
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-16-522825
-CLASS:PUBLIC
-DESCRIPTION:「清洁工/味醂鱼干」\n\n\n迷宫饭，不是吃就是
- 被吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧
- 斯侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但
- 是钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消
- 化掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就
- 地取材」
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 17
-DTSTART;VALUE=DATE:20240425
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-17-522825
-CLASS:PUBLIC
-DESCRIPTION:「鹰身女妖/合成兽」\n\n\n迷宫饭，不是吃就是
- 被吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧
- 斯侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但
- 是钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消
- 化掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就
- 地取材」
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 18
-DTSTART;VALUE=DATE:20240502
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-18-522825
-CLASS:PUBLIC
-DESCRIPTION:「变形怪」\n\n\n迷宫饭，不是吃就是被吃…\n\n
- 妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃过
- 一命回到了地面。\n他想要再度挑战迷宫，但是钱和食物
- 都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况下
- ，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 19
-DTSTART;VALUE=DATE:20240509
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-19-522825
-CLASS:PUBLIC
-DESCRIPTION:「山姥/梦魔」\n\n\n迷宫饭，不是吃就是被吃…\
- n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
- 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
- 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
- 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
- 
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 20
-DTSTART;VALUE=DATE:20240516
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-20-522825
-CLASS:PUBLIC
-DESCRIPTION:「冰魔像/植物羊」\n\n\n迷宫饭，不是吃就是被
- 吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯
- 侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是
- 钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消化
- 掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地
- 取材」
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 21
-DTSTART;VALUE=DATE:20240523
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-21-522825
-CLASS:PUBLIC
-DESCRIPTION:「蛋/黄金国」\n\n\n迷宫饭，不是吃就是被吃…\
- n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
- 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
- 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
- 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
- 
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 22
-DTSTART;VALUE=DATE:20240530
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-22-522825
-CLASS:PUBLIC
-DESCRIPTION:「狮鹫/使魔」\n\n\n迷宫饭，不是吃就是被吃…\
- n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯侥幸逃
- 过一命回到了地面。\n他想要再度挑战迷宫，但是钱和食
- 物都留在了迷宫深处…\n在妹妹随时可能会被消化掉情况
- 下，莱欧斯下定了决心：\n「食物要在迷宫内就地取材」
- 
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 23
-DTSTART;VALUE=DATE:20240606
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-23-522825
-CLASS:PUBLIC
-DESCRIPTION:「狮鹫肉汤/饺子1」\n\n\n迷宫饭，不是吃就是被
- 吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯
- 侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是
- 钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消化
- 掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地
- 取材」
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:迷宫饭 24
-DTSTART;VALUE=DATE:20240613
-DTSTAMP;VALUE=DATE:20240711
-UID:395378-24-522825
-CLASS:PUBLIC
-DESCRIPTION:「饺子2/培根煎蛋」\n\n\n迷宫饭，不是吃就是被
- 吃…\n\n妹妹在迷宫深处被赤龙吃掉了！\n冒险者莱欧斯
- 侥幸逃过一命回到了地面。\n他想要再度挑战迷宫，但是
- 钱和食物都留在了迷宫深处…\n在妹妹随时可能会被消化
- 掉情况下，莱欧斯下定了决心：\n「食物要在迷宫内就地
- 取材」
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
