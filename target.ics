@@ -298,11 +298,11 @@ DTSTART;VALUE=DATE:20240828
 DTSTAMP;VALUE=DATE:20240829
 UID:443428-9-522825
 CLASS:PUBLIC
-DESCRIPTION:「梦」\n\n\n新的舞台开幕了...\n\n当红漫画《东
- 京BLADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包
- 围，让加奈的演技大爆发。\n一边认加奈实力，却同时激
- 起猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的
- 演员中，阿库亚利用自身演技，
+DESCRIPTION:「美梦」\n\n\n新的舞台开幕了...\n\n当红漫画《
+ 东京BLADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员
+ 包围，让加奈的演技大爆发。\n一边认加奈实力，却同时
+ 激起猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情
+ 的演员中，阿库亚利用自身演技，
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -353,6 +353,20 @@ SUMMARY:【我推的孩子】 第二季 13
 DTSTART;VALUE=DATE:20241002
 DTSTAMP;VALUE=DATE:20240829
 UID:443428-13-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
+ LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
+ ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
+ 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
+ 员中，阿库亚利用自身演技，
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【我推的孩子】 第二季 0
+DTSTART;VALUE=DATE:20240904
+DTSTAMP;VALUE=DATE:20240829
+UID:443428-0-522825
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
  LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
@@ -649,10 +663,10 @@ DTSTART;VALUE=DATE:20240831
 DTSTAMP;VALUE=DATE:20240829
 UID:475354-8-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n高中毕业后，阿良良木历的故事结束
- 了。\n\n这次真的结束了。\n\n但是在历的帮助下，她们的
- 故事还没有结束。\n\n这是在青春中挣扎的她们的前日谭
- ，亦或是后日谈。
+DESCRIPTION:「业物语 雅赛萝拉宴饗 其二」\n\n\n高中毕业后
+ ，阿良良木历的故事结束了。\n\n这次真的结束了。\n\n但
+ 是在历的帮助下，她们的故事还没有结束。\n\n这是在青
+ 春中挣扎的她们的前日谭，亦或是后日谈。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1128,12 +1142,12 @@ DTSTART;VALUE=DATE:20240825
 DTSTAMP;VALUE=DATE:20240829
 UID:464561-8-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n「想要应援的心情…是从哪里涌现出
- 来的呢？」\n\n以拉拉队全国大赛连冠为目标的名门，鹰
- 之咲高中。曾战胜了A队的全中大赛优胜经验的一年级学
- 生美空彼方因为大赛中的失误而无法翱翔。\n有一天，映
- 入她眼帘的，是和电车并排从一栋大楼跳到另一栋大楼
- 的跑
+DESCRIPTION:「多么繁忙的夏日」\n\n\n「想要应援的心情…
+ 是从哪里涌现出来的呢？」\n\n以拉拉队全国大赛连冠为
+ 目标的名门，鹰之咲高中。曾战胜了A队的全中大赛优胜
+ 经验的一年级学生美空彼方因为大赛中的失误而无法翱
+ 翔。\n有一天，映入她眼帘的，是和电车并排从一栋大楼
+ 跳到另一栋大楼的跑
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
