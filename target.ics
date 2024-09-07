@@ -860,11 +860,12 @@ DTSTART;VALUE=DATE:20240914
 DTSTAMP;VALUE=DATE:20240907
 UID:424573-10-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
- 础的镰仓幕府，\n因为深得信赖的幕臣·足立高氏的谋反
- 而灭亡。\n\n失去一切、被推入绝望深渊的幕府正统继承
- 人·北条时行，\n在自称是神的神官·诹访赖重的指引下
- 逃出了化为焦土的镰仓……。\n\n时行在逃亡
+DESCRIPTION:「变态童子与神力骚动」\n\n\n公元1333年，为日
+ 本的武士治国打下基础的镰仓幕府，\n因为深得信赖的幕
+ 臣·足立高氏的谋反而灭亡。\n\n失去一切、被推入绝望
+ 深渊的幕府正统继承人·北条时行，\n在自称是神的神官
+ ·诹访赖重的指引下逃出了化为焦土的镰仓……。\n\n时
+ 行在逃亡
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -893,6 +894,20 @@ DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
  而灭亡。\n\n失去一切、被推入绝望深渊的幕府正统继承
  人·北条时行，\n在自称是神的神官·诹访赖重的指引下
  逃出了化为焦土的镰仓……。\n\n时行在逃亡
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:擅长逃跑的殿下 0
+DTSTART;VALUE=DATE:20240907
+DTSTAMP;VALUE=DATE:20240907
+UID:424573-0-522825
+CLASS:PUBLIC
+DESCRIPTION:「历史」\n\n\n公元1333年，为日本的武士治国打
+ 下基础的镰仓幕府，\n因为深得信赖的幕臣·足立高氏的
+ 谋反而灭亡。\n\n失去一切、被推入绝望深渊的幕府正统
+ 继承人·北条时行，\n在自称是神的神官·诹访赖重的指
+ 引下逃出了化为焦土的镰仓……。\n\n时行在逃亡
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1361,11 +1376,11 @@ DTSTART;VALUE=DATE:20240909
 DTSTAMP;VALUE=DATE:20240907
 UID:477207-10-522825
 CLASS:PUBLIC
-DESCRIPTION:「失控X恩怨对决」\n\n\n全世界最多觀看次數的
- 影片分享平台「NewTube」。\n\n三人組NewTuber「活力姐妹」
- 中的「真吉」真咲真希，\n由於直播中的問題行為引發炎
- 上，\n最終被頻道開除並趕了出來。\n\n為了絕地反擊，
- 真咲遇到了對她有命運感應的吸血鬼利布。
+DESCRIPTION:「失控×恩怨对决！」\n\n\n全世界最多觀看次數
+ 的影片分享平台「NewTube」。\n\n三人組NewTuber「活力姐妹
+ 」中的「真吉」真咲真希，\n由於直播中的問題行為引發
+ 炎上，\n最終被頻道開除並趕了出來。\n\n為了絕地反擊
+ ，真咲遇到了對她有命運感應的吸血鬼利布。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
