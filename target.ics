@@ -314,7 +314,7 @@ DTSTART;VALUE=DATE:20240911
 DTSTAMP;VALUE=DATE:20240911
 UID:443428-10-522825
 CLASS:PUBLIC
-DESCRIPTION:「解放」\n\n\n新的舞台开幕了...\n\n当红漫画《
+DESCRIPTION:「解脱」\n\n\n新的舞台开幕了...\n\n当红漫画《
  东京BLADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员
  包围，让加奈的演技大爆发。\n一边认加奈实力，却同时
  激起猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情
@@ -714,6 +714,45 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:物语系列 外传季&怪物季 12
+DTSTART;VALUE=DATE:20241005
+DTSTAMP;VALUE=DATE:20240911
+UID:475354-12-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n高中毕业后，阿良良木历的故事结束
+ 了。\n\n这次真的结束了。\n\n但是在历的帮助下，她们的
+ 故事还没有结束。\n\n这是在青春中挣扎的她们的前日谭
+ ，亦或是后日谈。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:物语系列 外传季&怪物季 13
+DTSTART;VALUE=DATE:20241012
+DTSTAMP;VALUE=DATE:20240911
+UID:475354-13-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n高中毕业后，阿良良木历的故事结束
+ 了。\n\n这次真的结束了。\n\n但是在历的帮助下，她们的
+ 故事还没有结束。\n\n这是在青春中挣扎的她们的前日谭
+ ，亦或是后日谈。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:物语系列 外传季&怪物季 14
+DTSTART;VALUE=DATE:20241019
+DTSTAMP;VALUE=DATE:20240911
+UID:475354-14-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n高中毕业后，阿良良木历的故事结束
+ 了。\n\n这次真的结束了。\n\n但是在历的帮助下，她们的
+ 故事还没有结束。\n\n这是在青春中挣扎的她们的前日谭
+ ，亦或是后日谈。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:物语系列 外传季&怪物季 0
 DTSTART;VALUE=DATE:20240907
 DTSTAMP;VALUE=DATE:20240911
@@ -1054,12 +1093,12 @@ DTSTART;VALUE=DATE:20240914
 DTSTAMP;VALUE=DATE:20240911
 UID:474906-10-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n「让我们互相帮助，努力成为完美的
- 小市民吧。」\n\n过去因为进行称为「侦探」的推理活动
- ，经历痛苦回忆的小鸠，下定决心要当一个低调不起眼
- 的小市民。\n\n他与志同道合的同学小佐内私底下结成「
- 互惠关系」，打算在高中营造小市民的形象，度过安稳
- 的生
+DESCRIPTION:「甜蜜的回忆（后篇）」\n\n\n「让我们互相帮
+ 助，努力成为完美的小市民吧。」\n\n过去因为进行称为
+ 「侦探」的推理活动，经历痛苦回忆的小鸠，下定决心
+ 要当一个低调不起眼的小市民。\n\n他与志同道合的同学
+ 小佐内私底下结成「互惠关系」，打算在高中营造小市
+ 民的形象，度过安稳的生
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1219,12 +1258,12 @@ DTSTART;VALUE=DATE:20240915
 DTSTAMP;VALUE=DATE:20240911
 UID:464561-11-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n「想要应援的心情…是从哪里涌现出
- 来的呢？」\n\n以拉拉队全国大赛连冠为目标的名门，鹰
- 之咲高中。曾战胜了A队的全中大赛优胜经验的一年级学
- 生美空彼方因为大赛中的失误而无法翱翔。\n有一天，映
- 入她眼帘的，是和电车并排从一栋大楼跳到另一栋大楼
- 的跑
+DESCRIPTION:「成为绿叶」\n\n\n「想要应援的心情…是从哪
+ 里涌现出来的呢？」\n\n以拉拉队全国大赛连冠为目标的
+ 名门，鹰之咲高中。曾战胜了A队的全中大赛优胜经验的
+ 一年级学生美空彼方因为大赛中的失误而无法翱翔。\n有
+ 一天，映入她眼帘的，是和电车并排从一栋大楼跳到另
+ 一栋大楼的跑
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1392,7 +1431,7 @@ DTSTART;VALUE=DATE:20240916
 DTSTAMP;VALUE=DATE:20240911
 UID:477207-11-522825
 CLASS:PUBLIC
-DESCRIPTION:「“宣布”失踪了」\n\n\n全世界最多觀看次數
+DESCRIPTION:「【宣布】失踪了」\n\n\n全世界最多觀看次數
  的影片分享平台「NewTube」。\n\n三人組NewTuber「活力姐妹
  」中的「真吉」真咲真希，\n由於直播中的問題行為引發
  炎上，\n最終被頻道開除並趕了出來。\n\n為了絕地反擊
