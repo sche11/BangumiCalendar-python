@@ -25,7 +25,7 @@ DTSTART;VALUE=DATE:20250111
 DTSTAMP;VALUE=DATE:20250202
 UID:430699-2-522825
 CLASS:PUBLIC
-DESCRIPTION:「初级奖章测验」\n\n\n作为滑冰者遭遇挫折的
+DESCRIPTION:「初级徽章测试」\n\n\n作为滑冰者遭遇挫折的
  青年·明浦路司遇到了对花样滑冰世界充满憧憬的少女·
  结束祈。\n在对冰场怀有执念的祈的推动下，司决定亲自
  担任教练。\n随着祈逐渐展现出自己的才能，司也作为指
@@ -40,7 +40,7 @@ DTSTART;VALUE=DATE:20250118
 DTSTAMP;VALUE=DATE:20250202
 UID:430699-3-522825
 CLASS:PUBLIC
-DESCRIPTION:「鲷鱼烧和蛋糕」\n\n\n作为滑冰者遭遇挫折的
+DESCRIPTION:「鲷鱼烧与蛋糕」\n\n\n作为滑冰者遭遇挫折的
  青年·明浦路司遇到了对花样滑冰世界充满憧憬的少女·
  结束祈。\n在对冰场怀有执念的祈的推动下，司决定亲自
  担任教练。\n随着祈逐渐展现出自己的才能，司也作为指
@@ -55,12 +55,12 @@ DTSTART;VALUE=DATE:20250125
 DTSTAMP;VALUE=DATE:20250202
 UID:430699-4-522825
 CLASS:PUBLIC
-DESCRIPTION:「名港杯 初级女子长曲赛(前)」\n\n\n作为滑冰
- 者遭遇挫折的青年·明浦路司遇到了对花样滑冰世界充满
- 憧憬的少女·结束祈。\n在对冰场怀有执念的祈的推动下
- ，司决定亲自担任教练。\n随着祈逐渐展现出自己的才能
- ，司也作为指导者不断成长。\n两人组成搭档，目标是荣
- 耀的“金牌得主”——！
+DESCRIPTION:「名港杯 初级女子花样滑冰（前）」\n\n\n作为
+ 滑冰者遭遇挫折的青年·明浦路司遇到了对花样滑冰世界
+ 充满憧憬的少女·结束祈。\n在对冰场怀有执念的祈的推
+ 动下，司决定亲自担任教练。\n随着祈逐渐展现出自己的
+ 才能，司也作为指导者不断成长。\n两人组成搭档，目标
+ 是荣耀的“金牌得主”——！
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -70,12 +70,12 @@ DTSTART;VALUE=DATE:20250201
 DTSTAMP;VALUE=DATE:20250202
 UID:430699-5-522825
 CLASS:PUBLIC
-DESCRIPTION:「名港杯 初级女子长曲赛(后)」\n\n\n作为滑冰
- 者遭遇挫折的青年·明浦路司遇到了对花样滑冰世界充满
- 憧憬的少女·结束祈。\n在对冰场怀有执念的祈的推动下
- ，司决定亲自担任教练。\n随着祈逐渐展现出自己的才能
- ，司也作为指导者不断成长。\n两人组成搭档，目标是荣
- 耀的“金牌得主”——！
+DESCRIPTION:「名港杯 初级女子花样滑冰（后）」\n\n\n作为
+ 滑冰者遭遇挫折的青年·明浦路司遇到了对花样滑冰世界
+ 充满憧憬的少女·结束祈。\n在对冰场怀有执念的祈的推
+ 动下，司决定亲自担任教练。\n随着祈逐渐展现出自己的
+ 才能，司也作为指导者不断成长。\n两人组成搭档，目标
+ 是荣耀的“金牌得主”——！
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -371,353 +371,6 @@ DESCRIPTION:「」\n\n\n 「言ったでしょう？残りの人生、わ
  たバンド・Ave Mujicaは、\nライブやメディア露出など、
  商業的な成功を収めていた。\n\n運命をともにすると誓
  った仲間も、生まれ育った家も失った
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:天久鹰央的推理病历表 1
-DTSTART;VALUE=DATE:20250101
-DTSTAMP;VALUE=DATE:20250202
-UID:488177-1-522825
-CLASS:PUBLIC
-DESCRIPTION:「神探医生」\n\n\n天医会综合医院，统括诊断
- 部。\n这里汇聚了其他医生认为“难以诊断”的患者。\n
- 甚至连警方都束手无策的“杀人案件”与“谜团”也…
- …\n天才医生天久鹰央将揭开这些离奇“疾病”背后隐藏
- 的惊人真相！\n“这个疾病（谜题），由我来下诊断——
- ！！”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:天久鹰央的推理病历表 2
-DTSTART;VALUE=DATE:20250101
-DTSTAMP;VALUE=DATE:20250202
-UID:488177-2-522825
-CLASS:PUBLIC
-DESCRIPTION:「蓝色血液和恐龙的牙齿」\n\n\n天医会综合医
- 院，统括诊断部。\n这里汇聚了其他医生认为“难以诊断
- ”的患者。\n甚至连警方都束手无策的“杀人案件”与“
- 谜团”也……\n天才医生天久鹰央将揭开这些离奇“疾病
- ”背后隐藏的惊人真相！\n“这个疾病（谜题），由我来
- 下诊断——！！”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:天久鹰央的推理病历表 3
-DTSTART;VALUE=DATE:20250108
-DTSTAMP;VALUE=DATE:20250202
-UID:488177-3-522825
-CLASS:PUBLIC
-DESCRIPTION:「向着闪光之中」\n\n\n天医会综合医院，统括
- 诊断部。\n这里汇聚了其他医生认为“难以诊断”的患者
- 。\n甚至连警方都束手无策的“杀人案件”与“谜团”也
- ……\n天才医生天久鹰央将揭开这些离奇“疾病”背后隐
- 藏的惊人真相！\n“这个疾病（谜题），由我来下诊断—
- —！！”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:天久鹰央的推理病历表 4
-DTSTART;VALUE=DATE:20250122
-DTSTAMP;VALUE=DATE:20250202
-UID:488177-4-522825
-CLASS:PUBLIC
-DESCRIPTION:「火焰的凶器」\n\n\n天医会综合医院，统括诊
- 断部。\n这里汇聚了其他医生认为“难以诊断”的患者。
- \n甚至连警方都束手无策的“杀人案件”与“谜团”也…
- …\n天才医生天久鹰央将揭开这些离奇“疾病”背后隐藏
- 的惊人真相！\n“这个疾病（谜题），由我来下诊断——
- ！！”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:天久鹰央的推理病历表 5
-DTSTART;VALUE=DATE:20250129
-DTSTAMP;VALUE=DATE:20250202
-UID:488177-5-522825
-CLASS:PUBLIC
-DESCRIPTION:「红莲的咒术师」\n\n\n天医会综合医院，统括
- 诊断部。\n这里汇聚了其他医生认为“难以诊断”的患者
- 。\n甚至连警方都束手无策的“杀人案件”与“谜团”也
- ……\n天才医生天久鹰央将揭开这些离奇“疾病”背后隐
- 藏的惊人真相！\n“这个疾病（谜题），由我来下诊断—
- —！！”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:天久鹰央的推理病历表 6
-DTSTART;VALUE=DATE:20250205
-DTSTAMP;VALUE=DATE:20250202
-UID:488177-6-522825
-CLASS:PUBLIC
-DESCRIPTION:「火焰终幕」\n\n\n天医会综合医院，统括诊断
- 部。\n这里汇聚了其他医生认为“难以诊断”的患者。\n
- 甚至连警方都束手无策的“杀人案件”与“谜团”也…
- …\n天才医生天久鹰央将揭开这些离奇“疾病”背后隐藏
- 的惊人真相！\n“这个疾病（谜题），由我来下诊断——
- ！！”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:天久鹰央的推理病历表 7
-DTSTART;VALUE=DATE:20250212
-DTSTAMP;VALUE=DATE:20250202
-UID:488177-7-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n天医会综合医院，统括诊断部。\n这里
- 汇聚了其他医生认为“难以诊断”的患者。\n甚至连警方
- 都束手无策的“杀人案件”与“谜团”也……\n天才医生
- 天久鹰央将揭开这些离奇“疾病”背后隐藏的惊人真相
- ！\n“这个疾病（谜题），由我来下诊断——！！”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:天久鹰央的推理病历表 8
-DTSTART;VALUE=DATE:20250219
-DTSTAMP;VALUE=DATE:20250202
-UID:488177-8-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n天医会综合医院，统括诊断部。\n这里
- 汇聚了其他医生认为“难以诊断”的患者。\n甚至连警方
- 都束手无策的“杀人案件”与“谜团”也……\n天才医生
- 天久鹰央将揭开这些离奇“疾病”背后隐藏的惊人真相
- ！\n“这个疾病（谜题），由我来下诊断——！！”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:天久鹰央的推理病历表 9
-DTSTART;VALUE=DATE:20250226
-DTSTAMP;VALUE=DATE:20250202
-UID:488177-9-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n天医会综合医院，统括诊断部。\n这里
- 汇聚了其他医生认为“难以诊断”的患者。\n甚至连警方
- 都束手无策的“杀人案件”与“谜团”也……\n天才医生
- 天久鹰央将揭开这些离奇“疾病”背后隐藏的惊人真相
- ！\n“这个疾病（谜题），由我来下诊断——！！”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:天久鹰央的推理病历表 10
-DTSTART;VALUE=DATE:20250305
-DTSTAMP;VALUE=DATE:20250202
-UID:488177-10-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n天医会综合医院，统括诊断部。\n这里
- 汇聚了其他医生认为“难以诊断”的患者。\n甚至连警方
- 都束手无策的“杀人案件”与“谜团”也……\n天才医生
- 天久鹰央将揭开这些离奇“疾病”背后隐藏的惊人真相
- ！\n“这个疾病（谜题），由我来下诊断——！！”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:天久鹰央的推理病历表 11
-DTSTART;VALUE=DATE:20250312
-DTSTAMP;VALUE=DATE:20250202
-UID:488177-11-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n天医会综合医院，统括诊断部。\n这里
- 汇聚了其他医生认为“难以诊断”的患者。\n甚至连警方
- 都束手无策的“杀人案件”与“谜团”也……\n天才医生
- 天久鹰央将揭开这些离奇“疾病”背后隐藏的惊人真相
- ！\n“这个疾病（谜题），由我来下诊断——！！”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:天久鹰央的推理病历表 12
-DTSTART;VALUE=DATE:20250319
-DTSTAMP;VALUE=DATE:20250202
-UID:488177-12-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n天医会综合医院，统括诊断部。\n这里
- 汇聚了其他医生认为“难以诊断”的患者。\n甚至连警方
- 都束手无策的“杀人案件”与“谜团”也……\n天才医生
- 天久鹰央将揭开这些离奇“疾病”背后隐藏的惊人真相
- ！\n“这个疾病（谜题），由我来下诊断——！！”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:全修。 1
-DTSTART;VALUE=DATE:20250105
-DTSTAMP;VALUE=DATE:20250202
-UID:486039-1-522825
-CLASS:PUBLIC
-DESCRIPTION:「始线。」\n\n\n全修 全て修正するオールリテ
- イクの意味。\n\n広瀬ナツ子は、高校卒業後アニメータ
- ーとなり、才能を開花させあっという間に\n監督デビュ
- ーを果たす。初監督作品は社会現象になる大ヒット。\n
- 新進気鋭の天才監督と世間でも評価され、\n次回作は初
- 恋
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:全修。 2
-DTSTART;VALUE=DATE:20250112
-DTSTAMP;VALUE=DATE:20250202
-UID:486039-2-522825
-CLASS:PUBLIC
-DESCRIPTION:「死守。」\n\n\n全修 全て修正するオールリテ
- イクの意味。\n\n広瀬ナツ子は、高校卒業後アニメータ
- ーとなり、才能を開花させあっという間に\n監督デビュ
- ーを果たす。初監督作品は社会現象になる大ヒット。\n
- 新進気鋭の天才監督と世間でも評価され、\n次回作は初
- 恋
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:全修。 3
-DTSTART;VALUE=DATE:20250119
-DTSTAMP;VALUE=DATE:20250202
-UID:486039-3-522825
-CLASS:PUBLIC
-DESCRIPTION:「命运。」\n\n\n全修 全て修正するオールリテ
- イクの意味。\n\n広瀬ナツ子は、高校卒業後アニメータ
- ーとなり、才能を開花させあっという間に\n監督デビュ
- ーを果たす。初監督作品は社会現象になる大ヒット。\n
- 新進気鋭の天才監督と世間でも評価され、\n次回作は初
- 恋
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:全修。 4
-DTSTART;VALUE=DATE:20250126
-DTSTAMP;VALUE=DATE:20250202
-UID:486039-4-522825
-CLASS:PUBLIC
-DESCRIPTION:「永恒。」\n\n\n全修 全て修正するオールリテ
- イクの意味。\n\n広瀬ナツ子は、高校卒業後アニメータ
- ーとなり、才能を開花させあっという間に\n監督デビュ
- ーを果たす。初監督作品は社会現象になる大ヒット。\n
- 新進気鋭の天才監督と世間でも評価され、\n次回作は初
- 恋
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:全修。 5
-DTSTART;VALUE=DATE:20250202
-DTSTAMP;VALUE=DATE:20250202
-UID:486039-5-522825
-CLASS:PUBLIC
-DESCRIPTION:「正义。」\n\n\n全修 全て修正するオールリテ
- イクの意味。\n\n広瀬ナツ子は、高校卒業後アニメータ
- ーとなり、才能を開花させあっという間に\n監督デビュ
- ーを果たす。初監督作品は社会現象になる大ヒット。\n
- 新進気鋭の天才監督と世間でも評価され、\n次回作は初
- 恋
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:全修。 6
-DTSTART;VALUE=DATE:20250209
-DTSTAMP;VALUE=DATE:20250202
-UID:486039-6-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n全修 全て修正するオールリテイクの
- 意味。\n\n広瀬ナツ子は、高校卒業後アニメーターとな
- り、才能を開花させあっという間に\n監督デビューを果
- たす。初監督作品は社会現象になる大ヒット。\n新進気
- 鋭の天才監督と世間でも評価され、\n次回作は初恋
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:全修。 7
-DTSTART;VALUE=DATE:20250216
-DTSTAMP;VALUE=DATE:20250202
-UID:486039-7-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n全修 全て修正するオールリテイクの
- 意味。\n\n広瀬ナツ子は、高校卒業後アニメーターとな
- り、才能を開花させあっという間に\n監督デビューを果
- たす。初監督作品は社会現象になる大ヒット。\n新進気
- 鋭の天才監督と世間でも評価され、\n次回作は初恋
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:全修。 8
-DTSTART;VALUE=DATE:20250223
-DTSTAMP;VALUE=DATE:20250202
-UID:486039-8-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n全修 全て修正するオールリテイクの
- 意味。\n\n広瀬ナツ子は、高校卒業後アニメーターとな
- り、才能を開花させあっという間に\n監督デビューを果
- たす。初監督作品は社会現象になる大ヒット。\n新進気
- 鋭の天才監督と世間でも評価され、\n次回作は初恋
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:全修。 9
-DTSTART;VALUE=DATE:20250302
-DTSTAMP;VALUE=DATE:20250202
-UID:486039-9-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n全修 全て修正するオールリテイクの
- 意味。\n\n広瀬ナツ子は、高校卒業後アニメーターとな
- り、才能を開花させあっという間に\n監督デビューを果
- たす。初監督作品は社会現象になる大ヒット。\n新進気
- 鋭の天才監督と世間でも評価され、\n次回作は初恋
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:全修。 10
-DTSTART;VALUE=DATE:20250309
-DTSTAMP;VALUE=DATE:20250202
-UID:486039-10-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n全修 全て修正するオールリテイクの
- 意味。\n\n広瀬ナツ子は、高校卒業後アニメーターとな
- り、才能を開花させあっという間に\n監督デビューを果
- たす。初監督作品は社会現象になる大ヒット。\n新進気
- 鋭の天才監督と世間でも評価され、\n次回作は初恋
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:全修。 11
-DTSTART;VALUE=DATE:20250316
-DTSTAMP;VALUE=DATE:20250202
-UID:486039-11-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n全修 全て修正するオールリテイクの
- 意味。\n\n広瀬ナツ子は、高校卒業後アニメーターとな
- り、才能を開花させあっという間に\n監督デビューを果
- たす。初監督作品は社会現象になる大ヒット。\n新進気
- 鋭の天才監督と世間でも評価され、\n次回作は初恋
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:全修。 12
-DTSTART;VALUE=DATE:20250323
-DTSTAMP;VALUE=DATE:20250202
-UID:486039-12-522825
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n全修 全て修正するオールリテイクの
- 意味。\n\n広瀬ナツ子は、高校卒業後アニメーターとな
- り、才能を開花させあっという間に\n監督デビューを果
- たす。初監督作品は社会現象になる大ヒット。\n新進気
- 鋭の天才監督と世間でも評価され、\n次回作は初恋
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1124,12 +777,12 @@ DTSTART;VALUE=DATE:20250202
 DTSTAMP;VALUE=DATE:20250202
 UID:471793-4-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n中学で失恋100回を達成した愛城恋太
- 郎は、高校でこそ彼女を！と願い訪れた神社で、現れ
- た恋の神様から「高校で出会う運命の人は100人いる」
- と告げられる。\nしかし神様いわく、運命の人と出会っ
- た人間は、その相手と愛し合って幸せになれなければ
- 死ん
+DESCRIPTION:「湿湿女仆派对」\n\n\n中学で失恋100回を達成
+ した愛城恋太郎は、高校でこそ彼女を！と願い訪れた
+ 神社で、現れた恋の神様から「高校で出会う運命の人
+ は100人いる」と告げられる。\nしかし神様いわく、運命
+ の人と出会った人間は、その相手と愛し合って幸せに
+ なれなければ死ん
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
