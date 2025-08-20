@@ -3000,6 +3000,21 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:与游戏中心的少女异文化交流的故事 0
+DTSTART;VALUE=DATE:20250817
+DTSTAMP;VALUE=DATE:20250820
+UID:510256-0-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nゲームセンターでアルバイト中の青
+ 年・草壁蓮司が目にしたのは、\nバレンタインデーにひ
+ とりクレーンゲームに熱中する英国少女・リリー。\n何
+ 度挑戦しても景品を手にできず涙目の彼女に、思わず
+ 蓮司は手を貸す。\n無事にぬいぐるみを手にしたリリー
+ から
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Silent Witch 沉默魔女的秘密 1
 DTSTART;VALUE=DATE:20250704
 DTSTAMP;VALUE=DATE:20250820
@@ -3301,12 +3316,12 @@ DTSTART;VALUE=DATE:20250820
 DTSTAMP;VALUE=DATE:20250820
 UID:390555-7-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n神と悪魔の狭間の街、ダテンシティ
- 。\n今日も人知れず恐ろしい悪霊＜ゴースト＞たちが街
- を蝕む。\nそんな時、人々の欲望や怨念の魂たる悪霊＜
- ゴースト＞を、人知の及ばぬ光をもって消し去る者達
- がいた。\nその名は、天使 パンティ＆ストッキング！
- ！
+DESCRIPTION:「男子独立日 / 婊子最长的一码」\n\n\n神と悪
+ 魔の狭間の街、ダテンシティ。\n今日も人知れず恐ろし
+ い悪霊＜ゴースト＞たちが街を蝕む。\nそんな時、人々
+ の欲望や怨念の魂たる悪霊＜ゴースト＞を、人知の及
+ ばぬ光をもって消し去る者達がいた。\nその名は、天使
+  パンティ＆ストッキング！！
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
