@@ -130,12 +130,12 @@ DTSTART;VALUE=DATE:20250830
 DTSTAMP;VALUE=DATE:20250824
 UID:467930-9-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n思春期症候群──\n据说这是一种由不
- 安定的精神状态引发的不可思议现象。\n\n在高中时期与
- 许多出现思春期症候群的少女们相遇的「梓川咲太」，
- 如今也成为大学生了。咲太与国民级人气女演员、同时
- 也是他的恋人的「樱岛麻衣」都考上了位于金泽八景的
- 大学。
+DESCRIPTION:「I need you」\n\n\n思春期症候群──\n据说这是
+ 一种由不安定的精神状态引发的不可思议现象。\n\n在高
+ 中时期与许多出现思春期症候群的少女们相遇的「梓川
+ 咲太」，如今也成为大学生了。咲太与国民级人气女演
+ 员、同时也是他的恋人的「樱岛麻衣」都考上了位于金
+ 泽八景的大学。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1837,11 +1837,11 @@ DTSTART;VALUE=DATE:20250823
 DTSTAMP;VALUE=DATE:20250824
 UID:496086-8-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nとある集落で\n幼い頃からずっと一緒
- に育ってきた\n同い年のよしきと光\n\n照りつける太陽\n
- 耳にこびりつくクマゼミの声\n帰り道に食べるアイス\n\
- n他愛もないことで笑い合う\nいつもと変わらない夏の
- ある日\n\n「……お前、やっぱ光ち
+DESCRIPTION:「接触」\n\n\nとある集落で\n幼い頃からずっと
+ 一緒に育ってきた\n同い年のよしきと光\n\n照りつける
+ 太陽\n耳にこびりつくクマゼミの声\n帰り道に食べるア
+ イス\n\n他愛もないことで笑い合う\nいつもと変わらな
+ い夏のある日\n\n「……お前、やっぱ光ち
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -4689,18 +4689,19 @@ DTSTART;VALUE=DATE:20250831
 DTSTAMP;VALUE=DATE:20250824
 UID:506672-22-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n她的魔法，远远超乎想像。\n拥有鬼之
- 力的高中生·乙木守仁，将成为正在进行魔女修行的儿时
- 玩伴·妮可的使魔，和她一起同居。\n与儿时玩伴久违的
- 重逢使妮可内心充满欣喜，但守仁其实有以使魔身份从
- 预言的灾难中守护妮可的使命在身。\n妮可的魔法引起的
- 无
+DESCRIPTION:「The Incredible Shrinking Adventure／滨崎的秋天面包
+ 祭 Lucky Birthda」\n\n\n她的魔法，远远超乎想像。\n拥有鬼
+ 之力的高中生·乙木守仁，将成为正在进行魔女修行的儿
+ 时玩伴·妮可的使魔，和她一起同居。\n与儿时玩伴久违
+ 的重逢使妮可内心充满欣喜，但守仁其实有以使魔身份
+ 从预言的灾难中守护妮可的使命在身。\n妮可的魔法引起
+ 的无
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:魔女与使魔 23
-DTSTART;VALUE=DATE:20250907
+DTSTART;VALUE=DATE:20250914
 DTSTAMP;VALUE=DATE:20250824
 UID:506672-23-522825
 CLASS:PUBLIC
@@ -4715,7 +4716,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:魔女与使魔 24
-DTSTART;VALUE=DATE:20250914
+DTSTART;VALUE=DATE:20250921
 DTSTAMP;VALUE=DATE:20250824
 UID:506672-24-522825
 CLASS:PUBLIC
@@ -4730,7 +4731,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:魔女与使魔 25
-DTSTART;VALUE=DATE:20250921
+DTSTART;VALUE=DATE:20251005
 DTSTAMP;VALUE=DATE:20250824
 UID:506672-25-522825
 CLASS:PUBLIC
