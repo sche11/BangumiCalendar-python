@@ -2270,11 +2270,11 @@ DTSTART;VALUE=DATE:20250928
 DTSTAMP;VALUE=DATE:20250928
 UID:514358-13-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nこの街、ただの街にあらず。\n\n笑い
- あり プププッ\nラブあり キュンキュン\nホロリあり ホ
- ロリホロリ\n\n住人たちが織りなす\n予測不能な平凡ラ
- イフ！\n\nワクワクが連鎖する\nCITYへようこそ。\n\n\n\n[
- 中文简介]\n
+DESCRIPTION:「永远年轻」\n\n\nこの街、ただの街にあらず
+ 。\n\n笑いあり プププッ\nラブあり キュンキュン\nホロ
+ リあり ホロリホロリ\n\n住人たちが織りなす\n予測不能
+ な平凡ライフ！\n\nワクワクが連鎖する\nCITYへようこそ
+ 。\n\n\n\n[中文简介]\n
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3182,12 +3182,12 @@ DTSTART;VALUE=DATE:20250928
 DTSTAMP;VALUE=DATE:20250928
 UID:510256-12-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nゲームセンターでアルバイト中の青
- 年・草壁蓮司が目にしたのは、\nバレンタインデーにひ
- とりクレーンゲームに熱中する英国少女・リリー。\n何
- 度挑戦しても景品を手にできず涙目の彼女に、思わず
- 蓮司は手を貸す。\n無事にぬいぐるみを手にしたリリー
- から
+DESCRIPTION:「我的感觉没有改变」\n\n\nゲームセンターで
+ アルバイト中の青年・草壁蓮司が目にしたのは、\nバレ
+ ンタインデーにひとりクレーンゲームに熱中する英国
+ 少女・リリー。\n何度挑戦しても景品を手にできず涙目
+ の彼女に、思わず蓮司は手を貸す。\n無事にぬいぐるみ
+ を手にしたリリーから
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3388,7 +3388,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silent Witch 沉默魔女的秘密 13
-DTSTART;VALUE=DATE:20251004
+DTSTART;VALUE=DATE:20251003
 DTSTAMP;VALUE=DATE:20250928
 UID:506677-13-522825
 CLASS:PUBLIC
