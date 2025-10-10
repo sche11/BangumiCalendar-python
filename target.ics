@@ -751,11 +751,12 @@ DTSTART;VALUE=DATE:20251024
 DTSTAMP;VALUE=DATE:20251010
 UID:513348-4-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n舞踏会での婚約破棄。\nそれはよくあ
- る“悪役令嬢”への断罪シーンとなるはずでした ――\
- n\n舞踏会の最中、婚約をしていた第二王子・カイルか
- ら、\nいきなり理不尽な婚約破棄を告げられた公爵令嬢
- ・スカーレット。\nさらには“新しい婚約者”がい
+DESCRIPTION:「可以去和拳头思念之人(沙包)见面吗?」\n\n\n
+ 舞踏会での婚約破棄。\nそれはよくある“悪役令嬢”へ
+ の断罪シーンとなるはずでした ――\n\n舞踏会の最中、
+ 婚約をしていた第二王子・カイルから、\nいきなり理不
+ 尽な婚約破棄を告げられた公爵令嬢・スカーレット。\n
+ さらには“新しい婚約者”がい
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1566,6 +1567,21 @@ DESCRIPTION:「」\n\n\n趣味でヒーローを始めた男、サイタ
  ょんなことから弟子となったジェノスと共にヒーロー
  協会で正式なヒーロー活動を開始する。突如現れた怪
  人協会に幹部の
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:一拳超人 第三季 0
+DTSTART;VALUE=DATE:20251005
+DTSTAMP;VALUE=DATE:20251010
+UID:285757-0-522825
+CLASS:PUBLIC
+DESCRIPTION:「一击就懂！一拳超人 第2季认真回顾」\n\n\n趣
+ 味でヒーローを始めた男、サイタマ。3年間の特訓によ
+ り無敵のパワーを手に入れ、あらゆる敵を一撃（ワン
+ パン）で倒すヒーローである。ひょんなことから弟子
+ となったジェノスと共にヒーロー協会で正式なヒーロ
+ ー活動を開始する。突如現れた怪人協会に幹部の
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
