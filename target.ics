@@ -5,6 +5,100 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
+SUMMARY:明天，美食广场见。 1
+DTSTART;VALUE=DATE:20250707
+DTSTAMP;VALUE=DATE:20251222
+UID:528438-1-522825
+CLASS:PUBLIC
+DESCRIPTION:「「和田1234」「纳斯卡线 外星人」「安剂慰」
+ 「改变吧 在你被迫改变之前」」\n\n\n話しかけ難い雰囲
+ 気を漂わせる和田と、\nギャルのような見た目で周囲か
+ ら恐れられている山本。\n\nクラスではそれぞれ一人き
+ りで過ごす和田と山本は、\n別々の高校に通っているも
+ のの、\n毎日のようにショッピングセンターのフードコ
+ ートに集まって
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:明天，美食广场见。 2
+DTSTART;VALUE=DATE:20250714
+DTSTAMP;VALUE=DATE:20251222
+UID:528438-2-522825
+CLASS:PUBLIC
+DESCRIPTION:「「确率机」「单球双倍量」「梦中剧」「为
+ 了与狗相遇」」\n\n\n話しかけ難い雰囲気を漂わせる和
+ 田と、\nギャルのような見た目で周囲から恐れられてい
+ る山本。\n\nクラスではそれぞれ一人きりで過ごす和田
+ と山本は、\n別々の高校に通っているものの、\n毎日の
+ ようにショッピングセンターのフードコートに集まっ
+ て
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:明天，美食广场见。 3
+DTSTART;VALUE=DATE:20250721
+DTSTAMP;VALUE=DATE:20251222
+UID:528438-3-522825
+CLASS:PUBLIC
+DESCRIPTION:「「乳力」「NAOKIN」「姐妹」「十月二十一日
+ 」」\n\n\n話しかけ難い雰囲気を漂わせる和田と、\nギャ
+ ルのような見た目で周囲から恐れられている山本。\n\n
+ クラスではそれぞれ一人きりで過ごす和田と山本は、\n
+ 別々の高校に通っているものの、\n毎日のようにショッ
+ ピングセンターのフードコートに集まって
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:明天，美食广场见。 4
+DTSTART;VALUE=DATE:20250728
+DTSTAMP;VALUE=DATE:20251222
+UID:528438-4-522825
+CLASS:PUBLIC
+DESCRIPTION:「「焦糖彩带」「虽然我要走另一边」「但没
+ 有臭味」「普通的和田」」\n\n\n話しかけ難い雰囲気を
+ 漂わせる和田と、\nギャルのような見た目で周囲から恐
+ れられている山本。\n\nクラスではそれぞれ一人きりで
+ 過ごす和田と山本は、\n別々の高校に通っているものの
+ 、\n毎日のようにショッピングセンターのフードコート
+ に集まって
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:明天，美食广场见。 5
+DTSTART;VALUE=DATE:20250804
+DTSTAMP;VALUE=DATE:20251222
+UID:528438-5-522825
+CLASS:PUBLIC
+DESCRIPTION:「「SSR」「好烦」「荒滨海水浴场」」\n\n\n話
+ しかけ難い雰囲気を漂わせる和田と、\nギャルのような
+ 見た目で周囲から恐れられている山本。\n\nクラスでは
+ それぞれ一人きりで過ごす和田と山本は、\n別々の高校
+ に通っているものの、\n毎日のようにショッピングセン
+ ターのフードコートに集まって
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:明天，美食广场见。 6
+DTSTART;VALUE=DATE:20250811
+DTSTAMP;VALUE=DATE:20251222
+UID:528438-6-522825
+CLASS:PUBLIC
+DESCRIPTION:「「兰迪」「大猩猩胶带」「厄介」「明天，
+ 美食广场见。」」\n\n\n話しかけ難い雰囲気を漂わせる
+ 和田と、\nギャルのような見た目で周囲から恐れられて
+ いる山本。\n\nクラスではそれぞれ一人きりで過ごす和
+ 田と山本は、\n別々の高校に通っているものの、\n毎日
+ のようにショッピングセンターのフードコートに集ま
+ って
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:变身圣诞老人 1
 DTSTART;VALUE=DATE:20251003
 DTSTAMP;VALUE=DATE:20251222
@@ -871,100 +965,6 @@ DESCRIPTION:「暑假快要结束了！不行！」\n\n\n「勝ち取る
  かし根が陰キャ気質のせいで、憧れの陽キャ生活に馴
  染めず窒息寸前に…。 \n\n現役モデルの完璧美少女、王
  塚真唯\n優しくてふわ
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:明天，美食广场见。 1
-DTSTART;VALUE=DATE:20250707
-DTSTAMP;VALUE=DATE:20251222
-UID:528438-1-522825
-CLASS:PUBLIC
-DESCRIPTION:「「和田1234」「纳斯卡线 外星人」「安剂慰」
- 「改变吧 在你被迫改变之前」」\n\n\n話しかけ難い雰囲
- 気を漂わせる和田と、\nギャルのような見た目で周囲か
- ら恐れられている山本。\n\nクラスではそれぞれ一人き
- りで過ごす和田と山本は、\n別々の高校に通っているも
- のの、\n毎日のようにショッピングセンターのフードコ
- ートに集まって
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:明天，美食广场见。 2
-DTSTART;VALUE=DATE:20250714
-DTSTAMP;VALUE=DATE:20251222
-UID:528438-2-522825
-CLASS:PUBLIC
-DESCRIPTION:「「确率机」「单球双倍量」「梦中剧」「为
- 了与狗相遇」」\n\n\n話しかけ難い雰囲気を漂わせる和
- 田と、\nギャルのような見た目で周囲から恐れられてい
- る山本。\n\nクラスではそれぞれ一人きりで過ごす和田
- と山本は、\n別々の高校に通っているものの、\n毎日の
- ようにショッピングセンターのフードコートに集まっ
- て
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:明天，美食广场见。 3
-DTSTART;VALUE=DATE:20250721
-DTSTAMP;VALUE=DATE:20251222
-UID:528438-3-522825
-CLASS:PUBLIC
-DESCRIPTION:「「乳力」「NAOKIN」「姐妹」「十月二十一日
- 」」\n\n\n話しかけ難い雰囲気を漂わせる和田と、\nギャ
- ルのような見た目で周囲から恐れられている山本。\n\n
- クラスではそれぞれ一人きりで過ごす和田と山本は、\n
- 別々の高校に通っているものの、\n毎日のようにショッ
- ピングセンターのフードコートに集まって
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:明天，美食广场见。 4
-DTSTART;VALUE=DATE:20250728
-DTSTAMP;VALUE=DATE:20251222
-UID:528438-4-522825
-CLASS:PUBLIC
-DESCRIPTION:「「焦糖彩带」「虽然我要走另一边」「但没
- 有臭味」「普通的和田」」\n\n\n話しかけ難い雰囲気を
- 漂わせる和田と、\nギャルのような見た目で周囲から恐
- れられている山本。\n\nクラスではそれぞれ一人きりで
- 過ごす和田と山本は、\n別々の高校に通っているものの
- 、\n毎日のようにショッピングセンターのフードコート
- に集まって
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:明天，美食广场见。 5
-DTSTART;VALUE=DATE:20250804
-DTSTAMP;VALUE=DATE:20251222
-UID:528438-5-522825
-CLASS:PUBLIC
-DESCRIPTION:「「SSR」「好烦」「荒滨海水浴场」」\n\n\n話
- しかけ難い雰囲気を漂わせる和田と、\nギャルのような
- 見た目で周囲から恐れられている山本。\n\nクラスでは
- それぞれ一人きりで過ごす和田と山本は、\n別々の高校
- に通っているものの、\n毎日のようにショッピングセン
- ターのフードコートに集まって
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:明天，美食广场见。 6
-DTSTART;VALUE=DATE:20250811
-DTSTAMP;VALUE=DATE:20251222
-UID:528438-6-522825
-CLASS:PUBLIC
-DESCRIPTION:「「兰迪」「大猩猩胶带」「厄介」「明天，
- 美食广场见。」」\n\n\n話しかけ難い雰囲気を漂わせる
- 和田と、\nギャルのような見た目で周囲から恐れられて
- いる山本。\n\nクラスではそれぞれ一人きりで過ごす和
- 田と山本は、\n別々の高校に通っているものの、\n毎日
- のようにショッピングセンターのフードコートに集ま
- って
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
