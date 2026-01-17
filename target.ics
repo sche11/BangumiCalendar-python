@@ -25,12 +25,12 @@ DTSTART;VALUE=DATE:20260115
 DTSTAMP;VALUE=DATE:20260117
 UID:445905-2-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n勇者とは、この世で最悪の刑罰であ
- る。大罪を犯した者が「勇者」となり、魔王と戦う刑
- 罰を科されるのだ。殺されようとも蘇生され、死ぬこ
- とすら許されない。勇者刑に処された元聖騎士団長の
- ザイロ・フォルバーツは、性格破綻者たちで構成され
- た懲罰勇者部隊を
+DESCRIPTION:「刑罚：泽万·冈矿道镇压先锋1」\n\n\n勇者と
+ は、この世で最悪の刑罰である。大罪を犯した者が「
+ 勇者」となり、魔王と戦う刑罰を科されるのだ。殺さ
+ れようとも蘇生され、死ぬことすら許されない。勇者
+ 刑に処された元聖騎士団長のザイロ・フォルバーツは
+ 、性格破綻者たちで構成された懲罰勇者部隊を
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -40,12 +40,12 @@ DTSTART;VALUE=DATE:20260122
 DTSTAMP;VALUE=DATE:20260117
 UID:445905-3-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n勇者とは、この世で最悪の刑罰であ
- る。大罪を犯した者が「勇者」となり、魔王と戦う刑
- 罰を科されるのだ。殺されようとも蘇生され、死ぬこ
- とすら許されない。勇者刑に処された元聖騎士団長の
- ザイロ・フォルバーツは、性格破綻者たちで構成され
- た懲罰勇者部隊を
+DESCRIPTION:「刑罚：泽万·冈矿道镇压先锋2」\n\n\n勇者と
+ は、この世で最悪の刑罰である。大罪を犯した者が「
+ 勇者」となり、魔王と戦う刑罰を科されるのだ。殺さ
+ れようとも蘇生され、死ぬことすら許されない。勇者
+ 刑に処された元聖騎士団長のザイロ・フォルバーツは
+ 、性格破綻者たちで構成された懲罰勇者部隊を
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -359,12 +359,11 @@ DTSTART;VALUE=DATE:20260103
 DTSTAMP;VALUE=DATE:20260117
 UID:443831-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「英灵事件」\n\n\n魔術師〈マスター〉と英霊
- 〈サーヴァント〉が、\nあらゆる願いをかなえる願望機
- 「聖杯」をめぐり戦う――「聖杯戦争」。\n\nかつて、
- 日本で行われた第五次聖杯戦争の終結から幾年。\n新た
- な聖杯の予兆がアメリカ合衆国西部の都市・スノーフ
- ィールドに
+DESCRIPTION:「英灵事件」\n\n\n魔术师〈Master〉与英灵〈Serva
+ nt〉为了争夺能实现一切愿望的愿望机「圣杯」，而彼此
+ 厮杀——这便是「圣杯战争」。\n\n在日本进行的第五次
+ 圣杯战争落下帷幕的几年之后。\n在美利坚合众国西部的
+ 城市——雪原市（Snowfield），观测
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -374,12 +373,11 @@ DTSTART;VALUE=DATE:20260110
 DTSTAMP;VALUE=DATE:20260117
 UID:443831-2-522825
 CLASS:PUBLIC
-DESCRIPTION:「群像VS虚像」\n\n\n魔術師〈マスター〉と英霊
- 〈サーヴァント〉が、\nあらゆる願いをかなえる願望機
- 「聖杯」をめぐり戦う――「聖杯戦争」。\n\nかつて、
- 日本で行われた第五次聖杯戦争の終結から幾年。\n新た
- な聖杯の予兆がアメリカ合衆国西部の都市・スノーフ
- ィールドに
+DESCRIPTION:「群像VS虚像」\n\n\n魔术师〈Master〉与英灵〈Ser
+ vant〉为了争夺能实现一切愿望的愿望机「圣杯」，而彼
+ 此厮杀——这便是「圣杯战争」。\n\n在日本进行的第五
+ 次圣杯战争落下帷幕的几年之后。\n在美利坚合众国西部
+ 的城市——雪原市（Snowfield），观测
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -389,12 +387,11 @@ DTSTART;VALUE=DATE:20260117
 DTSTAMP;VALUE=DATE:20260117
 UID:443831-3-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔術師〈マスター〉と英霊〈サーヴ
- ァント〉が、\nあらゆる願いをかなえる願望機「聖杯」
- をめぐり戦う――「聖杯戦争」。\n\nかつて、日本で行
- われた第五次聖杯戦争の終結から幾年。\n新たな聖杯の
- 予兆がアメリカ合衆国西部の都市・スノーフィールド
- に
+DESCRIPTION:「缺少英灵的战斗」\n\n\n魔术师〈Master〉与英
+ 灵〈Servant〉为了争夺能实现一切愿望的愿望机「圣杯」
+ ，而彼此厮杀——这便是「圣杯战争」。\n\n在日本进行
+ 的第五次圣杯战争落下帷幕的几年之后。\n在美利坚合众
+ 国西部的城市——雪原市（Snowfield），观测
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -404,12 +401,11 @@ DTSTART;VALUE=DATE:20260124
 DTSTAMP;VALUE=DATE:20260117
 UID:443831-4-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔術師〈マスター〉と英霊〈サーヴ
- ァント〉が、\nあらゆる願いをかなえる願望機「聖杯」
- をめぐり戦う――「聖杯戦争」。\n\nかつて、日本で行
- われた第五次聖杯戦争の終結から幾年。\n新たな聖杯の
- 予兆がアメリカ合衆国西部の都市・スノーフィールド
- に
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -419,12 +415,11 @@ DTSTART;VALUE=DATE:20260131
 DTSTAMP;VALUE=DATE:20260117
 UID:443831-5-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔術師〈マスター〉と英霊〈サーヴ
- ァント〉が、\nあらゆる願いをかなえる願望機「聖杯」
- をめぐり戦う――「聖杯戦争」。\n\nかつて、日本で行
- われた第五次聖杯戦争の終結から幾年。\n新たな聖杯の
- 予兆がアメリカ合衆国西部の都市・スノーフィールド
- に
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -434,12 +429,11 @@ DTSTART;VALUE=DATE:20260207
 DTSTAMP;VALUE=DATE:20260117
 UID:443831-6-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔術師〈マスター〉と英霊〈サーヴ
- ァント〉が、\nあらゆる願いをかなえる願望機「聖杯」
- をめぐり戦う――「聖杯戦争」。\n\nかつて、日本で行
- われた第五次聖杯戦争の終結から幾年。\n新たな聖杯の
- 予兆がアメリカ合衆国西部の都市・スノーフィールド
- に
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -449,12 +443,11 @@ DTSTART;VALUE=DATE:20260214
 DTSTAMP;VALUE=DATE:20260117
 UID:443831-7-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔術師〈マスター〉と英霊〈サーヴ
- ァント〉が、\nあらゆる願いをかなえる願望機「聖杯」
- をめぐり戦う――「聖杯戦争」。\n\nかつて、日本で行
- われた第五次聖杯戦争の終結から幾年。\n新たな聖杯の
- 予兆がアメリカ合衆国西部の都市・スノーフィールド
- に
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -464,12 +457,11 @@ DTSTART;VALUE=DATE:20260221
 DTSTAMP;VALUE=DATE:20260117
 UID:443831-8-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔術師〈マスター〉と英霊〈サーヴ
- ァント〉が、\nあらゆる願いをかなえる願望機「聖杯」
- をめぐり戦う――「聖杯戦争」。\n\nかつて、日本で行
- われた第五次聖杯戦争の終結から幾年。\n新たな聖杯の
- 予兆がアメリカ合衆国西部の都市・スノーフィールド
- に
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -479,12 +471,11 @@ DTSTART;VALUE=DATE:20260228
 DTSTAMP;VALUE=DATE:20260117
 UID:443831-9-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔術師〈マスター〉と英霊〈サーヴ
- ァント〉が、\nあらゆる願いをかなえる願望機「聖杯」
- をめぐり戦う――「聖杯戦争」。\n\nかつて、日本で行
- われた第五次聖杯戦争の終結から幾年。\n新たな聖杯の
- 予兆がアメリカ合衆国西部の都市・スノーフィールド
- に
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -494,12 +485,11 @@ DTSTART;VALUE=DATE:20260307
 DTSTAMP;VALUE=DATE:20260117
 UID:443831-10-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔術師〈マスター〉と英霊〈サーヴ
- ァント〉が、\nあらゆる願いをかなえる願望機「聖杯」
- をめぐり戦う――「聖杯戦争」。\n\nかつて、日本で行
- われた第五次聖杯戦争の終結から幾年。\n新たな聖杯の
- 予兆がアメリカ合衆国西部の都市・スノーフィールド
- に
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -509,12 +499,11 @@ DTSTART;VALUE=DATE:20260314
 DTSTAMP;VALUE=DATE:20260117
 UID:443831-11-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔術師〈マスター〉と英霊〈サーヴ
- ァント〉が、\nあらゆる願いをかなえる願望機「聖杯」
- をめぐり戦う――「聖杯戦争」。\n\nかつて、日本で行
- われた第五次聖杯戦争の終結から幾年。\n新たな聖杯の
- 予兆がアメリカ合衆国西部の都市・スノーフィールド
- に
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -524,12 +513,11 @@ DTSTART;VALUE=DATE:20260321
 DTSTAMP;VALUE=DATE:20260117
 UID:443831-12-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔術師〈マスター〉と英霊〈サーヴ
- ァント〉が、\nあらゆる願いをかなえる願望機「聖杯」
- をめぐり戦う――「聖杯戦争」。\n\nかつて、日本で行
- われた第五次聖杯戦争の終結から幾年。\n新たな聖杯の
- 予兆がアメリカ合衆国西部の都市・スノーフィールド
- に
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -539,12 +527,11 @@ DTSTART;VALUE=DATE:20260328
 DTSTAMP;VALUE=DATE:20260117
 UID:443831-13-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔術師〈マスター〉と英霊〈サーヴ
- ァント〉が、\nあらゆる願いをかなえる願望機「聖杯」
- をめぐり戦う――「聖杯戦争」。\n\nかつて、日本で行
- われた第五次聖杯戦争の終結から幾年。\n新たな聖杯の
- 予兆がアメリカ合衆国西部の都市・スノーフィールド
- に
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1919,12 +1906,11 @@ DTSTART;VALUE=DATE:20260107
 DTSTAMP;VALUE=DATE:20260117
 UID:510753-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「All You Need Is ----」\n\n\nこれは、とあるいかれ
- た世界の話。\n\n少女《プレイヤー》たちが挑むのは、
- 死が隣り合わせのゲーム。\n生還すれば賞金を得るが、
- 万全を尽くしても命を落とすことがある。\n\nそんな世
- 界で、生きていく。\nこの世にはそういう人間たちが確
- かにいる
+DESCRIPTION:「All You Need Is ----」\n\n\n这是某个疯狂世界里的
+ 故事。\n\n少女（玩家）们挑战与死亡比邻的游戏。\n若
+ 能生还便可获得奖金，但哪怕做到万无一失也仍有可能
+ 命丧黄泉。\n\n世上确实存在着这样一群人，\n生活在这
+ 种疯狂世界中。\n\n玩家名：幽鬼（YUKI）。\n职业：杀
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1934,12 +1920,11 @@ DTSTART;VALUE=DATE:20260114
 DTSTAMP;VALUE=DATE:20260117
 UID:510753-2-522825
 CLASS:PUBLIC
-DESCRIPTION:「Chains of ----」\n\n\nこれは、とあるいかれた世
- 界の話。\n\n少女《プレイヤー》たちが挑むのは、死が
- 隣り合わせのゲーム。\n生還すれば賞金を得るが、万全
- を尽くしても命を落とすことがある。\n\nそんな世界で
- 、生きていく。\nこの世にはそういう人間たちが確かに
- いる
+DESCRIPTION:「Chains of ----」\n\n\n这是某个疯狂世界里的故事
+ 。\n\n少女（玩家）们挑战与死亡比邻的游戏。\n若能生
+ 还便可获得奖金，但哪怕做到万无一失也仍有可能命丧
+ 黄泉。\n\n世上确实存在着这样一群人，\n生活在这种疯
+ 狂世界中。\n\n玩家名：幽鬼（YUKI）。\n职业：杀
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1949,11 +1934,11 @@ DTSTART;VALUE=DATE:20260121
 DTSTAMP;VALUE=DATE:20260117
 UID:510753-3-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nこれは、とあるいかれた世界の話。\n
- \n少女《プレイヤー》たちが挑むのは、死が隣り合わせ
- のゲーム。\n生還すれば賞金を得るが、万全を尽くして
- も命を落とすことがある。\n\nそんな世界で、生きてい
- く。\nこの世にはそういう人間たちが確かにいる
+DESCRIPTION:「」\n\n\n这是某个疯狂世界里的故事。\n\n少女
+ （玩家）们挑战与死亡比邻的游戏。\n若能生还便可获得
+ 奖金，但哪怕做到万无一失也仍有可能命丧黄泉。\n\n世
+ 上确实存在着这样一群人，\n生活在这种疯狂世界中。\n\
+ n玩家名：幽鬼（YUKI）。\n职业：杀
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1963,11 +1948,11 @@ DTSTART;VALUE=DATE:20260128
 DTSTAMP;VALUE=DATE:20260117
 UID:510753-4-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nこれは、とあるいかれた世界の話。\n
- \n少女《プレイヤー》たちが挑むのは、死が隣り合わせ
- のゲーム。\n生還すれば賞金を得るが、万全を尽くして
- も命を落とすことがある。\n\nそんな世界で、生きてい
- く。\nこの世にはそういう人間たちが確かにいる
+DESCRIPTION:「」\n\n\n这是某个疯狂世界里的故事。\n\n少女
+ （玩家）们挑战与死亡比邻的游戏。\n若能生还便可获得
+ 奖金，但哪怕做到万无一失也仍有可能命丧黄泉。\n\n世
+ 上确实存在着这样一群人，\n生活在这种疯狂世界中。\n\
+ n玩家名：幽鬼（YUKI）。\n职业：杀
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1977,11 +1962,11 @@ DTSTART;VALUE=DATE:20260204
 DTSTAMP;VALUE=DATE:20260117
 UID:510753-5-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nこれは、とあるいかれた世界の話。\n
- \n少女《プレイヤー》たちが挑むのは、死が隣り合わせ
- のゲーム。\n生還すれば賞金を得るが、万全を尽くして
- も命を落とすことがある。\n\nそんな世界で、生きてい
- く。\nこの世にはそういう人間たちが確かにいる
+DESCRIPTION:「」\n\n\n这是某个疯狂世界里的故事。\n\n少女
+ （玩家）们挑战与死亡比邻的游戏。\n若能生还便可获得
+ 奖金，但哪怕做到万无一失也仍有可能命丧黄泉。\n\n世
+ 上确实存在着这样一群人，\n生活在这种疯狂世界中。\n\
+ n玩家名：幽鬼（YUKI）。\n职业：杀
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1991,11 +1976,11 @@ DTSTART;VALUE=DATE:20260211
 DTSTAMP;VALUE=DATE:20260117
 UID:510753-6-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nこれは、とあるいかれた世界の話。\n
- \n少女《プレイヤー》たちが挑むのは、死が隣り合わせ
- のゲーム。\n生還すれば賞金を得るが、万全を尽くして
- も命を落とすことがある。\n\nそんな世界で、生きてい
- く。\nこの世にはそういう人間たちが確かにいる
+DESCRIPTION:「」\n\n\n这是某个疯狂世界里的故事。\n\n少女
+ （玩家）们挑战与死亡比邻的游戏。\n若能生还便可获得
+ 奖金，但哪怕做到万无一失也仍有可能命丧黄泉。\n\n世
+ 上确实存在着这样一群人，\n生活在这种疯狂世界中。\n\
+ n玩家名：幽鬼（YUKI）。\n职业：杀
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2005,11 +1990,11 @@ DTSTART;VALUE=DATE:20260218
 DTSTAMP;VALUE=DATE:20260117
 UID:510753-7-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nこれは、とあるいかれた世界の話。\n
- \n少女《プレイヤー》たちが挑むのは、死が隣り合わせ
- のゲーム。\n生還すれば賞金を得るが、万全を尽くして
- も命を落とすことがある。\n\nそんな世界で、生きてい
- く。\nこの世にはそういう人間たちが確かにいる
+DESCRIPTION:「」\n\n\n这是某个疯狂世界里的故事。\n\n少女
+ （玩家）们挑战与死亡比邻的游戏。\n若能生还便可获得
+ 奖金，但哪怕做到万无一失也仍有可能命丧黄泉。\n\n世
+ 上确实存在着这样一群人，\n生活在这种疯狂世界中。\n\
+ n玩家名：幽鬼（YUKI）。\n职业：杀
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2019,11 +2004,11 @@ DTSTART;VALUE=DATE:20260225
 DTSTAMP;VALUE=DATE:20260117
 UID:510753-8-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nこれは、とあるいかれた世界の話。\n
- \n少女《プレイヤー》たちが挑むのは、死が隣り合わせ
- のゲーム。\n生還すれば賞金を得るが、万全を尽くして
- も命を落とすことがある。\n\nそんな世界で、生きてい
- く。\nこの世にはそういう人間たちが確かにいる
+DESCRIPTION:「」\n\n\n这是某个疯狂世界里的故事。\n\n少女
+ （玩家）们挑战与死亡比邻的游戏。\n若能生还便可获得
+ 奖金，但哪怕做到万无一失也仍有可能命丧黄泉。\n\n世
+ 上确实存在着这样一群人，\n生活在这种疯狂世界中。\n\
+ n玩家名：幽鬼（YUKI）。\n职业：杀
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2033,11 +2018,11 @@ DTSTART;VALUE=DATE:20260304
 DTSTAMP;VALUE=DATE:20260117
 UID:510753-9-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nこれは、とあるいかれた世界の話。\n
- \n少女《プレイヤー》たちが挑むのは、死が隣り合わせ
- のゲーム。\n生還すれば賞金を得るが、万全を尽くして
- も命を落とすことがある。\n\nそんな世界で、生きてい
- く。\nこの世にはそういう人間たちが確かにいる
+DESCRIPTION:「」\n\n\n这是某个疯狂世界里的故事。\n\n少女
+ （玩家）们挑战与死亡比邻的游戏。\n若能生还便可获得
+ 奖金，但哪怕做到万无一失也仍有可能命丧黄泉。\n\n世
+ 上确实存在着这样一群人，\n生活在这种疯狂世界中。\n\
+ n玩家名：幽鬼（YUKI）。\n职业：杀
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2047,11 +2032,11 @@ DTSTART;VALUE=DATE:20260311
 DTSTAMP;VALUE=DATE:20260117
 UID:510753-10-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nこれは、とあるいかれた世界の話。\n
- \n少女《プレイヤー》たちが挑むのは、死が隣り合わせ
- のゲーム。\n生還すれば賞金を得るが、万全を尽くして
- も命を落とすことがある。\n\nそんな世界で、生きてい
- く。\nこの世にはそういう人間たちが確かにいる
+DESCRIPTION:「」\n\n\n这是某个疯狂世界里的故事。\n\n少女
+ （玩家）们挑战与死亡比邻的游戏。\n若能生还便可获得
+ 奖金，但哪怕做到万无一失也仍有可能命丧黄泉。\n\n世
+ 上确实存在着这样一群人，\n生活在这种疯狂世界中。\n\
+ n玩家名：幽鬼（YUKI）。\n职业：杀
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2061,11 +2046,11 @@ DTSTART;VALUE=DATE:20260318
 DTSTAMP;VALUE=DATE:20260117
 UID:510753-11-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nこれは、とあるいかれた世界の話。\n
- \n少女《プレイヤー》たちが挑むのは、死が隣り合わせ
- のゲーム。\n生還すれば賞金を得るが、万全を尽くして
- も命を落とすことがある。\n\nそんな世界で、生きてい
- く。\nこの世にはそういう人間たちが確かにいる
+DESCRIPTION:「」\n\n\n这是某个疯狂世界里的故事。\n\n少女
+ （玩家）们挑战与死亡比邻的游戏。\n若能生还便可获得
+ 奖金，但哪怕做到万无一失也仍有可能命丧黄泉。\n\n世
+ 上确实存在着这样一群人，\n生活在这种疯狂世界中。\n\
+ n玩家名：幽鬼（YUKI）。\n职业：杀
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
