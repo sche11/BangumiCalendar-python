@@ -655,11 +655,11 @@ DTSTART;VALUE=DATE:20260228
 DTSTAMP;VALUE=DATE:20260228
 UID:443831-9-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
- 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
- —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
- 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
- —雪原市（Snowfield），观测
+DESCRIPTION:「恶梦随伦敦的拂晓来临」\n\n\n魔术师〈Master
+ 〉与英灵〈Servant〉为了争夺能实现一切愿望的愿望机「
+ 圣杯」，而彼此厮杀——这便是「圣杯战争」。\n\n在日
+ 本进行的第五次圣杯战争落下帷幕的几年之后。\n在美利
+ 坚合众国西部的城市——雪原市（Snowfield），观测
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2948,7 +2948,7 @@ DTSTART;VALUE=DATE:20260228
 DTSTAMP;VALUE=DATE:20260228
 UID:526448-19-522825
 CLASS:PUBLIC
-DESCRIPTION:「尾声」\n\n\n故事发生在一艘漂流的太空船上
+DESCRIPTION:「后记」\n\n\n故事发生在一艘漂流的太空船上
  。由于一种“会伪装成人类来袭击人类的未知敌人”—
  —「古诺希亚」混入船内，互相猜疑的乘员们决定每天
  投票选出一名可疑人物，让其进入冷冻睡眠。\n如果能让
