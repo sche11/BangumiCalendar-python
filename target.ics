@@ -205,11 +205,25 @@ DTSTART;VALUE=DATE:20260319
 DTSTAMP;VALUE=DATE:20260404
 UID:551918-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「飙马野郎」\n\n\n1890年のアメリカ。\n総距離
- 約4\,000マイル、賞金総額5\,000万ドル、\n人類史上初の乗
- 馬による北米大陸横断レース\n「スティール・ボール・
- ラン」が\n開催されようとしていた。\nかつて天才騎手
- と呼ばれながらも、\n半身不随となり、
+DESCRIPTION:「飙马野郎」\n\n\n1890年のアメリカ。総距離約4
+ \,000マイル、賞金総額5\,000万ドル、\n人類史上初の乗馬
+ による北米大陸横断レース「スティール・ボール・ラ
+ ン」が開催されようとしていた。\n\nかつて天才騎手と
+ 呼ばれながらも、半身不随となり、失意の中にい
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:飙马野郎 JOJO的奇妙冒险 2
+DTSTART;VALUE=DATE:20260519
+DTSTAMP;VALUE=DATE:20260404
+UID:551918-2-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n1890年のアメリカ。総距離約4\,000マイ
+ ル、賞金総額5\,000万ドル、\n人類史上初の乗馬による北
+ 米大陸横断レース「スティール・ボール・ラン」が開
+ 催されようとしていた。\n\nかつて天才騎手と呼ばれな
+ がらも、半身不随となり、失意の中にい
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
