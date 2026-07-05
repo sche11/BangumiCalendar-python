@@ -173,6 +173,20 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:二十世纪电气目录 13
+DTSTART;VALUE=DATE:20260927
+DTSTAMP;VALUE=DATE:20260705
+UID:255209-13-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n煙が覆う世界で電氣の時代を夢見た
+ 、\n少年少女の冒険奇譚！\n\n煙が覆う世界で電氣の時
+ 代を夢見た、少年少女の冒険奇譚！ \nこれは少し昔。\n
+ 今ある歴史とは異なる進化を遂げた、20世紀初頭の京都
+ 。\n蒸気機関のみが発達した世界で、街は煙に
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:魔法少女奈叶 EXCEEDS Gun Blaze Vengeance 1
 DTSTART;VALUE=DATE:20260704
 DTSTAMP;VALUE=DATE:20260705
@@ -1456,12 +1470,12 @@ DTSTART;VALUE=DATE:20260705
 DTSTAMP;VALUE=DATE:20260705
 UID:598058-1-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n中学で失恋100回を達成した愛城恋太
- 郎は、高校でこそ彼女を！と願い訪れた神社で、現れ
- た恋の神様から「高校で出会う運命の人は100人いる」
- と告げられる。\nしかし神様いわく、運命の人と出会っ
- た人間は、その相手と愛し合って幸せになれなければ
- 死ん
+DESCRIPTION:「表妹女朋友」\n\n\n中学で失恋100回を達成し
+ た愛城恋太郎は、高校でこそ彼女を！と願い訪れた神
+ 社で、現れた恋の神様から「高校で出会う運命の人は10
+ 0人いる」と告げられる。\nしかし神様いわく、運命の
+ 人と出会った人間は、その相手と愛し合って幸せにな
+ れなければ死ん
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3583,6 +3597,21 @@ SUMMARY:Clevatess II-魔兽之王与虚假的勇者传承- 12
 DTSTART;VALUE=DATE:20260923
 DTSTAMP;VALUE=DATE:20260705
 UID:585820-12-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n勇者艾莉西亚讨伐了多雷尔将军，亥
+ 登与伯雷特之间的战争也随之划下句点。在包含伊斯林
+ 在内的三国会谈中，成为争论焦点的，是多雷尔留下的
+ 「秘密房间」。为了这个房间的存在，各国使者接连造
+ 访位于伯雷特的神学院索歇因。而在这些人之中，也有
+ 已成为卢纳专属魔
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clevatess II-魔兽之王与虚假的勇者传承- 13
+DTSTART;VALUE=DATE:20260930
+DTSTAMP;VALUE=DATE:20260705
+UID:585820-13-522825
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n勇者艾莉西亚讨伐了多雷尔将军，亥
  登与伯雷特之间的战争也随之划下句点。在包含伊斯林
