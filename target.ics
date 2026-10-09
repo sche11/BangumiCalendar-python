@@ -2349,11 +2349,12 @@ DTSTART;VALUE=DATE:20261009
 DTSTAMP;VALUE=DATE:20261009
 UID:639938-3-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n総距離約750マイルの砂漠越え――\n\n
- ジョニィ・ジョースターとジャイロ・ツェペリが挑む
- その砂漠には“悪魔の手のひら”と恐れられる土地が
- 存在した。\n\nさらに、不穏な事件が巻き起こり、この
- レースがただの競技大会ではないことを思い知らされ
+DESCRIPTION:「恶魔之掌」\n\n\n総距離約750マイルの砂漠越
+ え――\n\nジョニィ・ジョースターとジャイロ・ツェペ
+ リが挑むその砂漠には“悪魔の手のひら”と恐れられ
+ る土地が存在した。\n\nさらに、不穏な事件が巻き起こ
+ り、このレースがただの競技大会ではないことを思い
+ 知らされ
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2460,6 +2461,20 @@ SUMMARY:飙马野郎 JOJO的奇妙冒险 第二&第三赛段 11
 DTSTART;VALUE=DATE:20261204
 DTSTAMP;VALUE=DATE:20261009
 UID:639938-11-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n総距離約750マイルの砂漠越え――\n\n
+ ジョニィ・ジョースターとジャイロ・ツェペリが挑む
+ その砂漠には“悪魔の手のひら”と恐れられる土地が
+ 存在した。\n\nさらに、不穏な事件が巻き起こり、この
+ レースがただの競技大会ではないことを思い知らされ
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:飙马野郎 JOJO的奇妙冒险 第二&第三赛段 0
+DTSTART;VALUE=DATE:20260925
+DTSTAMP;VALUE=DATE:20261009
+UID:639938-0-522825
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n総距離約750マイルの砂漠越え――\n\n
  ジョニィ・ジョースターとジャイロ・ツェペリが挑む
