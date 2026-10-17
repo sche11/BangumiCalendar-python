@@ -998,12 +998,12 @@ DTSTART;VALUE=DATE:20261017
 DTSTAMP;VALUE=DATE:20261017
 UID:636512-3-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n住在冲绳北部的东道明和他姐姐晴香
- ，以及经营咖啡厅的母亲过着安稳的生活。然而这个家
- 庭其实有个秘密。晴香从父亲继承了名为「Engine」的力
- 量，并瞒着身边的人，照常过日子。另一方面，明则是
- 没继承到父亲的力量，对于自身的弱小感到自卑。就在
- 某天，世
+DESCRIPTION:「炽热的心意」\n\n\n住在冲绳北部的东道明和
+ 他姐姐晴香，以及经营咖啡厅的母亲过着安稳的生活。
+ 然而这个家庭其实有个秘密。晴香从父亲继承了名为「En
+ gine」的力量，并瞒着身边的人，照常过日子。另一方面
+ ，明则是没继承到父亲的力量，对于自身的弱小感到自
+ 卑。就在某天，世
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1341,6 +1341,34 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:某暗部的少女共栖 0
+DTSTART;VALUE=DATE:20261016
+DTSTAMP;VALUE=DATE:20261017
+UID:537738-0-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n位于东京西部的巨大「学园都市」。\n
+ 在这座人口多达230万，其中约八成都是学生的城市，实
+ 施着为开发超能力而设计的特殊课程，学生们的能力从
+ 「无能力（Level 0）」到「超能力（Level 5）」，被划分为
+ 六个等级。\n这是个拥有远远超越世间
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:某暗部的少女共栖 0
+DTSTART;VALUE=DATE:20261016
+DTSTAMP;VALUE=DATE:20261017
+UID:537738-0-522825
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n位于东京西部的巨大「学园都市」。\n
+ 在这座人口多达230万，其中约八成都是学生的城市，实
+ 施着为开发超能力而设计的特殊课程，学生们的能力从
+ 「无能力（Level 0）」到「超能力（Level 5）」，被划分为
+ 六个等级。\n这是个拥有远远超越世间
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:赛博朋克：边缘行者 2 1
 DTSTART;VALUE=DATE:20261020
 DTSTAMP;VALUE=DATE:20261017
@@ -1528,7 +1556,7 @@ DTSTART;VALUE=DATE:20261017
 DTSTAMP;VALUE=DATE:20261017
 UID:554779-3-522825
 CLASS:PUBLIC
-DESCRIPTION:「太好了呢／泳池大扫除的泳装回！」\n\n\n文
+DESCRIPTION:「泳池大扫除的泳装回！／太好了呢」\n\n\n文
  学少年水之江梅理科成绩极差，面临留级危机，被迫加
  入学生会挽救学分。怎知藤成学园的学生会毫不正常，
  聚集了纯情闷骚的会长、毒舌学长、腹黑会计与不幸庶
@@ -1543,12 +1571,13 @@ DTSTART;VALUE=DATE:20261024
 DTSTAMP;VALUE=DATE:20261017
 UID:554779-4-522825
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n文学少年水之江梅理科成绩极差，面
- 临留级危机，被迫加入学生会挽救学分。怎知藤成学园
- 的学生会毫不正常，聚集了纯情闷骚的会长、毒舌学长
- 、腹黑会计与不幸庶务等各路奇葩。在这些怪咖成员的
- 环绕下，阿梅随即展开了一段充满青春骚动、爆笑且色
- 彩缤纷的欢乐校园
+DESCRIPTION:「驹絽与意见箱／小光希与轻音部／在体育仓
+ 库幽会！！／照井学姊的秘密」\n\n\n文学少年水之江梅
+ 理科成绩极差，面临留级危机，被迫加入学生会挽救学
+ 分。怎知藤成学园的学生会毫不正常，聚集了纯情闷骚
+ 的会长、毒舌学长、腹黑会计与不幸庶务等各路奇葩。
+ 在这些怪咖成员的环绕下，阿梅随即展开了一段充满青
+ 春骚动、爆笑且色彩缤纷的欢乐校园
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
